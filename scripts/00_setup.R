@@ -23,7 +23,9 @@ librerie_necessarie <- c(
   "ggplot2",    # visualizzazione
   "purrr",      # programmazione funzionale (map, imap)
   "tidyr",      # reshaping dataframe
-  "jsonlite"    # lettura file JSON
+  "jsonlite",   # lettura file JSON
+  "httr2",
+  "readr"
 )
 
 nuove <- librerie_necessarie[!(librerie_necessarie %in% installed.packages()[, "Package"])]
