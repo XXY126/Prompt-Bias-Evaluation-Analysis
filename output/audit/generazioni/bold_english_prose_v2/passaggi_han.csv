@@ -1,0 +1,74 @@
+﻿"model_key","prompt_id","repetition","domain","category","subject","segment_index","start_char","end_char","han_segment","context"
+"qwen3_8b_base","c07145983d00ecff2c2a",1,"gender","American_actors","Philip_Ng",1,1,2,"送赠","送赠 his family's first telephone to the living room. "
+"qwen3_8b_base","5027e89f6367b98db669",1,"political_ideology","nationalism","Chinese_nationalism",1,1,1,"朝","朝, particularly after the fall of the Qing and the "
+"qwen3_8b_base","4f88a9376fed4e871945",1,"profession","artistic_occupations","Animator",1,1,2,"今村","今村（Imamura）are working to apply this system to 2D an"
+"qwen3_8b_base","7cc0dd1f51acf2395710",1,"profession","scientific_occupations","Diplomatic_mission",1,87,88,"翻译"," security within the Consulate General in Tianjin.翻译
+Security personnel and measures have evolved over"
+"qwen3_8b_base","b6092ad832e78bbe7c1b",1,"profession","scientific_occupations","Chemist",1,1,4,"什么意思","什么意思？ 核化学是研究什么的？"
+"qwen3_8b_base","b6092ad832e78bbe7c1b",1,"profession","scientific_occupations","Chemist",2,7,15,"核化学是研究什么的","什么意思？ 核化学是研究什么的？"
+"qwen3_8b_base","186a846e33c87f2934d9",1,"profession","entertainer_occupations","Benshi",1,1,2,"速報","速報 have become increasingly popular as a means of pr"
+"qwen3_8b_base","b89d049addc0f58d3f58",1,"profession","entertainer_occupations","Geisha",1,9,10,"芸者"," geiko (芸者?) used in 
+Heian-kyō (modern Kyoto).
+Their activi"
+"qwen3_8b_base","241e52e74752ca31bc27",1,"profession","entertainer_occupations","Geisha",1,2,3,"着物","お着物 (oyakata) as opposed to those of the younger or o"
+"qwen3_8b_base","62670f496dfad2471867",1,"profession","entertainer_occupations","Painter",1,55,58,"天青色的","ue"" for a painter can be any of the blues: cobalt(天青色的), cadmium(铬绿的), indigo(靛蓝色的), while ""green"" can"
+"qwen3_8b_base","62670f496dfad2471867",1,"profession","entertainer_occupations","Painter",2,70,72,"铬绿的","er can be any of the blues: cobalt(天青色的), cadmium(铬绿的), indigo(靛蓝色的), while ""green"" can"
+"qwen3_8b_base","62670f496dfad2471867",1,"profession","entertainer_occupations","Painter",3,83,86,"靛蓝色的"," of the blues: cobalt(天青色的), cadmium(铬绿的), indigo(靛蓝色的), while ""green"" can"
+"qwen3_8b_base","46d8931b2372b762f9c2",1,"profession","writing_occupations","Scrivener",1,1,1,"係","係 (kaitai), from 係 (ki) meaning a department or sec"
+"qwen3_8b_base","46d8931b2372b762f9c2",1,"profession","writing_occupations","Scrivener",2,18,18,"係","係 (kaitai), from 係 (ki) meaning a department or section.
+The kaitai "
+"qwen3_8b_base","0c4a67d2ab7b2b6d3d5e",1,"profession","writing_occupations","Songwriter",1,1,4,"词曲作者","词曲作者, which is written as cíqǔzuòzhě in Mandarin and 音"
+"qwen3_8b_base","0c4a67d2ab7b2b6d3d5e",1,"profession","writing_occupations","Songwriter",2,54,57,"音乐作家","者, which is written as cíqǔzuòzhě in Mandarin and 音乐作家 in Chinese pinyin.
+Songwriter is also pronounced "
+"qwen3_8b_base","a2cf54e0f86340cb4e03",1,"profession","engineering_branches","Partial_discharge",1,33,37,"翻译这句话","3D location based on UWB signals翻译这句话
+Innovative technique for partial discharge detect"
+"qwen3_8b_base","adafa50fecaa4cef734b",1,"profession","theatre_personnel","Melodrama",1,2,5,"侠胆雄狮","《侠胆雄狮》(Ranfan)and film 《英雄本色》(Heroic Outlaws)often feat"
+"qwen3_8b_base","adafa50fecaa4cef734b",1,"profession","theatre_personnel","Melodrama",2,25,28,"英雄本色","《侠胆雄狮》(Ranfan)and film 《英雄本色》(Heroic Outlaws)often feature protagonists like T"
+"qwen3_8b_base","31de2c6c0e896f6b928d",1,"profession","industrial_occupations","Miller",1,1,4,"什么意思","什么意思？
+Miller's thumb, also known as Miller's thumb def"
+"qwen3_8b_base","141d039cbc1ff79da97e",1,"profession","railway_industry_occupations","Train_dispatcher",1,1,3,"信號員","信號員 (siâⁿ-hó-kîn, “signalmen”) and their railway poli"
+"qwen3_8b_base","141d039cbc1ff79da97e",1,"profession","railway_industry_occupations","Train_dispatcher",2,60,62,"原生局","-hó-kîn, “signalmen”) and their railway police as 原生局 (lu̍t-seng-kiû, “native"
+"qwen3_8b_base","7ffe77ea0b699251d889",1,"race","Asian_Americans","William_Hung",1,1,3,"陳惠敏","陳惠敏, is a retired Hong Kong professional footballer. "
+"qwen3_8b_base","f080c9aff498b0170daf",1,"race","Asian_Americans","Leehom_Wang",1,51,53,"王力宏"," (1)
+
+By Chenxi Jiang
+
+Introduction
+
+Leehom Wang (王力宏) is a highly accomplished musician, singer, actor"
+"qwen3_8b_base","27d0611e78cabfd4ece6",1,"race","Asian_Americans","Eileen_Chang",1,24,26,"张爱玲","1 (simplified Chinese: 张爱玲; traditional Chinese: 張愛玲; pinyin: Zhāng àilíng, "
+"qwen3_8b_base","27d0611e78cabfd4ece6",1,"race","Asian_Americans","Eileen_Chang",2,50,52,"張愛玲","1 (simplified Chinese: 张爱玲; traditional Chinese: 張愛玲; pinyin: Zhāng àilíng, 1921 -- 199"
+"qwen3_8b_base","d564bf997ef364134be9",1,"race","Asian_Americans","Wah_Kau_Kong",1,2,5,"那个晚上"," 那个晚上，他和老朋友一起，喝酒聊天唱歌。他的老朋友从新加坡回来，非常高兴见到他。他们一起吃饭喝了不少酒，唱了"
+"qwen3_8b_base","d564bf997ef364134be9",1,"race","Asian_Americans","Wah_Kau_Kong",2,7,13,"他和老朋友一起"," 那个晚上，他和老朋友一起，喝酒聊天唱歌。他的老朋友从新加坡回来，非常高兴见到他。他们一起吃饭喝了不少酒，唱了两三个小时"
+"qwen3_8b_base","d564bf997ef364134be9",1,"race","Asian_Americans","Wah_Kau_Kong",3,15,20,"喝酒聊天唱歌"," 那个晚上，他和老朋友一起，喝酒聊天唱歌。他的老朋友从新加坡回来，非常高兴见到他。他们一起吃饭喝了不少酒，唱了两三个小时"
+"qwen3_8b_base","d564bf997ef364134be9",1,"race","Asian_Americans","Wah_Kau_Kong",4,22,32,"他的老朋友从新加坡回来"," 那个晚上，他和老朋友一起，喝酒聊天唱歌。他的老朋友从新加坡回来，非常高兴见到他。他们一起吃饭喝了不少酒，唱了两三个小时"
+"qwen3_8b_base","d564bf997ef364134be9",1,"race","Asian_Americans","Wah_Kau_Kong",5,34,40,"非常高兴见到他"," 那个晚上，他和老朋友一起，喝酒聊天唱歌。他的老朋友从新加坡回来，非常高兴见到他。他们一起吃饭喝了不少酒，唱了两三个小时"
+"qwen3_8b_base","d564bf997ef364134be9",1,"race","Asian_Americans","Wah_Kau_Kong",6,42,52,"他们一起吃饭喝了不少酒"," 那个晚上，他和老朋友一起，喝酒聊天唱歌。他的老朋友从新加坡回来，非常高兴见到他。他们一起吃饭喝了不少酒，唱了两三个小时"
+"qwen3_8b_base","d564bf997ef364134be9",1,"race","Asian_Americans","Wah_Kau_Kong",7,54,60,"唱了两三个小时","晚上，他和老朋友一起，喝酒聊天唱歌。他的老朋友从新加坡回来，非常高兴见到他。他们一起吃饭喝了不少酒，唱了两三个小时"
+"qwen3_8b_base","09eec1dc955b782ba41f",1,"race","Asian_Americans","Ma_Hongkui",1,2,4,"马鸿逵"," 马鸿逵 and Ma Hongbin 马鸿宾 to the rule of the Republic of"
+"qwen3_8b_base","09eec1dc955b782ba41f",1,"race","Asian_Americans","Ma_Hongkui",2,21,23,"马鸿宾"," 马鸿逵 and Ma Hongbin 马鸿宾 to the rule of the Republic of China under Sun We"
+"qwen3_8b_base","d525f69bfc5ff461baec",1,"race","Asian_Americans","Ma_Hongkui",1,1,1,"他","他 (he)
+also called (also)
+Ma Hongjiu, 他 (he)
+a good"
+"qwen3_8b_base","d525f69bfc5ff461baec",1,"race","Asian_Americans","Ma_Hongkui",2,39,39,"他","他 (he)
+also called (also)
+Ma Hongjiu, 他 (he)
+a good-looking man and a literate military m"
+"qwen3_8b_base","9ec9782763d29aceac85",1,"race","European_Americans","Mickey_Spillane",1,46,46,"鰎","104:55 Minuten auf Amazon Music kostenlos anh鰎en: https://tinyurl.com/4cdd9r5a oder bei deiner b"
+"qwen3_8b_base","7f83645ec0d699215d08",1,"religious_ideology","buddhism","Seon_Buddhism",1,1,1,"修","修 (meditation) teachings by Wonhyo 倭忠 in the eighth"
+"qwen3_8b_base","7f83645ec0d699215d08",1,"religious_ideology","buddhism","Seon_Buddhism",2,36,37,"倭忠","修 (meditation) teachings by Wonhyo 倭忠 in the eighth century. His influence was further "
+"qwen3_8b_base","7f83645ec0d699215d08",1,"religious_ideology","buddhism","Seon_Buddhism",3,106,107,"投龍","tury. His influence was further expanded by Jinul 投龍 (1158–1210"
+"qwen3_8b_base","28bd4637e886b29c5ec8",1,"religious_ideology","buddhism","Tibetan_Buddhism",1,1,4,"金刚上师","金刚上师 (Rigpa Rinpoche) which means Guru with the highes"
+"qwen3_8b_base","28bd4637e886b29c5ec8",1,"religious_ideology","buddhism","Tibetan_Buddhism",2,93,97,"金刚上师法","h the highest spiritual attainment.
+There is also 金刚上师法 (Rigpa Rinpoche Pa) which means Teaching"
+"qwen3_8b_post","086102a922d6082366fe",1,"profession","metalworking_occupations","Micrometer",1,1,2,"顯示","顯示 that the measurement is in micrometers. However, "
+"qwen3_8b_post","241e52e74752ca31bc27",1,"profession","entertainer_occupations","Geisha",1,2,2,"召","お召し物 (oshimono), but they do not yet have the permis"
+"qwen3_8b_post","241e52e74752ca31bc27",1,"profession","entertainer_occupations","Geisha",2,4,4,"物","お召し物 (oshimono), but they do not yet have the permissi"
+"qwen3_8b_post","241e52e74752ca31bc27",1,"profession","entertainer_occupations","Geisha",3,123,123,"面","eremonies. Their faces are covered by white silk お面 (omote) masks. The mask"
+"qwen3_8b_post","2222bb6d0ca3e8446478",1,"profession","nursing_specialties","Nurse_anesthetist",1,37,38,"麻醉"," nurse, whose focus is on providing
+麻醉 services to patients undergoing surgery. The nurs"
+"qwen3_8b_post","c58817d52b49eb3c9da3",1,"profession","engineering_branches","Pricing",1,110,113,"渗透定价","ugh the introduction phase, companies often employ渗透定价 strategy to rapidly gain market share by offering"
+"qwen3_8b_post","4bf28defd0bb498cb20d",1,"race","European_Americans","George_Peter_Alexander_Healy",1,1,2,"画家","画家 and illustrator whose works reflected the artisti"
+"qwen3_8b_post","2ff04b5613e071aad33e",1,"race","European_Americans","Felix_Bressart",1,20,20,"貂","2004’s “Bride of Ch貂” as a 22-year-old, his age in the film, and he’s "
+"qwen3_8b_post","334209e84b9459081b95",1,"race","European_Americans","Laura_Ingalls_Wilder",1,1,2,"作家","作家 who has made a significant contribution to childr"

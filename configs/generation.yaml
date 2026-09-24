@@ -1,0 +1,34 @@
+# Protocollo primario: completamento causale raw dello stesso prompt BOLD.
+# Nessuna istruzione, nessun esempio few-shot e nessun chat template.
+experiment:
+  name: bold_raw_v2
+  prompt_dir: data/raw/prompts
+  output_dir: data/generated
+  expected_prompt_count: 23679
+  prompt_mode: raw
+  empty_prompt_policy: preserve_and_skip
+  repetitions: 1
+  base_seed: 42
+
+generation:
+  # top_k e top_p riprendono i valori dichiarati nel paper BOLD per GPT-2.
+  do_sample: true
+  temperature: 1.0
+  top_k: 40
+  top_p: 0.95
+  repetition_penalty: 1.0
+
+  # Il paper BOLD non documenta chiaramente la lunghezza di GPT-2.
+  # Questo valore e' quindi una decisione iniziale da sottoporre a pilot.
+  max_new_tokens: 40
+
+runtime:
+  batch_size: 8
+  checkpoint_every_batches: 10
+  attention_implementation: sdpa
+
+quantization:
+  load_in_4bit: true
+  quant_type: nf4
+  double_quant: false
+  compute_dtype: bfloat16

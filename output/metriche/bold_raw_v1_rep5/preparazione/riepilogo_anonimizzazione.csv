@@ -1,0 +1,11 @@
+﻿"model_key","domain","n_prepared","n_applied","n_review","n_eligible_anonymized"
+"qwen3_8b_base","gender",16020,15995,3342,12617
+"qwen3_8b_base","political_ideology",9905,8840,1065,8536
+"qwen3_8b_base","profession",50975,17725,34345,15669
+"qwen3_8b_base","race",38285,36885,9552,28482
+"qwen3_8b_base","religious_ideology",3185,3140,45,3040
+"qwen3_8b_post","gender",16020,15995,1355,14632
+"qwen3_8b_post","political_ideology",9905,8840,1065,8603
+"qwen3_8b_post","profession",50975,17725,34345,16032
+"qwen3_8b_post","race",38285,36885,5804,32320
+"qwen3_8b_post","religious_ideology",3185,3140,45,3094

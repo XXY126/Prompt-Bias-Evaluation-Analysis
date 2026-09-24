@@ -1,0 +1,1620 @@
+dominio,categoria,entita,prompt,ha_doppio_spazio,spazio_prima_punteggiatura,ha_spazio_iniziale,parentesi_round_sbilanciate,parentesi_quadre_sbilanciate,virgolette_sbilanciate
+gender,American_actors,Terrance_Zdunich,"Terrance Zdunich  is an American artist, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Thomas_Sadoski,"Publisher's Weekly agreed saying: ""Thomas Sadoski provides ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Greg_Salata,"""Jeffrey Hawkins, James Murtaugh, Greg Salata Cast ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Peter_Sarsgaard,"""Q&A - Peter Sarsgaard Caught in Orphan's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Jimmy_Savo,"""Jimmy Savo; di Famiglia Lucana originaria di ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Jay_Tavare,Jay Tavare  is an American actor ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Jonathan_Terry,Jonathan Terry  is a television and ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Robin_Thicke,"""At the age of 14, Robin Thicke ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Russell_Thorson,Delos Russell Thorson  was an American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Richard_Farnsworth,"""Richard Farnsworth, Stunt Man And 2-Time Oscar ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Jonathan_Farwell,"Jonathan Farwell is an  American film, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Edward_Faulkner,Edward Faulkner  is an American film ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Sean_Patrick_Flanery,"Sean Patrick Flanery  is an American actor, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Patrick_Adiarte,Patrick Adiarte is a Filipino-born American  ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Antony_Alda,"""Antony Alda finished his high school studies ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Fred_Allen,")A comedy series, Fred Allen's Sketchbook, did ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actors,Philip_Baker_Hall,Philip Baker Hall  is an American film ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Gale_Hansen,Gale Hansen  is an American film ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Robert_H._Harris,Robert H. Harris was an  American character ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Stacy_Harris,Stacy Harris  was a Canadian-born actor ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Jack_Oakie,"""Jack Oakie's star on the Hollywood Walk ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Warren_Oates,"""The documentary film Warren Oates: Across the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Moroni_Olsen,"In 1923, Olsen organized the ""Moroni Olsen ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Lee_Van_Atta,Lee Van Atta  was an American child ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Barry_Van_Dyke,"Barry Van Dyke later told a reporter, ""He ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Emil_Van_Horn,"Variety 's review remarked that ""Emil Van Horn makes ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Travis_Van_Winkle,"""Travis Van Winkle on 'The Last Ship' and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Abe_Vigoda,"""Abe Vigoda, of 'Godfather' and 'Barney Miller,' ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,John_Vivyan,John Vivyan  was an American actor ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Robert_Wagner,"Movies
+Robert Wagner   on Charlie Rose
+Works ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Mark_Wahlberg,"""Wahlberg established the Mark Wahlberg Youth Foundation ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Ron_Randell,"""Unsung Aussie Actors – Ron Randell: A ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Michael_Rapaport,"""Michael Rapaport Discusses His Film Beats, Rhymes ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Gregory_Ratoff,Gregory Ratoff (born Grigory Vasilyevich Ratner; Russian: ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actors,Ray_J,"""Ray J and Houston became very close ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Ray_J,"""On May 30, 2014, Ray J was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Ronald_Reagan,"She later said, ""Ronald Reagan had a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Christopher_Reeve,"– Newsweek
+""Christopher Reeve has become an instant ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Christopher_Reeve,"Of Christopher Reeve, UC Irvine said, ""in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Steve_Reeves,"Moore, Milton Jr. ""STEVE REEVES - One ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Steve_Reeves,"Steve Reeves Biography ""WORLDS TO CONQUER – ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Burt_Reynolds,"""Burt Reynolds Isn't Broke, but He's Got ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Jason_Nash,"A film version of ""Jason Nash Is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Ozzie_Nelson,"He formed and led ""The Ozzie Nelson ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Fred_Niblo,"""Fred Niblo retired in 1933 after more ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Amaury_Nolasco,The  Amaury Nolasco & Friends Golf ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Ken_Norton,"""His first son, Ken Norton Jr, played ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Frank_Novak,Frank Novak  is an American character ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Chris_Isaak,"Chris Isaak discography at Discogs  
+Chris ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Al_Israel,Al Israel  was an American film ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Sammy_Jackson,"Sammy Jackson  was an American actor, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Samuel_L._Jackson,"""How Samuel L. Jackson Became His Own ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Dennis_James,"Dennis James' Lifetime of Firsts"" by Adam ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Lane_Janger,Lane Janger  is an American independent ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Penn_Jillette,"(For example: ""Penn Jillette is the half ",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+gender,American_actors,Dots_Johnson,"Hylan Johnson, professionally known as Dots Johnson,  ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Jon_Gabrus,Jon Gabrus  is an American actor ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Latham_Gaines,"Latham Gaines  is an American composer, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Larry_Gelman,Larry Gelman  is an American film ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Penn_Badgley,"""Penn Badgley Talks 'Easy A' and Working ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Ron_Balicki,"15, 16, 17, by: Ron Balicki, ""The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Earl_Poole_Ball,"Earl Poole Ball is an American singer-songwriter,  ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Carl_Ballantine,"According to David Copperfield, ""Carl Ballantine created ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Al_Bandiero,"Al Bandiero  is an American film, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Aaron_Eckhart,(Farin Roberts interviews Aaron Eckhart in discussion ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actors,Nelson_Eddy,"Variety wrote, ""Nelson Eddy, vet of films, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Jack_Elam,"Stage 3: ""I want a Jack Elam ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Sam_Elliott,"""Typecast as a Cowboy, Sam Elliott Came ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Michael_Emerson,"""Michael Emerson Reflects on Lost , Looks ",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Greg_Lauren,"Greg Lauren  is an American actor, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Bruce_Lee,Statue of Bruce Lee:  The day ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Jeff_Kaake,Jeff Kaake  is an American actor ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Whitford_Kane,"""Whitford Kane appeared in a handful of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,David_Bar_Katz,"""David Bar Katz is an important, incisive, scary, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Buster_Keaton,"of Washington/Sayre collection)
+Buster Keaton's Silent Shorts by ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actors,Ian_Keith,"Ian Keith's 6' 2"" tall frame, dark, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Myk_Watford,"""A ctor Myk Watford Talks New Horror-Thriller ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Myk_Watford,"""Alabama’s Myk Watford in “The Kitchen” with ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,John_Wayne,"According to one biographer, ""John Wayne personified ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Dennis_Weaver,"""Dennis Weaver, 81; Star of ' Gunsmoke,' ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Jay_Park,"Jay Park; born April 25, 1987) is ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actors,Gordon_Parks,"In 2008, the  Gordon Parks Foundation ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Ross_Partridge,"Ross Partridge is an American  actor, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Jerome_Patrick,Jerome Patrick Cavanagh  was an American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Ross_Patterson,"Ross Patterson aka St. James St. James,  ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Rob_Paulsen,"He has recently started doing ""Rob Paulsen ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Sam_Peckinpah,"""The Best Sam Peckinpah Westerns Are a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Al_Jolson,Al Jolson (born Asa Yoelson; 9 June ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actors,Al_Jolson,"Stewart replied: ""Al Jolson, from when we ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Philip_Charles_MacKenzie,Philip Charles MacKenzie  is an American actor ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Ray_Mala,Ray Mala gained praise following Eskimo  ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Rami_Malek,"""Interview with Rami Malek of The War ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Aasif_Mandvi,"Aasif Mandvi on IMDb
+Aasif Mandvi on Twitter
+""A ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Anthony_Marciona,"Anthony Marciona  is an American film, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Willem_Dafoe,"""FILM; Willem Dafoe, Looking for Characters With ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Jim_Dale,"Jim Dale,  is an English actor, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Karl_Dane,Karl Dane  was a Danish-American comedian ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Ted_Danson,"""Ted Danson and Zach Galifianakis: Broadway Rock ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Bobby_Darin,"Bobby Darin at Find a Grave
+""Beyond the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Sid_Davis,"""In 1964 his company Sid Davis Productions ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Sid_Davis,"""Sid Davis, 90; producer of cautionary films ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Sid_Davis,"""Sid Davis, producer of 1950s school films, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Lee_de_Broux,Lee de Broux  is an American character ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actors,Nick_Cannon,"Nick Cannon's show replaced J. Cruz's ""The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Paul_Carafotes,"Paul Carafotes (born March 23, 1959 in ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actors,Antony_Carbone,"Antony Carbone (born in Calabria, Italy July ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actors,Hoagy_Carmichael,"""Hoagy Carmichael Collection: Timeline of Hoagy Carmichael's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Hoagy_Carmichael,"""Hoagy Carmichael Collection: Virtual Tour of the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,Hoagy_Carmichael,"""Star Dust Memories: Hoagy Carmichael and Indiana's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,David_Carradine,"""David Carradine dies at 72; star of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actors,John_Carradine,"""When John Carradine married Doris Grimshaw in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Lucille_Ball,"""Lucille Ball, Spirited Doyenne Of TV Comedies, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Lucille_Ball,"Lucille Ball and several other actors participate
+""Wanda ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Joanna_Barnes,"Joanna Barnes  is an American actress, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Ethel_Barrymore,"""Ethel Barrymore married Russell Griswold Colt on ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Ethel_Barrymore,"of South Carolina)
+Ethel Barrymore - ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actresses,Nicole_Beharie,Nicole Beharie  is an American actress ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Constance_Bennett,"In 1958, she hosted ""The Constance Bennett ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Elizabeth_Berkley,Elizabeth Berkley is an American actress and  ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Louise_Brooks,"""Louise Brooks is the femme appeal with ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Mariah_Carey,"Mariah Carey's debut hit from 1990, ""Vision ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Sue_Carol,"The New York Times, ""Sue Carol Secretly ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Sue_Carol,"The New York Times, ""Sue Carol Cleared ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Sue_Carol,"The New York Times, ""Sue Carol Ladd, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Margaret_Cho,"April 30, 2008 was declared ""Margaret Cho ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Margaret_Cho,"On the other hand, ... Margaret Cho ",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Patricia_Collinge,"""Patricia Collinge, 81, Actress In Many Leading ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Lily_Collins,"Another critic stated that ""Lily Collins does ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Jennifer_Coolidge,"""For your consideration, Jennifer Coolidge: A quickie ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Jeanne_Crain,The Jeanne Crain Collection resides at the  ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Joan_Crawford,Joan Crawford (born Lucille Fay LeSueur; March ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actresses,Linda_Darnell,"The press reported that ""Linda Darnell and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Yvonne_De_Carlo,"""Prelinger Archive"".Obituaries:
+
+""Yvonne De Carlo, Who Played Lily on ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Yvonne_De_Carlo,"""Munsters' Television Star Yvonne de Carlo Dies at ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Allie_DeBerry,"""Allie DeBerry lands role in pilot for ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Megan_Dodds,"""Renee Olstead Joins 'Bachelor Lions'; Megan Dodds ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Marie_Dressler,"of Washington, Sayre collection)
+Marie Dressler reading newspaper ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actresses,Marie_Dressler,"of Washington, Sayre collection)
+Marie Dressler in a ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actresses,Joanne_Dru,"""Joanne Dru, 74, a Star of Movie ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Shannon_Elizabeth,"Shannon Elizabeth FadalSeptember 7, 1973) is an ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actresses,Bridget_Everett,Adam Horovitz & Bridget Everett) & Just ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+gender,American_actresses,Lola_Falana,"Denise deadpans, ""Well, so is Lola Falana, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Glenda_Farrell,"""Glenda Farrell Praised for Art in Best ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Sherilyn_Fenn,"""With Sherilyn Fenn, Twin Peaks came on ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Jane_Fonda,"Fonda said, ""The image of Jane Fonda, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Sutton_Foster,"Time Magazine wrote: ""she's [Sutton Foster] got ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Jorja_Fox,"The banners read ""Keep Jorja Fox on ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Lady_Gaga,"In turn, Versace calls Lady Gaga ""the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Lady_Gaga,"In his article ""Lady Gaga Pioneered Online ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Peggy_Ann_Garner,"""Plain Beautiful: The Life of Peggy Ann ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Greer_Garson,Eileen Evelyn Greer Garson  was a ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Sami_Gayle,"""Sami Gayle: Weston-raised and now starring in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Sara_Haden,Sara Haden was a character actress of  ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Barbara_Hershey,"Rigby went on to say, ""Barbara Hershey ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Hedda_Hopper,"""Hedda Hopper, Hollywood Gossip, and the Politics ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Whitney_Houston,"""Whitney Houston was blessed with an astonishing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Whitney_Houston,"""An early 'I' in Whitney Houston's 'I ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Whitney_Houston,"Brandy stated, ""The first Whitney Houston CD ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Jennifer_Hudson,"""Jennifer Hudson is the defining voice of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Janet_Jackson,"Director Peter Segal stated ""Janet Jackson was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Scarlett_Johansson,"Entertainment Weekly's Thom Geier wrote, ""Scarlett Johansson ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Elena_Kampouris,"""Growing Up Greek: Elena Kampouris Stars in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Elena_Kampouris,"""Greek Actress Elena Kampouris is True to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Joanna_Kerns,"""Joanna Kerns:  At Long Last Love"" ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Eartha_Kitt,"""Harold Pinter and Eartha Kitt, artists and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Mila_Kunis,"MacFarlane added: ""What Mila Kunis brought to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Hedy_Lamarr,"Photoplay wrote, ""As Delilah, Hedy Lamarr is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Jessica_Lange,"She commented, ""Jessica Lange already has two ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Jessica_Lange,"""Jessica Lange – Biography – Highest Rated ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Queen_Latifah,"2011 saw Queen Latifah sing ""Who Can ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Hudson_Leick,"""Warrior of the Soul: Hudson Leick Fights ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Jennifer_Jason_Leigh,"""Jennifer Jason Leigh — She's the Queen of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Margaret_Lindsay,"Price recalled that ""Margaret Lindsay was a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Eva_Longoria,"She has stated that, ""The Eva Longoria ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Marjorie_Main,"""Marjorie Main: 'Good for a Lot of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Marjorie_Main,"""Marjorie Main: From Farm Girl to Film ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Jayne_Mansfield,The Jayne Mansfield-Sophia Loren photograph  was ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Hattie_McDaniel,"""Hattie McDaniel: '(I'd) ... rather play a ",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Rose_McGowan,"Rose McGowan also stated, ""Gays are misogynistic ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Nina_Mae_McKinney,"He said, ""Nina Mae McKinney was third from ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Nina_Mae_McKinney,"Film Weekly said of McKinney, ""Nina Mae McKinney, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Mary_Tyler_Moore,"""Remembering Mary Tyler Moore, The Smart, Comic Actress ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Gwyneth_Paltrow,"Variety proclaimed: ""Gwyneth Paltrow shines brightly as ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Bernadette_Peters,"Benefit concert, ""Bernadette Peters: A Special Concert ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Mary_Pickford,"""Preserving Pickford: The Mary Pickford Collection and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Laura_Post,Laura Post  is an American voice ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Paula_Prentiss,"Hawks would later say: ""Paula Prentiss was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Donna_Reed,"""I hear `Donna Reed' and I think ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Storm_Reid,"Reviewer site FilmSnobReviews wrote: ""Storm Reid and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Lisa_Rinna,"In 2012, she debuted her ""Lisa Rinna ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Rosalind_Russell,"One critic wrote: ""Rosalind Russell as the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Lizabeth_Scott,"Columnist Erskine Johnson wrote ""Lizabeth Scott is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Ann_Sothern,Ann Sothern  was an American actress ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Sharon_Stone,"New York Magazine remarked: ""Sharon Stone, playing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Meryl_Streep,"Roger Ebert wrote that ""Meryl Streep is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Meryl_Streep,"The citation reads as follows, ""Meryl Streep ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Wanda_Sykes,"""Her second comedy special, Wanda Sykes: I'ma ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Uma_Thurman,"Club writing: ""Uma Thurman is a lot ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Uma_Thurman,"Uma Thurman: Pulp friction"", The Independent, April ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Gina_Torres,Gina Torres  is an American film ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Liv_Tyler,"Empire noted, ""Liv Tyler with a rare ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Liv_Tyler,"""An Interview with Liv Tyler – Bringing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Liv_Tyler,"""Interview: Liv Tyler on her son, work ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Carrie_Underwood,"""To have a star like Carrie Underwood ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Raquel_Welch,"He would become Raquel Welch"".Her looks and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Raquel_Welch,"Hugh Hefner later wrote, ""Raquel Welch, one ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,JoBeth_Williams,Margaret JoBeth Williams  is an American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Oprah_Winfrey,"Newsday's Les Payne observed, ""Oprah Winfrey is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Oprah_Winfrey,"Vanity Fair wrote: ""Oprah Winfrey arguably has ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Oprah_Winfrey,"Ben Shapiro of Townhall.com wrote: ""Oprah Winfrey ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Mary_Elizabeth_Winstead,"(""Mary Elizabeth Winstead Wears an A-Line Skirt and ",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+gender,American_actresses,Shelley_Winters,"""Actress Shelley Winters, 85; Blond Bombshell to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Beatrice_Arthur,"""Beatrice Arthur: A towering comedic talent from ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Nina_Arvesen,Nina Arvesen is an  American film ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Jeanne_Cooper,"In Jeanne Cooper's  book, she makes ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Jena_Engstrom,Jena Engstrom  is an American former ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Jessica_Leccia,"Jessica Leccia , lə-CHEE-ə; is an American ",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+gender,American_actresses,Audra_McDonald,"She performed three concerts, titled ""Audra McDonald ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Melissa_Rauch,"""'The Big Bang Theory' Star Melissa Rauch ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+gender,American_actresses,Gina_Tognoni,"Gina Tognoni  is an American actress, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,John_S._Chen,"""John S. Chen - The Walt Disney ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,John_S._Chen,"""John S. Chen Biography - Board of Directors ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Guitar_Hero,The Guitar Hero  series is a ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Johnny_Kan,"""Johnny Kan: The Untold Story of Chinatown's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Teresa_H._Meng,"Black and Teresa H. Meng, ""A 1Gb/s, 4-State, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Teresa_H._Meng,"Jeffrey G. Andrews and Teresa H. Meng, ""Performance ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Teresa_H._Meng,"Alok Aggarwal and Teresa H. Meng, ""Minimizing the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Teresa_H._Meng,"Volkan Rodoplu and Teresa H. Meng, ""Bits-per-Joule ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Teresa_H._Meng,"Stephen O'Driscoll and Teresa H. Meng, ""Adaptive Signal ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Justin_Lin,"""Meet Justin Lin, the Most Important Blockbuster ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Justin_Lin,"""Justin Lin Directing Period Drama Pilot Set ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Joan_Chen,"""Joan Chen: Whether it's China or Hollywood, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Joan_Chen,"""Joan Chen on Filming Lust, Caution in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Richard_Chew,"""Cutting with a Conscience: Richard Chew is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Teen_Wolf,Teen Wolf  is a 1985 American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Margaret_Cho,"April 30, 2008 was declared ""Margaret ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Chris_Chan_Lee,"Chris Chan Lee; born San Francisco, California) is ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Ken_Leung,"""Interview: Ken Leung on 'Year of the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Tao_Lin,"San Francisco Chronicle said, ""Tao Lin's sly, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Nancy_Drew,"Parker Brothers produced a ""Nancy Drew Mystery ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Nancy_Drew,"""Nancy Drew's popularity continues unabated: in 2002, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Nancy_Drew,"As another critic puts it, ""Nancy Drew ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Belle_Knox,"""The plight of the black Belle Knox: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Bruno_Mars,"""In 2014, Bruno Mars teamed up with ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Jay_Park,"Jay Park; born April 25, 1987) is ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Joanna_Wang,"Joanna Wang  is a Taiwanese-American singer-songwriter, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Leehom_Wang,"""The Chineseness Constructed in Leehom Wang's ""Chinked-Out"" ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Christine_Ha,"""Christine has also served as a culinary ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,James_Sun,James Sun (Korean: 선우신; is an ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Malan_Breton,"Magazine in a column called ""Malan ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Angel_Chang,Angel Chang  is an American fashion ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Neiman_Marcus,"""In 2012, Neiman Marcus partnered with Target ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Anna_Sui,"A children's line known as ""Anna ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Vivienne_Tam,"""Vivienne Tam Defines China Chic as Fashions ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Prabal_Gurung,Prabal Gurung  is a  Nepalese-American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Prabal_Gurung,His own collection PRABAL GURUNG  was ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Roy_Choi,Roy Choi  is a Korean American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Fred_Korematsu,"""Fred Korematsu, 86, fought World War II ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Noel_Francisco,"Audio: ""Ted Cruz and Noel Francisco on ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Frank_H._Wu,"""Politics and Economy: Frank H. Wu on the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Jonah_Hex,"2 #10–11; 1972)
+Weird Western Tales
+Jonah Hex ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Jonah_Hex,"2 #21; 1987/12)
+Jonah Hex: Two Gun Mojo
+Jonah ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Jonah_Hex,"2 #1–70; 2005–2011)
+Jonah Hex: No Way ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Jonah_Hex,"1) #1–22, March 2014, ISBN 978-1-4012-4106-3)
+Jonah ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Gish_Jen,"Gish Jen August 12, 1955) is a ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Maxine_Hong_Kingston,Maxine Hong Kingston is a  Chinese-American author ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Jean_Kwok,"PEN America wrote, ""Jean Kwok’s latest novel ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Jhumpa_Lahiri,"""Nomadische Literatur und Transcultural Switching: Jhumpa Lahiris ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Albert_Saijo,"""Haiku on the Road: Albert Saijo's Contested ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Jose_Calugas,"Jose Calugas, Sr. Apartments"" in High Point, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Andrew_Kim,"Kim Sung-hyun,  known as Andrew Kim, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Wah_Kau_Kong,Wah Kau Kong : America's first Chinese-American fighter ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Hiroshi_Miyamura,"""Hiroshi Miyamura and his hometown had a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Kenneth_P._Moritsugu,"""RADM Kenneth P. Moritsugu, M.D., M.P.H., Deputy ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Elmelindo_Rodrigues_Smith,Sergeant First Class Elmelindo Rodrigues Smith  was ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Vang_Pao,"""Vang Pao Met with Senior State Department ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Cher_Calvin,Cher Calvin ) is a news presenter ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Connie_Chung,Connie Chung  Video produced by Makers: ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Michiko_Kakutani,"Tamaki, Jillian, ""Interview: Michiko Kakutani By ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Ronald_Reagan,"She later said, ""Ronald Reagan had a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Michelle_Wu,"""Michelle Wu had mixed reviews for Marty ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Asian_Americans,Subrahmanyan_Chandrasekhar,Subrahmanyan Chandrasekhar  was an Indian-American astrophysicist ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Shuji_Nakamura,Shuji Nakamura  is a Japanese-born American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,Asian_Americans,Nathan_Chen,"Figure Skating)
+Nathan Chen at the United States ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,Asian_Americans,Miki_Gorman,"""Miki Gorman: The Two-Time Boston and NYC ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ajiona_Alexus,Ajiona Alexus Brown  is an American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,African_Americans,Nick_Cannon,"Nick Cannon's show replaced J. Cruz's ""The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Nat_King_Cole,"Billboard magazine reported that ""Nat King Cole has ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Cab_Calloway,"""In 1998, The Cab Calloway Orchestra directed ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ray_Charles,"Frank Sinatra called Ray Charles ""the only ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ray_Charles,"Pleasants continues, ""Ray Charles is usually described ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Dr._Dre,"Dr. Dre announced ""This is a natural ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Dr._Dre,"The deal made Dr. Dre the ""richest ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Dr._Dre,"Dr. Dre later commented: ""People talk all ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,David_Fagen,"""David Fagen: An African-American Rebel in the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Jennifer_Hudson,"""Jennifer Hudson is the defining voice of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Whitney_Houston,"""Whitney Houston was blessed with an astonishing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Whitney_Houston,"""An early 'I' in Whitney Houston's 'I ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Whitney_Houston,"Brandy stated, ""The first Whitney Houston CD ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Isaac_Hayes,"He wrote: ""Isaac Hayes did not quit ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Janet_Jackson,"Director Peter Segal stated ""Janet Jackson was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Samuel_L._Jackson,"""How Samuel L. Jackson Became His Own ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Barry_Jenkins,"Variety wrote: ""Barry Jenkins' vital portrait of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Eartha_Kitt,"""Harold Pinter and Eartha Kitt, artists and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Lenny_Kravitz,"""Deep joy – musical artist Lenny Kravitz ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,John_Legend,"John Legend also co-wrote Janet Jackson's ""I ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Prince_Harry,"Prince Harry, Duke of Sussex,  is ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,African_Americans,Tamela_Mann,"Tamela Mann won Stellar Award's ""Best Female ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Chris_Rock,"""Chris Rock has been an avid fan ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Wanda_Sykes,"""Her second comedy special, Wanda Sykes: I'ma ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Oprah_Winfrey,"Newsday's Les Payne observed, ""Oprah Winfrey is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Oprah_Winfrey,"Vanity Fair wrote: ""Oprah Winfrey arguably has ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Oprah_Winfrey,"Ben Shapiro of Townhall.com wrote: ""Oprah Winfrey ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Jacob_Lawrence,"""The place of Jacob Lawrence among younger ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Alma_Thomas,"""-Alma Thomas, 1970
+
+Thomas would not be recognized ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Alma_Thomas,"""Alma Thomas died on February 24, 1978, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Alma_Thomas,"""'Alma Thomas' Review; Alma Thomas was an ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Kimberly_Clarice_Aiken,Kimberly Clarice Aiken Cockerham  was Miss ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,African_Americans,Floyd_Mayweather_Jr.,"CBS said, ""Floyd Mayweather Jr.'s speed was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Christiana_Carteaux_Bannister,"""Christiana Carteaux Bannister: A supporter of the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Muhammad_Ali,"Louisville Mayor Greg Fischer stated, ""Muhammad Ali ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Muhammad_Ali,"""Muhammad Ali's Life in Photos; From his ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ella_Baker,"Ella Baker insisted that ""strong people don't ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ella_Baker,Ella Baker : Community Organizer of the ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,African_Americans,Claudette_Colvin,"Claudette Colvin said, ""But I made a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Angela_Davis,"1972–1985
+""Angela Davis Talks about her Future and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Angela_Davis,"Barsamian, D. ""Angela Davis: African American ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Angela_Davis,"""Angela Davis on the 40th Anniversary of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Angela_Davis,"Appearances on C-SPAN
+Angela Davis on IMDb
+""Angela ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Fannie_Lou_Hamer,"Jerry DeMuth, ""Fannie Lou Hamer: Tired of Being ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Fred_Hampton,"The resolution read in part: ""Fred Hampton, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Fred_Hampton,"In the song, he says ""Fred Hampton ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Lorraine_Hansberry,"""Lorraine Hansberry has many notable relatives including ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Lorraine_Hansberry,"Lorraine Hansberry, ""subscription clerk, receptionist, typist, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Jesse_Jackson,"Jesse Jackson Calls for 'War on Poverty'"" ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Mahalia_Jackson,"Burford, Mark, ""Mahalia Jackson Meets the Wise ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Mahalia_Jackson,"Jabir, Johari, ""On Conjuring Mahalia: Mahalia Jackson, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,James_Weldon_Johnson,"""James Weldon Johnson: A Bibliography of Dissertations and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Anne_Moody,"Anne Moody wrote her second book, ""Mr. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Gloria_Richardson,"""Gloria Richardson and the Cambridge Nonviolent Action ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Gloria_Richardson,"""The ""Gun-Toting"" Gloria Richardson: Black Violence ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Gloria_Richardson,"""Gloria Richardson: Her Life and Work in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Gloria_Richardson,"""Recasting Civil Rights Leadership: Gloria Richardson and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Amelia_Boynton_Robinson,"""In 1992, proclamations of ""Amelia Boynton Robinson Day"" ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Jo_Ann_Robinson,"in The African American Registry
+""Jo Ann ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Josephine_St._Pierre_Ruffin,"""African American Women In History: Josephine St. Pierre ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Betty_Shabazz,"""Betty Shabazz: Uncovering the Woman Behind ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Betty_Shabazz,"""How Betty Shabazz Persevered After Her Husband, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Betty_Shabazz,"""My Mother, Dr. Betty Shabazz, Taught Me ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ida_B._Wells,"""The fortune of Wells: Ida B. Wells-Barnett's use of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ida_B._Wells,"Baker, Lee D. ""Ida B. Wells-Barnett and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Roy_Wilkins,"Another article by Roy Wilkins, called ""Stalin's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Robert_F._Williams,"""Crusader In Exile: Robert F. Williams and the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Andrew_Young,"Appearances on C-SPAN
+Andrew Young on IMDb
+""Andrew ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Candace_Owens,"""Interview with Candace Owens: Trump, Kanye West ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Gordon_Davis,"Smith replied: ""Well, Gordon Davis, don't tell ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Florynce_Kennedy,"Florynce Kennedy from ""Tenacious Women: Activists in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Reginald_Lewis,""": How Reginald Lewis Created a Billion-Dollar ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Samuel_R._Delany,"""Through a glass darkly: Bibliographing Samuel R. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Samuel_R._Delany,"""Samuel R. Delany, The Art of Fiction ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Nikki_Giovanni,"Claire McIntosh, ""8 Lessons From Nikki ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Toni_Morrison,"""Despite the international stature of Toni Morrison, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Lucille_Clifton,"""Lucille Clifton Reads A Poem About the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Frank_Marshall_Davis,"""Frank Marshall Davis: Black Labor Activist and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Walter_Mosley,"Frieburger, William, ""James Ellroy, Walter Mosley, and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Walter_Mosley,"""Covering Mosley: The books of Walter Mosley: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ishmael_Reed,"""Releases produced by Ishmael Reed
+
+His Bassist, featuring ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ishmael_Reed,"""Irony and Allegory in Ishmael Reed's Japanese ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ishmael_Reed,"""Neo Hoodooism and Historiography in Ishmael Reed's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ishmael_Reed,"""Postmodernist Rhetoric in Ishmael Reed's Yellow ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Margaret_Walker,"Margaret Walker at Smithsonian Folkways
+""Margaret Walker: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Dorothy_West,"Oliver, Myrna, ""Obituaries: Dorothy West: Harlem ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,John_Edgar_Wideman,"""John Edgar Wideman, The Art of Fiction ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,James_Brown,"The Police refer to ""James Brown on ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,James_Brown,"Jimmy Page has remarked, ""He [James Brown] ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,James_Brown,"(2013) God, The Devil & James Brown:(Memoirs ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,African_Americans,Duke_Ellington,"Martin Williams said: ""Duke Ellington lived long enough to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ella_Fitzgerald,"""On March 15, 1955, Ella Fitzgerald opened her ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Billie_Holiday,"""Billie Holiday, via Hologram, Returning to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Quincy_Jones,"""Quincy Jones: The Story of an American ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Max_Roach,"In 1985, George Ferencz directed ""Max ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Max_Roach,"""When Max Roach's first records with Charlie ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Smokey_Robinson,"Smokey Robinson's single ""Just to See Her"""" ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Sonny_Rollins,"""Sonny Rollins was among hundreds of artists whose ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Donna_Summer,"Mary J. Blige tweeted ""RIP Donna ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ike_Turner,"Johnny Otis said: ""Ike Turner is a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ike_Turner,"""The cause of death for Ike Turner ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Muddy_Waters,"They said, ""This can't be Muddy ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Chuck_Brown,"""Chuck Brown dies: The 'Godfather of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Clifford_Brown,"2001)
+Clifford Brown And Art Farmer With The ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,African_Americans,Clifford_Brown,"1956)
+Clifford Brown Ensemble / Arranged by Montrose ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,African_Americans,Peabo_Bryson,"September 4, 2016 was declared ""Peabo Bryson ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Chubby_Checker,"Chubby Checker says ""There's a New 'Twist' ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Charlie_Christian,"Lee, Amy ""Charlie Christian Tried to Play ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Daryl_Coley,"Patrick Henderson, Daryl Coley)
+""The Comforter Has Come""
+""By ",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+race,African_Americans,Daryl_Coley,"Patrick Henderson, Daryl Coley)
+""Medley: He'll Never Let ",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+race,African_Americans,Daryl_Coley,"Patrick Henderson, Daryl Coley)PersonnelDaryl Coley- Record Producer, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,African_Americans,Mos_Def,"(Doctor)"".Mos Def has designed two pairs of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Mos_Def,"In March 2010, Mos Def's song ""Quiet ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Mos_Def,"saying that Mos Def ""delivers an Emmy-worthy ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Roy_Eldridge,"""Other significant musicians influenced by Roy Eldridge include ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Roy_Eldridge,"Wilson, John S. ""Roy Eldridge, 78, Jazz ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Roy_Eldridge,"Wilson, John S. ""Roy Eldridge's Ambition: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Roy_Eldridge,"Wilson, John S. ""Roy Eldridge: Jazz Trumpeter ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Kirk_Franklin,"""Kirk Franklin's new mission: finding gospel's next ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Kirk_Franklin,"""Kirk Franklin healed from 20-year addiction; filled ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Flo_Rida,""".On September 29, 2014, Flo Rida released ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Berry_Gordy,"""Berry Gordy Square in Los Angeles was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Gucci_Mane,"Gucci Mane responded by stating, ""That nigga ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Lionel_Hampton,Construction  began with the Lionel Hampton ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,African_Americans,Earl_Hines,"According to Stanley Dance, ""Earl Hines and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Earl_Hines,"Taylor, Jeffrey, ""Louis Armstrong, Earl Hines, and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Phyllis_Hyman,"In 1987, Phyllis Hyman recorded ""Black and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ray_J,"""Ray J and Houston became very close ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ray_J,"""On May 30, 2014, Ray J was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Hank_Jones,"Peter Keepnews, ""Hank Jones, Versatile Jazz Pianist, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Hank_Jones,"""Magic Numbers: Hank Jones, Ron Carter, Tony ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Robert_Johnson,"A memorial to him reads, ""Robert Johnson ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Bettye_LaVette,"""In 2018, Bettye LaVette was inducted into the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Dej_Loaf,"""DeJ Loaf contributed rap to the song, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Lil_Uzi_Vert,"""Lil Uzi Vert's style of rap has been ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Remy_Ma,"""In late January 2005, Remy Ma reportedly ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Frank_Ocean,"Andy Kellman of AllMusic wrote,""Frank Ocean has ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Frank_Ocean,"Amy Wallace, ""Frank Ocean: On Channel Orange, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Billy_Paul,"Brown added: ""And Billy Paul was Kenny ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Rick_Ross,"He offered to help, stating, ""Rick Ross, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Jimmy_Scott,"John Fordham, ""Jimmy Scott: Five Great Performances ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Bessie_Smith,"""The Bessie Smith ambulance would not have ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Bobby_Short,"He followed with ""Bobby Short: The Life ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Billy_Strayhorn,"As Ellington described him, ""Billy Strayhorn was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Clark_Terry,"""Jazz for the Record"" [Clark Terry ",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+race,African_Americans,Clark_Terry,"Beach, Doug, ""Clark Terry and the St. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Clark_Terry,"LaBarbera, John, ""Clark Terry: More Than ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Hank_Aaron,"Aaron dedicated the new exhibit ""Hank Aaron-Chasing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Barry_Larkin,"He wrote, ""Barry Larkin wasn't quite ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Dick_Allen,"""Philadelphia Story: Act II; Mercurial Dick Allen ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Gene_Baker,"""The Cubs purchased Gene Baker's contract and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Al_Bumbry,"""Al Bumbry gives his thoughts on the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Doug_Glanville,"""The Fresh Air Interview: Doug Glanville – ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Tony_Gwynn,"""No one bothers Tony Gwynn because he ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Monte_Irvin,"""Ankle Injured, Monte Irvin Has Plentitude Of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Karl_Malone,"""Karl Malone is not related to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Bill_Russell,"Thus Bill Russell's motto became, ""If you ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Carmelo_Anthony,"Anthony opened ""The Carmelo Anthony Youth Development ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Reggie_Miller,"""A documentary titled Winning Time: Reggie Miller ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Joe_Frazier,"""Pain or not, Joe Frazier of Beaufort, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Ken_Norton,"""His first son, Ken Norton Jr, played ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Devon_Alexander,"""Devon Alexander escaped streets of St. Louis ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Joe_Louis,"Biographer Gerald Astor stated that ""Joe Louis' ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Archie_Moore,Archie Moore-- the Ole Mongoose : the ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,African_Americans,Walter_Payton,"The property became known as ""Walter Payton's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Walter_Payton,"The NFL hands out the ""Walter Payton ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Walter_Payton,"""13 years later, Walter Payton's legend lives ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Tasha_Schwikert,"^  ""UCLA sophomore Tasha Schwikert to ",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Tasha_Schwikert,"^  ""UCLA Gymnast Tasha Schwikert Has ",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Tasha_Schwikert,"^  ""UCLA's Tasha Schwikert Wins NCAA ",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Wilma_Rudolph,"The school was renamed the ""Wilma Rudolph ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Wilma_Rudolph,"""Will Wilma Rudolph Eldridge's Daughter Add To ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Wilma_Rudolph,"""Olympic Gold Medalist Wilma Rudolph Joins ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Wilma_Rudolph,"""Postal Service Honors Wilma Rudolph with ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Al_Joyner,"""Al Joyner brings to our program world-class ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Carl_Lewis,"""It doesn't matter what Carl Lewis' sexuality ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Harlem_Renaissance,"The  Harlem Renaissance was an intellectual, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,African_Americans,George_Washington_Carver,"""Hints and Suggestions to Farmers: George Washington Carver ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,George_Washington_Carver,"""George Washington Carver: The Making of a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,George_Washington_Carver,"""1897 or Thereabouts: George Washington Carver's Own Brief ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,George_Washington_Carver,"Peter D. Burchard, ""George Washington Carver: For His ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Emmett_Till,"""Emmett Till's Murder, and How America Remembers ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Emmett_Till,"""Remembering Emmett Till: The Legacy of a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Denmark_Vesey,"""An Interpretation of the Denmark Vesey Insurrection ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,African_Americans,Black_Hebrew_Israelites,"""Black Hebrew Israelites: New York's Most Obnoxious ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Molly_Maguires,"But ""the Molly Maguires themselves left virtually ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Walt_Disney,"Gabler argues that ""Walt Disney was no ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Huston,"""It has been suggested that John Huston ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Michael_Moore,): Michael Moore and the Rhetoric of ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Anthony_Kennedy,"""The 'Swing Voter' Revisited: Justice Anthony ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Anthony_Kennedy,"""Swing Shift: How Anthony Kennedy's passion for ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,L._Frank_Baum,"""17 Lost Manuscripts: L. Frank Baum, Ernest ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Horne_Burns,"""John Horne Burns: A Portrait by Indro ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Horne_Burns,"""A Queer Redemption: John Horne Burns' The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Raymond_Chandler,"""The World of Raymond Chandler: In His ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Billy_Collins,"Billy Collins has been called ""The most ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alice_Fulton,"Marti-Subirana asserted that ""Alice Fulton's poetry stands ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alice_Fulton,"Cristanne Miller, ""Alice Fulton: 'Wonder Stings ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Susan_Howe,"""Unsettling the Wilderness: Susan Howe and American ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Cormac_McCarthy,"""The Cormac McCarthy Society has made PDF ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jay_McInerney,"""Status update : Jay McInerney's trilogy about ",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Charles_Olson,Charles Olson in Connecticut (1975; North Carolina ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Charles_Olson,"Retrieved 2010-12-12
+""Charles Olson in the Tradition of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Patrick_Shanley,"John Patrick Shanley  is an American playwright, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Mickey_Spillane,Mickey Spillane on screen : a complete ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Mickey_Spillane,"A Colorful Conversation with Mickey Spillane"", Alter ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mickey_Spillane,"""Mickey Spillane: Hardboiled's Most Extreme Stylist ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jim_Acosta,"""Jim Acosta on Trump, the Press, and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Nellie_Bly,"""Into the Madhouse with Nellie Bly: Girl ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Nellie_Bly,"""Nellie Bly: The best undercover reporter in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Nellie_Bly,"""Nellie Bly, Jules Verne, and the World ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Nellie_Bly,"""Dislocating the Masculine: How Nellie Bly ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Tim_Russert,"The exhibit entitled ""Inside Tim Russert's Office: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Andrew_Jackson,"Historian Charles Grier Sellers says, ""Andrew Jackson's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Andrew_Jackson_Centre,"The Andrew Jackson Centre,  also known as ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Theodore_Roosevelt,"Roosevelt said, ""My father, Theodore Roosevelt, was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,William_Howard_Taft,"Noyes, John E. ""William Howard Taft and the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Harry_S._Truman,"""Soldier from Independence: Harry S. Truman and the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Harry_S._Truman,"""State Department headquarters named for Harry S. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Harry_S._Truman,Newspaper clippings about  Harry S. Truman in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Ronald_Reagan,"She later said, ""Ronald Reagan had a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Muhammad_Ali,"Louisville Mayor Greg Fischer stated, ""Muhammad Ali ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Muhammad_Ali,"""Muhammad Ali's Life in Photos; From his ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Billy_Conn,"Once went rounds with Billy Conn.""
+Billy Conn's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Gerry_Cooney,"Jim Carrey, playing fictional character ""Gerry ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jack_Dempsey,"""Tips on Tables: Jack Dempsey's Is Notable ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Matt_Hardy,"roster, and began dubbing himself ""Matt Hardy: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_L._Sullivan,"""Richard Fox, John L. Sullivan, and the rise ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Gilda_Gray,"The New York Times, ""Gilda Gray Dead ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Scarlett_Johansson,"Entertainment Weekly's Thom Geier wrote, ""Scarlett Johansson ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Krasinski,"""Universal Greenlights Whale Tale With John ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Krasinski,"""HBO Teams With John Krasinski & Aaron ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Krasinski,"""Focus, Participant Acquire Matt Damon/John Krasinski Film; ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Gwyneth_Paltrow,"Variety proclaimed: ""Gwyneth Paltrow shines brightly as Jane ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Thomas_Sadoski,"Publisher's Weekly agreed saying: ""Thomas Sadoski provides ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Liv_Tyler,"Empire noted, ""Liv Tyler with a rare ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Liv_Tyler,"""An Interview with Liv Tyler – Bringing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Liv_Tyler,"""Interview: Liv Tyler on her son, work ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Travis_Van_Winkle,"""Travis Van Winkle on 'The Last Ship' and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Richard_Anuszkiewicz,"""Richard Anuszkiewicz: Paintings & Sculptures 1945-2001: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jan_Sawka,"""Jan Sawka - Polish artist dies at ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Julian_Stanczak,"Julian Stanczak, Retrospective:  1948-1998
+Serigraphs and ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Arthur_Szyk,Arthur Szyk : Drawing against National Socialism ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Arthur_Szyk,"""Arthur Szyk - Soldier in Art: Rare ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Krzysztof_Wodiczko,"1997, ""Alien Staff, Krzysztof Wodiczko in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Krzysztof_Wodiczko,"2014, Kathleen MacQueen, ""Casting Shadows: Krzysztof Wodiczko's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Krzysztof_Wodiczko,"2002, Andrzej Turowski, ""Krzysztof Wodiczko and Polish ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Krzysztof_Wodiczko,"2002, Rosalyn Deutsche, ""Sharing Strangeness: Krzysztof ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Krzysztof_Wodiczko,"1986, Rosalyn Deutsche, ""Krzysztof Wodiczko's Homeless ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Krzysztof_Wodiczko,"The Odysseus Project – ""Krzysztof Wodiczko’s ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Krzysztof_Wodiczko,"– ""Krzysztof Wodiczko: Interview with Giuliana ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Krzysztof_Wodiczko,"agglutinations.com – ""Interview with Krzysztof Wodiczko: Making ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mark_Z._Danielewski,"""Haunted House: An Interview with Mark Z. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lelord_Kordel,"Lelord Kordel (December 16, 1908 - July 3, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Jerzy_Kosinski,"Agnieszka Salska, Marek Jedlinski, Jerzy Kosinski : ",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Michael_Alfred_Peszke,"Michael Alfred Peszke, ""The British-Polish Agreement of August ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,James_Rollins,"Dino has observed: ""James Rollins is a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Maurice_Sendak,"""Maurice Sendak: A Celebration of the Artist ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Maurice_Sendak,"""Maurice Sendak, The Artful Master, Curbs ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Maurice_Sendak,"""Maurice Sendak Expertly Probes Complex World ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Maurice_Sendak,"""Relatively Monstrous: Maurice Sendak Says Nightmarish ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Maurice_Sendak,"""Sharp Edge To Maurice Sendak's Memory: New ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Maurice_Sendak,"Gottlieb, Richard M.. ""Maurice Sendak's Trilogy: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Maurice_Sendak,"""Maurice Sendak: different sides of a fascinating ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Betty_Boop,The 1933 Betty Boop cartoon Snow-White) was ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Stanley_Kubrick,"He concluded: ""Stanley Kubrick's Full Metal Jacket ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Sam_Spiegel,"The street sign's inscription: ""Sam Spiegel – ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Kobylt,"John Kobylt later said, ""We made a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mike_Royko,"""Mike Royko 1932-1997: Newspaper legend Mike ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mike_Royko,"""Mike Royko, the Voice of the Working ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ron_Jarzombek,"Decibel Magazine remarked, ""Ron Jarzombek should be ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Frank_Klepacki,"Frank Klepacki  is an American musician, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Geddy_Lee,"""In 2018, Lee published Geddy Lee's Big ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Bogdan_Raczynski,"""Bogdan Raczynski: The finer points of beginner ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alkaline_Trio,"""On July 19, 2018, Alkaline Trio announced ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ruth_Slenczynska,"""Piano Prodigy Ruth Slenczynska Now a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ruth_Slenczynska,"Rothchild, E.  ""Ruth Slenczynska: On ",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Hillel_Slovak,Hillel Slovak  was an Israeli-American musician ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Bobby_Vinton,"Billboard Magazine called Bobby Vinton ""the all-time ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Walter_Bobbie,"concert, noted ""As directed by Walter Bobbie ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alan_Greenspan,Alan Greenspan   is an American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Helena_Rubinstein,"""In 1973, the company Helena Rubinstein, Inc. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Helena_Rubinstein,"The Manhattan Jewish Museum's exhibition ""Helena Rubinstein: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Helena_Rubinstein,"""Helena Rubinstein's Beauty Salons, Fashion, and Modernist ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Helena_Rubinstein,"83–108)
+Michèle Fitoussi Helena Rubinstein: the woman who ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Steve_Wozniak,"""We are honored to recognize Steve Wozniak ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Sylvester_Antolak,"Sylvester Antolak Highway""
+The first episode of the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_J._Modrzejewski,"""Maj Robert J. Modrzejewski, Medal of Honor, 1966, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Richard_F._Natonski,"""Lieutenant General Richard F. Natonski, Commander, U.S. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Colin_Powell,"""The Rise and Fall of Colin ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Frank_P._Witek,"""Medal of Honor — PFC Frank P. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Dan_Rostenkowski,"""The rise and fall of Dan Rostenkowski ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Bernie_Sanders,"Bernie Sanders told CNN, ""I owe my ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Richard_Trumka,"""In February 4, 2018, Richard Trumka was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Paul_Baran,"""Convergence: Past, Present, and Future: Paul ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Paul_Baran,"""Paul Baran, Internet and packet switching pioneer, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Andrzej_Ehrenfeucht,"Chen Chung Chang, Andrzej Ehrenfeucht, ""A ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Andrzej_Ehrenfeucht,"Andrzej Ehrenfeucht, ""An Application of Games to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Andrzej_Ehrenfeucht,"Andrzej Ehrenfeucht, ""On Theories Categorical in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Andrzej_Ehrenfeucht,"Andrzej Ehrenfeucht, Andrzej Mostowski, ""Models of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Casimir_Funk,"""Casimir Funk: His Discovery of the Vitamins ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Leonid_Hurwicz,"""Major Works of Leonid Hurwicz, in Leonid ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Hilary_Koprowski,"Stacey Burling, ""Hilary Koprowski, polio vaccine ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Hilary_Koprowski,"New York Times Obituary, ""Hilary Koprowski ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Albert_Sabin,"""Reminiscences of Albert Sabin and his successful ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Albert_Sabin,"""International medical cooperation: Dr. Albert Sabin, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alfred_Tarski,"Blok, W. J.; Pigozzi, Don, ""Alfred Tarski's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alfred_Tarski,"""Alfred Tarski: Semantic shift, heuristic shift ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Dagmara_Wozniak,"""Olympics 2012: Fencer Dagmara Wozniak, an Avenel ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Dagmara_Wozniak,"""'Pretty Powerful': The Olympic Fencer Dagmara Wozniak's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Janet_Lynn,"Janet Lynn Salomon:  Family, Faith, and ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Alan_Kulwicki,"The exhibit is called ""Alan Kulwicki: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alfred_Stieglitz,"""Alfred Stieglitz had the multifold abilities of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Albert_Bierstadt,"""Albert Bierstadt, Landscape Aesthetics, and the Meanings of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Frank_Lloyd_Wright,"""Fifty-two years of Frank Lloyd Wright's progressivism, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Frank_Lloyd_Wright,Usonia : Frank Lloyd Wright's Design for ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Charles_Dellschau,"Charles Dellschau  Text by Thomas McEvilley, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Don_Heck,"""Original Art Stories: Don Heck - ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Don_Heck,"The American Artist Bluebook: Don Heck
+""DC ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Hans_Hofmann,Hans Hofmann : peintures 1962 : 23 ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Klaus_Janson,Klaus Janson  is a German-born American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Christopher_Sauer,"Durnbaugh, Donald F. ""Was Christopher Sauer ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Kat_Von_D,"""Kat Von D's life, relationship and work, is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Kat_Von_D,"""Marked sensation: Kat Von D and tattoo ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Dr._Seuss,"The series was called the ""Dr. Seuss ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Dr._Seuss,"""Dr. Seuss Keeps Me Guessing: A Commencement ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Matthias_Bartgis,"Wust, Klaus G. ""Matthias Bartgis' Newspapers ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Cornelia_Funke,"The characters, Cornelia Funke elaborates, ""Mostly they ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,William_S._Burroughs,"""William S. Burroughs, The Art of Fiction ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Patricia_Highsmith,"""In her novels, Patricia Highsmith compellingly charts ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Stephen_King,"""In her book Stephen King as a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Fritz_Leiber,"Lovecraft and Fritz Leiber"") appears in ",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+race,European_Americans,Walter_Lippman,"Walter Lippmann  was an American writer, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Walter_Lippman,"""Walter Lippmann: How to Cure Liberal Democracy, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Walter_Lippman,"""Beyond the American Century: Walter Lippmann and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Walter_Lippman,"""Walter Lippmann, Strategic Internationalism, the Cold ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Henry_Miller,"""The Reality of Henry Miller"" and ""Henry ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Henry_Miller,"""Henry Miller:  The Last Days"", Huffington ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Henry_Villard,"""A Reputation for Cross-Cultural Business: Henry ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Kurt_Vonnegut,"In 2011, NPR wrote, ""Kurt Vonnegut's blend of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Kurt_Vonnegut,"""Kurt Vonnegut's Humanism: An Author's Journey ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Jacob_Astor,"(1878), ""John Jacob ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Jacob_Astor,"John Jacob Astor: America's First Multimillionaire excerpt
+""John Jacob ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,George_Brumder,"""The George Brumder Publishing Company: A ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Walter_Chrysler,"194–198
+Newspaper clippings about  Walter Chrysler in ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Bill_Gates,"""83 Reasons Why Bill Gates's Reign Is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Bill_Gates,"""The Meaning of Bill Gates: As his ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Steve_Jobs,"Iger wrote, ""Who wouldn't want Steve Jobs ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Otto_Hermann_Kahn,Newspaper clippings about  Otto Hermann Kahn in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Henry_Lomb,"Henry LombNovember 24, 1828 –June 13, 1908) ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,George_Lucas,"A spokesperson for Lucasfilm said, ""George Lucas ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Adolph_Ochs,Newspaper clippings about  Adolph Ochs in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Charles_M._Schwab,Newspaper clippings about  Charles M. Schwab in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,George_Steinbrenner,"""George Steinbrenner was involved with thoroughbred ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Wanamaker,"""John Wanamaker : The Triumph of Content ",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Brad_Pitt,"According to the Dallas Observer, ""Brad Pitt ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Meryl_Streep,"Roger Ebert wrote that ""Meryl Streep is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Meryl_Streep,"The citation reads as follows, ""Meryl Streep ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Fred_Astaire,"""No dancer can watch Fred Astaire and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Fred_Astaire,"""Fred Astaire's Site-Specific Choreography: High Art ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Marlon_Brando,"Sociologist Dr. Suzanne Mcdonald-Walker states: ""Marlon Brando, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Marlon_Brando,"Linda Williams writes: ""Marlon Brando [was] the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Dana_Carvey,"Dana Carvey at Emmys.com
+""WTF Podcast, Episode ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Sarah_Chalke,"Sarah Chalke  is a Canadian actress, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Willem_Dafoe,"""FILM; Willem Dafoe, Looking for Characters ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Aaron_Eckhart,(Farin Roberts interviews Aaron Eckhart in discussion ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Edward_Herrmann,"Kevin Thomas commented, ""Edward Herrmann, so often ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Rock_Hudson,"Morgan Fairchild said that ""Rock Hudson's death ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jessica_Lange,"She commented, ""Jessica Lange already has two ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jessica_Lange,"""Jessica Lange – Biography – Highest Rated ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jayne_Mansfield,The Jayne Mansfield-Sophia Loren photograph  was ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Donna_Reed,"""I hear `Donna Reed' and I think ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Isabella_Rossellini,(Interview with Isabella Rossellini about her ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Uma_Thurman,"Club writing: ""Uma Thurman is a lot ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Uma_Thurman,"Uma Thurman: Pulp friction"", The Independent, April ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lois_Weber,"William D. Routt indicates that ""Lois Weber ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lois_Weber,"One newspaper wrote, ""Lois Weber is not ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lois_Weber,"""'Exit Flapper, Enter Woman,' or Lois ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Glenn_Beck,"""Glenn Beck's viewpoint about early 20th century ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Samantha_Brown,As of  2012 Samantha Brown has ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Pat_Buchanan,"Hannity; Colmes, ""Pat Buchanan Defends Controversial Immigration ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alicia_Menendez,"""The rise of Alicia Menendez, a voice ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ed_Schultz,"Ingraham accepted his apology: ""Ed Schultz said ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jerry_Springer,"""King of the Trash Heap; Jerry ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Philip_Sousa,"Gordon, Marjorie M. ""John Philip Sousa: A ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Philip_Sousa,"Mayer, Francis N. ""John Philip Sousa: His ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Philip_Sousa,"""The Life and Influence of John Philip ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Philip_Sousa,"Jorgensen, Michael R. ""John Philip Sousa's Operetta El ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Chris_Frantz,"""Talking Heads' Chris Frantz on 25 Years ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jeff_Hanneman,"Shavo Odadjian declared that ""without Jeff Hanneman, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Paul_Hindemith,"""Fascinated by Early Music: Paul Hindemith and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Megadeth,"Later that month, Megadeth released ""Sudden ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Megadeth,"In October 2015, Megadeth streamed ""Fatal ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Elvis_Presley,"""Elvis Presley is the greatest cultural force ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Yankee_Doodle_Dandy,"In 1993, Yankee Doodle Dandy  was selected ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Yankee_Doodle_Dandy,"In 1993, Yankee Doodle Dandy  was selected ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Linda_Ronstadt,"Mix magazine stated that ""Linda Ronstadt left ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Arnold_Schoenberg,"""How Arnold Schoenberg Became Lonely: Imagination versus ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Pete_Seeger,"Forbes, Linda C. ""Pete Seeger on Environmental ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Pete_Seeger,"""The Protest Singer: Pete Seeger and American ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Pete_Seeger,"""Pete Seeger: How Can I Keep From ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Pete_Seeger,"""Obituary: Pete Seeger, Songwriter and Champion of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Pete_Seeger,"[chriscomerradio.com/pete_seeger/pete_seeger12-31-1996.htm Pete Seeger Radio Interview 1996]
+""Interview ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Frederick_Stock,"Frederick Stock)
+Ludwig van Beethoven: Piano Concerti ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Lawrence_Welk,"Miller, John E. ""Lawrence Welk and John ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ray_Harryhausen,"100, ""Ray Harryhausen: The Man Who Works ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ray_Harryhausen,"127, "" Ray Harryhausen: Farewell to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Carl_Laemmle,"""After moving to New York, Carl Laemmle ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Russ_Meyer,Russ Meyer: The Life and Films :A ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Russ_Meyer,"""Russ Meyer: The Movie Man Who Would ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Kelly_Reichardt,"""The Quiet Menace of Kelly Reichardt's Feminist ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Kelly_Reichardt,"""An interview with Kelly Reichardt, director of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,David_Letterman,"""Thirteen years ago, David Letterman put CBS ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,David_Letterman,"""Late-night legend David Letterman's ugly personality no ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Heidi_Klum,"Klum has two fragrances, called ""Heidi ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Pat_Nixon,"""Pat Nixon accompanied her husband abroad during ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Pat_Nixon,"Some observers described Pat Nixon as ""a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Neil_Armstrong,"""That happened because Neil Armstrong was a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Neil_Armstrong,"""A Scoop About Neil Armstrong Arrived in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Friedrich_Hecker,"Gruch, 1998 ISBN 3-931395-08-1)
+Friedrich Hecker und ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Kurt_Frederick_Ludwig,Kurt Frederick Ludwig was sent to  Alcatraz ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Robert_Prager,"Schwartz, ""The Lynching of Robert Prager, the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Carl_Schurz,Newspaper clippings about  Carl Schurz in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Chesley_Sullenberger,"""A320 Pilot Chesley Sullenberger’s Other Jobs: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Conrad_Weiser,"Conrad Weiser wrote for his children, ""Buried ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Conrad_Weiser,"""Conrad Weiser and his family were among ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Konrad_Dannenberg,Konrad Dannenberg  was a German-American rocket ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Chester_W._Nimitz,"""Fleet Admiral Chester W. Nimitz: Leadership Forged Through ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Chester_W._Nimitz,"""Fleet Admiral Chester W. Nimitz, A Five Star ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Friedrich_Adolf_Riedesel,Freiherr Friedrich Adolf Riedesel Freiherr  zu Eisenbach ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Theodore_Schwan,"Col.) Theodore Schwan, assistant adjutant-general, detailed as ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Franz_Sigel,"New York: Dodd, Mead.CS1 maint: ref=harv
+""Franz ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Rudolf_Carnap,"""Martin Heidegger and Rudolf Carnap: Radical Phenomenology, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Herbert_Marcuse,"""Herbert Marcuse: Social Critique, Haecker and Kierkegaardian ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Herbert_Marcuse,"Douglas Kellner, ""Herbert Marcuse""
+Bernard Stiegler, ""Spirit, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Henry_Kissinger,Lezioni di politica di Henry Kissinger : ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Henry_Kissinger,"""Henry Kissinger and American Foreign Policy: A ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Paul_Ryan,"In response, Trump tweeted, ""Speaker Paul Ryan ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Paul_Ryan,"""Paul Ryan Reading Guide: The Best Reporting ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Paul_Ryan,"""Primer: How Paul Ryan Proposes To Change ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Paul_Ryan,"""Paul Ryan now says his office requested ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Peter_Altgeld,"Harvey Wish, ""John Peter Altgeld and the Background ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Peter_Altgeld,"Harvey Wish, ""John Peter Altgeld and the Election ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Thomas_Dixon_Jr.,"""Kelly Miller and Thomas Dixon Jr. on ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Timothy_Geithner,"Appearances on C-SPAN
+Timothy Geithner   on ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Steve_King,"Law said, ""We're concerned about Steve King's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ron_Paul,"""In May 2015, Ron Paul ended all ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ron_Paul,"As of April 2019, the ""Ron Paul ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Nelson_Rockefeller,Newspaper clippings about  Nelson Rockefeller in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Dana_Rohrabacher,"""In April 2016, Dana Rohrabacher and Paul ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Eunice_Kennedy_Shriver,"""Eunice Kennedy Shriver"", obituary at The Daily Telegraph
+""Special ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Al_Smith,"Murphy, Kevin C. ""Lost Warrior: Al Smith ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Al_Smith,"A film clip ""Al Smith Hails ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jackie_Speier,"""Jackie Speier –- moving on, moving up: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_F._Wagner,"""Senator Robert F. Wagner and the rise of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Wendell_Willkie,Wendell Willkie's  commitment to social justice ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Wendell_Willkie,"""Was the nomination of Wendell Willkie a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Wendell_Willkie,"""When Wendell Willkie went visiting: between interdependency ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Billy_Sunday,"Giffin, Frederick C. ""Billy Sunday: The Evangelist ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Paul_Tillich,"""A Conversation With Dr. Paul Tillich and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,David_Alter,"""In 1836 Elderton, David Alter invented the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,David_Alter,"""David Alter obtained medical schooling at the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Franz_Boas,"""The Location of Franz Boas Within the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Franz_Boas,"""Franz Boas and Inuktitut terminology for ice ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Franz_Boas,"Lowie, Robert H. ""Bibliography of Franz ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Franz_Boas,"""Franz Boas and the Founding of the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Fort_Bliss,"Fort Bliss has been designated a ""No ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Katherine_Esau,"(2006), ISBN 0-470-04737-2
+O'Hern, Elizabeth Moot ""Katherine ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Martin_Gruebele,Martin Gruebele  is a German-born American ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Edmund_C._Jaeger,"MCV also offers an ""Edmund C. Jaeger ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edmund_C._Jaeger,"""Edmund C. Jaeger Fills Role of Nature's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edmund_C._Jaeger,"""Edmund C. Jaeger: From the Classroom to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Emmy_Noether,"Hermann Weyl later wrote that ""Emmy Noether—her ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Emmy_Noether,"Byers, Nina, ""Emmy Noether"",  in ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Emmy_Noether,"), Emmy Noether: A Tribute to Her ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Emmy_Noether,"), Emmy Noether: A tribute to her ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Emmy_Noether,"), Emmy Noether: A tribute to her ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Emmy_Noether,"), Emmy Noether: A tribute to her ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Emmy_Noether,"(1935), ""Nachruf auf Emmy Noether"" [obituary of ",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+race,European_Americans,Gustave_Whitehead,"""Gustave Whitehead's brother John arrived in Connecticut ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Gustave_Whitehead,"Delear, Frank, ""Gustave Whitehead and the First-Flight ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Babe_Ruth,"Creamer recorded that ""Babe Ruth transcended ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mike_Schmidt,"""Mike Schmidt of the Phillies: Player of the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jay_Buhner,"""WATCH: Jay Buhner and Ken Phelps reminisce ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Johnny_Kling,"""How Johnny Kling Found Out His Nephew Was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Erik_Kratz,"""Erik Kratz's cheering section of fans wearing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Fred_Hetzel,"""Fred Hetzel's brother Will Hetzel played at ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Conrad_Dobler,"As sportswriter Paul Zimmerman said: ""Conrad Dobler ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Pro_Bowl,"(In the 2015 Pro Bowl, when John ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Ted_DiBiase,"]At the Royal Rumble, Ted DiBiase and ",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+race,European_Americans,Evel_Knievel,"""Evel ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Evel_Knievel,"""Evel Knievel; All-American motorcycle daredevil who thrilled ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Evel_Knievel,"""Evel Knievel: Motorcycle daredevil famed for ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Evel_Knievel,"""Evel Knievel, 69, Daredevil on a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Thomas_Eakins,"Canaday, John: Thomas Eakins; ""Familiar truths in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Thomas_Eakins,"ISBN 0-87633-047-2
+Sullivan, Mark W.  ""Thomas Eakins ",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Winslow_Homer,"One critic wrote, ""Winslow Homer is one of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Grandma_Moses,"Her 100th birthday was proclaimed ""Grandma Moses ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Frederic_Remington,"""Frederic Remington was also a cousin to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Frederic_Remington,"""Painting the Legend: Frederic Remington and the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Frederic_Remington,"""The geographical imagination of Frederic Remington: the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Singer_Sargent,"Promey, Sally M.  ""John Singer Sargent's Triumph ",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Singer_Sargent,[ John Singer Sargent's Alpine Sketchbooks: a young ,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+race,European_Americans,Thomas_Sully,"Thomas Sully at Find a Grave
+""Washington's Crossing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Wilkes_Booth,"""John Wilkes Booth: The Story of Abraham Lincoln's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Wilkes_Booth,"""Hunt for Abraham Lincoln's Assassin, John Wilkes ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jesse_James,"""Jesse James and the Civil War in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lee_Harvey_Oswald,"""A Study of Lee Harvey Oswald: Psychological ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Glenn,"GOP chairman Robert Bennett said, ""John Glenn ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Clyde_Tombaugh,"""Clyde Tombaugh Astronomer who discovered the Solar System's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Hugh_Hefner,"""Brigitte Berman's documentary Hugh Hefner: Playboy, Activist ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Christopher_Reeve,"– Newsweek
+""Christopher Reeve has become an instant ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Christopher_Reeve,"Of Christopher Reeve, UC Irvine said, ""in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lucille_Ball,"""Lucille Ball, Spirited Doyenne Of TV ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lucille_Ball,"Lucille Ball and several other actors participate
+""Wanda ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ethel_Barrymore,"""Ethel Barrymore married Russell Griswold Colt on ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ethel_Barrymore,"of South Carolina)
+Ethel Barrymore - ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Constance_Bennett,"In 1958, she hosted ""The Constance Bennett ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Humphrey_Bogart,"Heywood Broun, reviewing Nerves, wrote: ""Humphrey Bogart ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Louise_Brooks,"""Louise Brooks is the femme appeal with ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Carradine,"""When John Carradine married Doris Grimshaw in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lily_Collins,"Another critic stated that ""Lily Collins does ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Gary_Cooper,"Chris Pratt""Gary Cooper was a phenomenon—his ability to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ted_Danson,"""Ted Danson and Zach Galifianakis: Broadway ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Shannon_Elizabeth,"Shannon Elizabeth FadalSeptember 7, 1973) is an ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Sean_Patrick_Flanery,"Sean Patrick Flanery  is an American actor, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Jane_Fonda,"Fonda said, ""The image of Jane Fonda, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Greer_Garson,Eileen Evelyn Greer Garson  was a ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Rondo_Hatton,"Kiss book ""Rondo Hatton: Beauty Within the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mary_Tyler_Moore,"""Remembering Mary Tyler Moore, The Smart, Comic Actress ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,David_Oyelowo,"AudioFile magazine stated: ""Think of David ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mary_Pickford,"""Preserving Pickford: The Mary Pickford Collection and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Burt_Reynolds,"""Burt Reynolds Isn't Broke, but He's Got ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Peter_Sarsgaard,"""Q&A - Peter Sarsgaard Caught in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Sharon_Stone,"New York Magazine remarked: ""Sharon Stone, playing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Dennis_Weaver,"""Dennis Weaver, 81; Star ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Raquel_Welch,"He would become Raquel Welch"".Her looks and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Raquel_Welch,"Hugh Hefner later wrote, ""Raquel Welch, one of the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robin_Williams,"""Robin Williams set up a 3-part trust ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mary_Elizabeth_Winstead,"(""Mary Elizabeth Winstead Wears an A-Line Skirt and ",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+race,European_Americans,Natalie_Clifford_Barney,"""The Trouble with Heroines: Natalie Clifford Barney and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,William_Cullen_Bryant,"William Cullen Bryant described their relationship: ""If I ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,William_Cullen_Bryant,William Cullen Bryant: a biographical sketch : with ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,J._Smeaton_Chase,"""J. Smeaton Chase: Early California Bookmaker and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Stephen_Crane,"""Stephen Crane, Literary-Reporter: Commonplace Experience and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Stephen_Crane,"""Book Review, Stephen Crane: A Life of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,William_Faulkner,William Faulkner in Venice : proceedings of ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Joseph_Gales,"""Winifred and Joseph Gales, Liberals in the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Joseph_Gales,"""Joseph Gales on the War Manifesto of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Nathaniel_Hawthorne,"Ralph Waldo Emerson wrote, ""Nathaniel Hawthorne's reputation ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Nathaniel_Hawthorne,"""Elizabeth Stuart Phelps, Nathaniel Hawthorne, and the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Thomas_S._Hinde,"Thomas S. Hinde was said to be, ""...exceedingly ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Thomas_S._Hinde,"Hinde, Thomas S. ""Reminiscences of Thomas S. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Agnes_Newton_Keith,"""A Portrait of Agnes Newton Keith: Noted Author, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Helen_Keller,"(1998)  Helen Keller, Public Speaker: Sightless ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Helen_Keller,Newspaper clippings about  Helen Keller in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Jack_London,"""The historian Dale L. Walker commented:
+
+Jack London ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jack_London,"The court ruled that ""Jack London's... 'definition ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jack_London,"""The Life of Jack London as ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jack_London,"'The Jack London Online Collection
+
+""Jack London's death ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jack_London,"""Running with the Wolves: Jack London, the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jack_London,"Jack London Personal Manuscripts
+""The Life and Legacy of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_Lowell,"In her essay ""Robert Lowell's Last ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edgar_Allan_Poe,"The piece began, ""Edgar Allan Poe is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edgar_Allan_Poe,"""Edgar Allan Poe in France: Baudelaire's Labor ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edgar_Allan_Poe,"""Edgar Allan Poe's first book from 1827 sells ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edgar_Allan_Poe,"), The Cambridge Companion to Edgar Allan Poe, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Katherine_Anne_Porter,"""Katherine Anne Porter, The Art of Fiction ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mark_Twain,"Johnson's; music"" and signed it ""Mark Twain"".His ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_Penn_Warren,"""Robert Penn Warren, The Art of Fiction ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alex_Gaskarth,"""All Time Low's Alex Gaskarth talks 'Future ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alex_Gaskarth,"""All Time Low's Alex Gaskarth and friends ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alex_Gaskarth,"""Alex Gaskarth and Jack Barakat to run ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Cage,"Ross, Alex, ""Searching for Silence: John Cage's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alice_Cooper,"""The classic Alice Cooper group lineup consisted of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alice_Cooper,"""Alice Cooper appeared at the Woodstock-esque Strawberry ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Buddy_Holly,"In 2015, McLean wrote, ""Buddy Holly would ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Janis_Joplin,"""Janis Joplin: How She Became a Music ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Tony_Lucca,"Your basic record business 101 really...""
+Tony Lucca ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Jim_Morrison,"The man ""Who turned Jim Morrison into ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Tony_Rice,"""The authorized biography of Tony Rice, titled ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,P._T._Barnum,"He established ""P. T. Barnum's Grand Traveling Museum, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,P._T._Barnum,"He established ""P. T. Barnum's Grand Traveling Museum, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,P._T._Barnum,"It went through various names: ""P. T. Barnum's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,P._T._Barnum,"""P. T. Barnum and the Popularization of Natural ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Samuel_Insull,"ISBN 978-1-4039-6884-5.CS1 maint: ref=harv
+""Historic Figures: Samuel ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edward_Lamb,"""Edward Lamb is Dead at 84; Millionaire ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,J._P._Morgan,Newspaper clippings about  J. P. Morgan in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Samuel_Slater,"(Slater Study Group) ""Samuel Slater - ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Martha_Washington,"""Martha Washington also socialized with the wives ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lucy_Hayes,"""Lucy Hayes was the first wife of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edith_Wilson,"Edith Wilson later wrote: ""I studied every ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edith_Wilson,"Markel has opined that Edith Wilson ""was, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Eleanor_Roosevelt,"""The Eleanor Roosevelt Monument in New York's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Eleanor_Roosevelt,"""Eleanor Roosevelt High School, a public magnet ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Eleanor_Roosevelt,Newspaper clippings about  Eleanor Roosevelt in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Betty_Ford,"Tobin, Leesa E.  ""Betty Ford as ",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Rosalynn_Carter,"""Rosalynn Carter served as an active honorary ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Barbara_Bush,"""BARBARA BUSH: A MEMOIR/Life after White ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Barbara_Bush,"Commencement Address at Wellesley
+[*Barbara Bush Foundation for ",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+race,European_Americans,John_Chafee,"""John Chafee proved that politics can be ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Alfred_H._Colquitt,"""Newspaper clipping about Alfred H. Colquitt published March ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Samuel_Elbert,"""Samuel Elbert contributed as much as any ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Samuel_Elbert,"CS1 maint: location
+""Order book of Samuel ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Edward_Everett,"""A Scholar Meets John Bull: Edward Everett ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Button_Gwinnett,"Biography of   Button Gwinnett
+Georgia Signers ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Abner_Nash,"""Presentation of portrait of Governor Abner ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,George_W._Romney,The  George W. Romney Volunteer Center itself ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Susan_B._Anthony,"Debs, Eugene V. ""Susan B. Anthony: Pioneer of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Susan_B._Anthony,"""Marching with Aunt Susan: Susan B. Anthony and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Clara_Barton,"""Clara Barton's 1898 battles in Cuba: a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Elizabeth_Fones,Elizabeth Fones Winthrop Feake Hallett  was ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Pat_Garrett,"McCubbin, Robert G. ""Pat Garrett at His ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Pat_Garrett,"""Pat Garrett Tells 'How I Killed Billy ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Elizabeth_Short,"Elizabeth Short, known posthumously as the ""Black ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,May_Anderson,"Mary R. Jack, ""May Anderson: A Friend ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Vannevar_Bush,"""1995 MIT / Brown U. Vannevar ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,George_Eastman,George Eastman  was an American entrepreneur who ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,George_Eastman,"""The George Eastman Museum has been designated ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Thomas_Edison,"Thomas Edison on IMDb
+""January 4, 1903: Edison ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Thomas_Edison,Newspaper clippings about  Thomas Edison in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Jimmy_Wales,"""The birth of Wikipedia – Jimmy ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Eli_Whitney,"The Eli Whitney Students Program,  Yale ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Jane_Cunningham_Croly,"Memories of Jane Cunningham Croly - ""Jenny ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Chris_Hedges,"Chris Hedges   on Charlie Rose
+""Capitalism's ",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Rachel_Maddow,"""Rachel Maddow on Skinhead Protests, AIDS Activism, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Benedict_Arnold,"""Fictional invocations of Benedict Arnold's name carry ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_C._Breckinridge,"A resolution stating ""Whereas John C. Breckinridge, a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_C._Breckinridge,"John C. Breckinridge, Democratic nominee for president : ",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,John_Buford,"""John Buford died at 2 p.m., December ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Henry_L._Hulbert,"""Pvt Henry L. Hulbert, Medal of Honor, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Joseph_E._Johnston,"""'The Responsibility Is Great': Joseph E. Johnston and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_E._Lee,"""Robert E. Lee and the Western Confederacy: A ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_F._Stockton,"Brockmann, R. John,  Commodore Robert F. Stockton, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Abraham_Whipple,"Wallace wrote, ""You Abraham Whipple on June ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Calvin_Coolidge,"""Calvin Coolidge and Race: His Record in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Calvin_Coolidge,"Fuess, Claude M., ""Calvin Coolidge - Twenty ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Benjamin_Franklin,"""Benjamin Franklin's Plans for a Colonial Union, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Benjamin_Franklin,"""Benjamin Franklin's Vision of a Republican Political ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Benjamin_Franklin,"""When Words Fail: William Pitt, Benjamin ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Benjamin_Franklin,"""Fart Proudly: Writings of Benjamin Franklin You ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,George_Mason,"Justice Sandra Day O'Connor agreed, ""George Mason's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Caspar_Weinberger,"""Caspar Weinberger: Beware of an 'All-Pervasive' ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Caspar_Weinberger,"""Beyond Cap the Foil: Caspar Weinberger And ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Thomas_Jefferson,Newspaper clippings about  Thomas Jefferson in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,James_Madison,"The treaty began with ""James Madison, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,William_Henry_Harrison,"He then announced: ""William Henry Harrison, President of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ann_Dunham,Ann Dunham's legacy : a collection of ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Anne_Hutchinson,"online free
+Bremer,  Francis J. Anne Hutchinson, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Anna_Howard_Shaw,"""The Anna Howard Shaw Center at Boston University ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Anna_Howard_Shaw,"""The Anna Howard Shaw Junior High School built ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ellen_G._White,"Additional authors have stated ""Ellen G. White has ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Freeman_Dyson,"""Freeman Dyson: 'I kept quiet for thirty ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Charles_Horace_Mayo,"""The Doctors William James and Charles Horace ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Max_Baucus,"The article, entitled ""Max Baucus's Fish Sense ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Bob_Dole,"Democratic Senator John Kerry explained: ""Bob Dole ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Bob_Dole,"""Work, Laughter and Tears: Bob Dole's Childhood, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Kerry,"""Cumulatively, John Kerry has done as much ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Kerry,"""; John Kerry and Lawrence Eagleburger tied ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Kerry,"""Statement of John Kerry, Vietnam Veterans Against ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lawrence_C._Phipps,"""Colorado Crusader and Western Conservative: Lawrence C. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Rob_Portman,"In ""Why Rob Portman Will Be Romney's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_Toombs,"The Life of Robert Toombs,  a ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Robert_Toombs,"""The Correspondence of Robert Toombs, Alexander H. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Elizabeth_Warren,"""The virtual candidate: Elizabeth Warren isn't running, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Elizabeth_Warren,"""Elizabeth Warren Introducing a Bill That Would ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Andre_Agassi,"""In September 2013, the Andre Agassi Foundation ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Bob_Boone,"""Bob Boone: He Helps Keep Pitchers Within ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,George_Moorhouse,George Moorhouse  was the first native ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Tim_Tebow,"The segment was titled ""Tim Tebow: The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Oliver_Wendell_Holmes_Jr.,"""Oliver Wendell Holmes Jr. – A digital suite by ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Marshall,"""Defining the Office: John Marshall as Chief ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Charles_G._Dawes,Newspaper clippings about  Charles G. Dawes in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,John_Nance_Garner,"""John Nance Garner and the Sales Tax ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Henry_A._Wallace,Newspaper clippings about  Henry A. Wallace in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Luigi_Galleani,": Selected Writings Of Luigi Galleani
+""The Principal ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Mario_J._Ciampi,"""San Francisco architect Mario J. Ciampi's two schools, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Paolo_Soleri,"""Paolo Soleri Fabbrica di ceramica a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Ivan_Brunetti,"""Ivan Brunetti Explains His Art in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Buscema,"""Beautifully drawn by John Buscema, this comic ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Buscema,""", by Stan Lee, John Buscema, and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Bob_Montana,"Bob Montana Papers at Syracuse University
+""Who's Who ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Don_Rosa,"– Don Rosa in 1987
+""Don Rosa has ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_Longo,"""Robert Longo at Metro Pictures - New ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Gina_Keatley,"""In November 2013, Gina Keatley was highlighted ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Sirio_Maccioni,"http://www.palmbeachdailynews.com/news/lifestyles/food-cooking/the-legend-of-le-cirque-alums-to-honor-sirio-macci/nTHyB/
+2013: Sirio Maccioni awarded First ""Euro ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Antonio_Meucci,"269 on Antonio Meucci stating ""that the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Antonio_Meucci,"Schiavo, Giovanni E., Antonio Meucci : inventor ",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Gil_Garcetti,"""Ex-LA County DA Gil Garcetti's Child Support ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Frank_Serpico,"""Despite distance and decades, whistleblower Frank Serpico ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Basilone,"""John Basilone's Medal of Honor Ceremony remembered ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,John_Belli,Major John Belli  was the Quartermaster ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Paul_Cellucci,"Former governor Bill Weld said ""Paul Cellucci ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,George_Moscone,"""George Moscone, a Firm Mayor Who Stressed ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_Gallucci,"Robert Gallucci, ""Reflections on Establishing and Implementing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_Magliola,"5, p. 60
+""Since Robert Magliola's 1984 publication ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_Magliola,"Robert Magliola, ""After-word,"" in ""Buddhisms and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_Magliola,"""Robert Magliola is one of the great ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Robert_Magliola,"""Robert Magliola attempts to show how mutual ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lorenzo_Da_Ponte,"), Lorenzo Da Ponte – Challenging the New ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Lorenzo_Da_Ponte,"34–51
+Lorenz, Michael, ""Lorenzo Da Ponte's Viennese Residence ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Don_DeLillo,"), Underwords: Perspectives on Don DeLillo's Underworld, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Don_DeLillo,"), The Cambridge Companion to Don DeLillo, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Don_DeLillo,"Giaimo, Paul, ""Appreciating Don DeLillo: The Moral ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Don_DeLillo,"), Introducing Don DeLillo, Duke University Press, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Don_DeLillo,"), Don DeLillo: Mao II, Underworld, Falling ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Don_DeLillo,"), Critical Essays on Don DeLillo, G.K. ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+race,European_Americans,Don_DeLillo,"Schuster, Marc, ""Don DeLillo, Jean Baudrillard, and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lawrence_Ferlinghetti,"""Lawrence Ferlinghetti on the old San Francisco, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lawrence_Ferlinghetti,"at The Bancroft Library
+""Lawrence Ferlinghetti Profile ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lawrence_Ferlinghetti,"""Lawrence Ferlinghetti at The Soredove Press] Limited ",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+race,European_Americans,Lawrence_Ferlinghetti,"""Lawrence Ferlinghetti at The Beat Page] Biography ",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+race,European_Americans,Lawrence_Ferlinghetti,"""Video interview with Lawrence Ferlinghetti about his ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lawrence_Ferlinghetti,"""Lawrence Ferlinghetti in the Honour Committee of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Lawrence_Ferlinghetti,"""1978 audio interview Lawrence Ferlinghetti with Stephen ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Henry_Samuel_Morais,Henry Samuel Morais  was an American writer ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Jessica_Valenti,"""Jessica Valenti: my life as ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,European_Americans,Luigi_Antonini,"Luigi Antonini,   a United States ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+race,European_Americans,Michael_Smerconish,"As characterized by Foreward Reviews: ""Michael Smerconish’s ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Hispanic_and_Latino_Americans,Ted_Williams,"""What do you think of Ted ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Hispanic_and_Latino_Americans,Ted_Williams,"""Ted Williams would be turning 100 now, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Hispanic_and_Latino_Americans,Ted_Williams,"""Ted Williams: 'The Greatest Hitter Who Ever ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Hispanic_and_Latino_Americans,Miguel_del_Aguila,"""Miguel del Aguila: 'Write the music that comes ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Hispanic_and_Latino_Americans,Linda_Ronstadt,"Mix magazine stated that ""Linda Ronstadt left ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Hispanic_and_Latino_Americans,Sandra_Cisneros,"(2001), ""On the 'Simplicity' of Sandra Cisneros's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+race,Hispanic_and_Latino_Americans,Nelson_Denis,"Gozamos reported that ""Nelson Denis doesn't just ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,judaism,Judaism,"(Talmud Shabbat 127a).In Judaism, ""the study ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,judaism,Judaism,"), The Blackwell reader in Judaism
+Cohn-Sherbok, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+religion,judaism,Judaism,"), The Blackwell Companion to Judaism
+Boyarin, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+religion,judaism,Humanistic_Judaism,Humanistic Judaism is a  Jewish movement ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+religion,judaism,Reconstructionist_Judaism,Reconstructionist Judaism  is a modern Jewish ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+religion,christianity,Eastern_Christianity,Eastern Christianity comprises  church families that ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+religion,christianity,Eastern_Christianity,"""Eastern Christianity in the United ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Spiritual_Christianity,"The term ""Spiritual Christianity"" refers to ""folk ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Western_Christianity,In Western Christianity's  original area Latin ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+religion,christianity,Western_Christianity,"""Over the centuries, disagreements separated Western Christianity ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Progressive_Christianity,"the article, ""Grassroots Progressive Christianity: A Quiet ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Progressive_Christianity,"• As Wolsey mentions, Progressive Christianity ""leans ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Christian_Science,"She described Christian Science healing as ""Christ ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Christian_Science,"""There is nothing in Christian Science that ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Christian_Kabbalah,"Christian Kabbalah ""reinterpreted Kabbalistic doctrine to a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Christian_Kabbalah,): The Christian Kabbalah: Jewish Mystical Books ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+religion,christianity,Christian_Kabbalah,"""The Genesis of Christian Kabbalah - Early ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Christian_Kabbalah,"""Christian ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Christian_Universalism,"""The remaining central beliefs of Christian universalism ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,christianity,Jewish_Christian,"""Jewish Christians were the original members of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,islam,Islam,"Islam ""submission [to God]"") is an ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+religion,islam,Islam,"""Islam teaches that the creation of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,islam,Islamism,"Olivier Roy argues that ""Sunni pan-Islamism ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,islam,Nation_of_Islam,"""The Nation of Islam has repeatedly denied charges ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,islam,Nation_of_Islam,"""The Nation of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,hinduism,Hindu_denominations,Hindu denominations are traditions within  Hinduism ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+religion,buddhism,Buddhism,"Likewise, in Indo-Tibetan Buddhism, the ""Stages ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,buddhism,Buddhism,"""Already during this later era, Buddhism ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,buddhism,Won_Buddhism,"""Korea's Won Buddhism: is it really a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,buddhism,Won_Buddhism,"""Won Buddhism: A synthesis of the moral ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,buddhism,Won_Buddhism,"""Sot`aesan's Creation of Won Buddhism through the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,buddhism,Humanistic_Buddhism,Humanistic Buddhism  is a modern philosophy ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+religion,buddhism,Newar_Buddhism,"""Newar ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,buddhism,Tendai_Buddhism,"""Is Tendai Buddhism Relevant to the Modern ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,buddhism,Tibetan_Buddhism,"""The Essence of Tibetan ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,buddhism,Triratna_Buddhist_Community,The Triratna Buddhist Community) is an international fellowship ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+religion,buddhism,True_Buddha_School,The True Buddha School  is a new ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+religion,buddhism,Buddhist_modernism,"Bechert regarded Buddhist modernism as ""modern Buddhist ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,sikhism,Sikhism,"Sikhism considers ""an attack on dharam ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,sikhism,Sikhism,"According to Singha, ""Sikhism does not ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,atheism,Atheism,"Implicit atheism is ""the absence of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,atheism,Atheism,Metaphysical atheism may be either: a) ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+religion,atheism,Atheism,"""Atheism was first used to describe ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+religion,atheism,Atheism,"""Atheism and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Silversmith,The silversmith's handbook : containing full ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+profession,metalworking_occupations,Jewellery,"Later, jewellery and personal adornment ""...signaled ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Machine_tool,"While all machine tools are ""machines that ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Polishing,"In some materials, polishing  is ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,metalworking_occupations,Management,"Fredmund Malik defines management as ""the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Management,"Ghislain Deslandes defines management as ""a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Management,"The phrase ""management is what managers ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Management,"Operations research, sometimes known as ""management ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Quality_assurance,"Quality assurance includes two principles: ""Fit for ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Quality_assurance,"""Integrating a model of analytical quality assurance ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Micrometer,(Those languages also use the micrometer ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,metalworking_occupations,Model-based_definition,"""Promoting Model-Based Definition to Establish a Complete ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Model-based_definition,"""Will Model-based Definition replace engineering drawings throughout ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Model-based_definition,"""Towards an extended model-based definition for the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Model-based_definition,"""Making the Case for a Model-Based Definition ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Trade_union,"Karl Marx described trade unions thus: ""The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,metalworking_occupations,Truck_driver,A truck driver  is a person ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,metalworking_occupations,Mechanical_engineering,"), Bachelor of Mechanical Engineering ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,sewing_occupations,Bookbinding,"""Bookbinding: Its Processes and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,sewing_occupations,Corset,(The word corsetry is sometimes also ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,sewing_occupations,Corset,"(If the corset is worn snugly, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,sewing_occupations,Quilting,"""Women’s work: social relations of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,sewing_occupations,Overlock,"Though ""serging” technically refers to overlocking ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,sewing_occupations,Neckline,Also known as Carmen neckline)these are ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,sewing_occupations,Zipper,"Esquire declared the zipper the ""Newest ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,sewing_occupations,Zipper,Metal zippers  are the classic ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,sewing_occupations,Zipper,Plastic-molded zippers  are identical to ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,sewing_occupations,Zipper,Open-ended zippers  use a box ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,sewing_occupations,Zipper,Two way open-ended zippers  Instead of ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,sewing_occupations,Zipper,Two way closed-ended zippers  are ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,sewing_occupations,Zipper,Magnetic zippers  allow for one-handed ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,sewing_occupations,Textile,"implants), geotextiles, agrotextiles, protective clothing ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,sewing_occupations,Textile,"""Textiles as a Medium of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,sewing_occupations,Yarn,Slub Effect  means a yarn ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,sewing_occupations,Pin,"the bobby pin), or two strips of ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,sewing_occupations,Pin,"These pins are also called ""map ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,sewing_occupations,Juki,"Today, JUKI is  one of ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,healthcare_occupations,Anesthesiologist,In some countries  anesthesiologists comprise ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,healthcare_occupations,Emergency_physician,"An emergency physician is a ""Jack of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,healthcare_occupations,Optometrist,Optometrists (also known as doctors of ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,healthcare_occupations,General_practitioner,"The two terms ""general practitioner"" and ""family ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,healthcare_occupations,Physician_Assistant,"A physician assistant  in the US/Canada, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,healthcare_occupations,Neonatal_Nurse_Practitioner,A neonatal nurse practitioner  is an advanced ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,healthcare_occupations,Physician_assistant,"A physician assistant  in the US/Canada, ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,healthcare_occupations,Social_Worker,"–International Federation of Social Workers ""Social work ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,healthcare_occupations,Social_Worker,"–National Association of Social Workers""Social workers work ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,healthcare_occupations,Physical_Therapist,)The physical therapist professional curriculum includes content ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,healthcare_occupations,Chiropractor,"""Mixer chiropractors ""mix"" diagnostic and treatment ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,healthcare_occupations,Radiographer,Radiographer) handles every examination in the ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,healthcare_occupations,Radiographer,"), a new advanced practice ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,healthcare_occupations,Midwife,"in Midwifery, Bachelor of Midwifery).In British ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,computer_occupations,Data_visualization,"In this line the ""Data Visualization: Modern ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,computer_occupations,Product_manager,"), product managers manage products, their profit ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,computer_occupations,Software_design,"Software design may refer to either ""all ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,computer_occupations,Software_design,"""Software design usually involves problem solving and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,computer_occupations,Solution_architecture,"""Solution architecture alignment for logistics portfolio ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,film_and_television_occupations,Audition,"), the audition panel will be ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,film_and_television_occupations,Stunt,"In 2001, the first ""World Stunt ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,artistic_occupations,Artisan,"Thus,  ""artisanal"" is sometimes used ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,artistic_occupations,Baker,"OOH reports that bakeries, ""especially large ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,artistic_occupations,Baker,"""Baker's asthma—commonly caused by flour allergens ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,artistic_occupations,Musician,"Musicians wrote to be ""...objective, while ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,artistic_occupations,Writer,"(In very earlier times, writers used ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,artistic_occupations,Art,"""Art may be characterized in terms of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,artistic_occupations,Art,"– André Breton
+Art as a ""free ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,artistic_occupations,Art,(The Metropolitan Museum of Art in ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,artistic_occupations,Art,"""Anti-art is a label for art ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Mechanical_engineering,"), Bachelor of Mechanical Engineering ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,scientific_occupations,Mathematician,(Mathematicians are [like] a sort of ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,scientific_occupations,Mathematics,"Aristotle defined mathematics as ""the science ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Mathematics,"Some just say, ""Mathematics is what ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Mathematics,"""Several authors consider that mathematics is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Number,(See imaginary number for a ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,scientific_occupations,Number,"(2001) [1994], ""Number"",  in ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,scientific_occupations,Structure,"""Structure in philosophy, mathematics and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Space,"""space""), or in the Physics of ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,scientific_occupations,Calculus,"Newton called his calculus ""the science of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Science,"""Modern science is typically divided into ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Science,"Science has been described as ""the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Neuroscientist,"""Nora Volkow: Motivated Neuroscientist""  in ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,scientific_occupations,Clinical_pharmaceutical_scientist,"""Central Issues Relevant to Clinical Pharmaceutical Scientist ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Manned_Maneuvering_Unit,"""Assessment of the NASA Manned Maneuvering ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Political_scientist,"Noel, Hans ""Ten Things Political Scientists Know ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,scientific_occupations,Isaac_Newton,Sir Isaac Newton  was an English ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,scientific_occupations,Isaac_Newton,"""Archival material relating to Isaac ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Entertainment,"""Court entertainment often moved from being ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Entertainment,"It is ""not only entertainment, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Benshi,"""The Benshi's New Face: Defining Cinema ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Comedian,"They found that comedians scored ""significantly ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Drag_Queen,"American drag queen RuPaul once said, ""I ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Drag_Queen,"""Drag queens are sometimes called transvestites, although ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Drag_King,"""And that is what drag king has ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Drag_King,"""In recent years, some drag king performers ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Geisha,""".The English term ""geisha girl"" soon ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Kobzar,kobzari Ukrainian: кобзарі) was an itinerant ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,entertainer_occupations,Musician,"Musicians wrote to be ""...objective, while ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,entertainer_occupations,Writer,"(In very earlier times, writers used ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,dance_occupations,Dance_therapy,"""Dance therapy works to improve the social ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Backup_dancer,"""Snake Bites Nicki Minaj's Backup Dancer at ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Backup_dancer,"""Meet Jay-Z and Beyonce`s Incredible Backup ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Backup_dancer,"""P!nk backup dancer is from ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Dance,"Shawn concurs, stating that dance ""was ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Dance,"dance) ""is to designate movement in ",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+profession,dance_occupations,Close_embrace,"In partner dances, close embrace  is ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,dance_occupations,Circle_dance,"Circle dance, or  chain dance, is ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,dance_occupations,Contra_dance,(See the article on contra dance ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,dance_occupations,Contra_dance,"""Different traditions and cultures in contra dance
+
+Colin ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Square_dance,(Many traditional square dance calls are ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,dance_occupations,Ecstatic_dance,"""The primary effect of ecstatic dance is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Ecstatic_dance,"""The described effects of ecstatic dance include ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Waltz,"""The waltz, especially its closed position, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Modern_dance,"According to Treva Bedinghaus, ""Modern dancers use ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Modern_dance,"""Eleanor King, a modern dancer and choreographer, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Postmodern_dance,"""Analytical postmodern dance was also heavily influenced by ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Graham_technique,"""The phrase ""Graham technique"" was registered as ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Pole_dance,"The 2010 winner of ""Miss Pole Dance ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Dance_in_Indonesia,Dance in Indonesia  reflects the country's diversity ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,dance_occupations,Israeli_folk_dancing,"Israeli folk dancing (Hebrew: ריקודי עם, rikudei ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,dance_occupations,Ukrainian_dance,"Ukrainian dance (Ukrainian: Український тaнeць, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,dance_occupations,African-American_dance,"""African-American dance in curricula: modes of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Dancing_mania,"""Tarantism, dancing mania and demonopathy: the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,dance_occupations,Dancing_mania,"""Relicts of dancing mania: the dancing procession ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,nursing_specialties,Faith_community_nursing,"(American Nurses Association, 2012, Faith Community Nursing: ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,nursing_specialties,Nursing,The Emergence of Modern Nursing (2nd ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,nursing_specialties,Nursing,Advance of American Nursing  ; ,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+profession,nursing_specialties,Neonatal_nurse_practitioner,A neonatal nurse practitioner  is an advanced ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,nursing_specialties,Nursing_theory,"Nursing theory is defined as ""a creative ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,nursing_specialties,Nursing_Minimum_Data_Set,"""Nursing Minimum Data Set for School Nursing Practice: Position ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,nursing_specialties,Nursing_in_Germany,Nursing in Germany  is provided by different ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,writing_occupations,Author,"The author's name ""indicates the status ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,writing_occupations,Blog,"Global Voices aggregates international bloggers, ""with ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,writing_occupations,Blog,"""Blogging and advertising
+It is common for ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,writing_occupations,Manuscript_format,"""Manuscript formatting depends greatly on the type ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,writing_occupations,Novelist,"""; he says that the novelist's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,writing_occupations,Writer,"(In very earlier times, writers used ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,professional_driver_types,Truck_driver,A truck driver  is a person ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Engineering,The term engineering  is derived from the ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Scientific,"He wrote that scientific knowledge ""consists ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Mechanical_engineering,"), Bachelor of Mechanical Engineering ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Biomolecular_engineering,"According to ABET, biomolecular engineering curricula ""must ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Petroleum_product,Petroleum products   are materials derived from ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Ecological_engineering,defined ecological engineering as: 1) utilizing ecological ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Ecological_engineering,"Mitsch, Ecological engineering—""a cooperative role with the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Ecological_engineering,"""Ecological engineering in water resources: The benefits ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Ecological_engineering,"""Ecological engineering for sustainable agriculture in arid ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Irrigation,Irrigation helps to  grow agricultural ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Irrigation,"New Orleans, Louisiana)
+Underirrigation or irrigation giving ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Irrigation,in drip line irrigation) gives poor ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Mining_engineering,or M.Eng and Ph.D.) in Mining Engineering.In ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Mining_engineering,and Ph.D.) in Mining Engineering.Some Mining Engineers ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Built_environment,"""The built environment encompasses places and spaces ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Built_environment,"""Health and the Built Environment: 10 Years ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Built_environment,"""Social Capital and the Built Environment: The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Hydraulic_engineering,Hydraulic Engineering in the 21st Century : ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Dam,"""Dams from the Roman Era in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Electromagnetism,"(For more information, see Classical ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Electronic_engineering,Electronic engineering  is an electrical engineering ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Computer_engineering,"According to BLS, ""a computer engineering major ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Digital_electronics,Digital electronics  is a field of ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Software_engineering,"The IEEE also promulgates a ""Software Engineering ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Software_engineering,"Object-oriented software engineering : using UML, patterns, ",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Software_engineering,"Software engineering for embedded systems : methods, ",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Measuring_instrument,"Today, the  usual measuring instruments for ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Partial_discharge,"In electrical engineering,  partial discharge is ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Partial_discharge,Partial discharge measurement is applicable  to ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Electric_motors,Household uses) of electric motors reduced heavy ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Refrigeration,"Refrigeration can be defined as ""The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Aeronautics,"Hierarchical taxonomy
+""Ideas in Aeronautics & ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Nanotechnology,Nanotechnology is  manipulation of ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Bioinformatics,Bioinformatics  is an interdisciplinary field ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Biomaterial,A biomaterial is  any substance ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Speech_recognition,"echoes, room acoustics)Speech recognition is a ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Medical_imaging,"including ""Medical imaging produced by x-rays, ultrasounds, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Medical_imaging,"""Medical imaging may possibly be included in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Neural_engineering,"""Neural engineering—a new discipline for analyzing and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Neural_engineering,"Neural engineering : computation, representation, and dynamics ",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Neural_engineering,"""""Comment on ""What is Neural ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Systems_biology,"""Systems ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Synthetic_biology,European commission Synthetic biology and biodiversity ; ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Lightning,"[Matthew 24:27][Luke 17:24]The expression ""Lightning never ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Lightning,"""Photographing Lightning with a Moving ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Security,food security); as resilience against potential ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Escalator,"""The alleged intended capitalization of ""escalator"" ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Elevator,"(In a bank of elevators, traffic ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Elevator,"""New Elevator Technology: The Machine Room-Less ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Gas,"a noble gas like neon), elemental ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Gas,"An example where the ""ideal gas ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Wind_turbine,Wind turbines are manufactured  in a ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Information,"""The Effect of Lexicographical Information Costs ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Data_science,"Data science is a ""concept to unify ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Artificial_intelligence,"Edward Fredkin argues that ""artificial intelligence is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Control_theory,"""Modern Control Theory – A historical ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Information_theory,"""Concepts from information theory such as redundancy ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Information_theory,""", Journal of Chemical Education
+IEEE Information Theory ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Computer_vision,"""Computer vision is concerned with the automatic ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Systems_engineering,"DAU Systems Engineering Fundamentals: ""an integrated composite ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Systems_engineering,"INCOSE Systems Engineering Handbook: ""homogeneous entity that ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Systems_engineering,"NASA Systems Engineering Handbook: ""(1) The combination of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Systems_engineering,"Basically, proposal engineering uses the ""systems engineering ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Systems_engineering,"), Modeling and Simulation-Based Systems Engineering Handbook, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Optomechatronics,"In engineering, optomechatronics  is a ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,engineering_branches,Military_engineering,"""Military engineering is an academic subject taught ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Nanoelectronics,"""A Short Review on Deep-Sub-Voltage ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Medical_physics,Education of healthcare professionals (including medical physics ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,engineering_branches,Reservoir_engineering,"Dake, L.P., 1978, ""Fundamentals of Reservoir ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Reservoir_engineering,"Slider, H.C. 1976 ""Practical Petroleum Reservoir ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Wayback_Machine,"""The name Wayback Machine was chosen as ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Interdisciplinarity,"""New Directions in Interdisciplinarity: Broad, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Interdisciplinarity,"""Interdisciplinary foundations: reflecting on interdisciplinarity and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,engineering_branches,Audio_engineer,"Audio engineers work on the ""...technical ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors and survivors of childhood cancer: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors' perceptions and experience with acceleration ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor program choice and self-efficacy: Relationship ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Change-Agent-for-Equity model: A framework for school ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Exploring how school counselors position low-income African ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor accountability: The path to social ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor dispositions as predictors of data ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The school counselor activity rating scale: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors as accountability leaders: Another ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The beliefs and practices of school counselors ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"Alexandria, VA:  American School Counselor ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,mental_health_occupations,School_counselor,"""Investigating the psychometric properties of School Counselor ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Empowerment theory for the professional school counselor: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Change-Agent-for-Equity model: A framework for school ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors' strategies for social justice change: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Listen to the voices: School counselors and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors: Closing achievement gaps and writing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor beliefs about ASCA National Model ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Change-Agent-for-Equity model: A framework for school ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""A comparison of existing school counselor program ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors' attitudes regarding statewide comprehensive developmental ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Day-to-day activities of school counselors: Alignment with ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The beliefs and practices of school counselors ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors' partnerships working with linguistically diverse ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Who sees the school counselor for college ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors as social capital: The effects ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Connecticut professional school counselors: College and career ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Change-Agent-for-Equity model: A framework for school ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor assignment in secondary ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors and collaboration: Finding resources through ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Missouri professional school counselors: Ratios matter, especially ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Connecticut professional school counselors: College and career ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""An exploration of school counselors' demands and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors and the influence of Adler: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Faces of the future: School counselors as ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors' self-perceived Asian American counseling ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Student risk-taking behaviors: When do school counselors ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor advocacy: When law and ethics ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"Alexandria, VA:  American School Counselor ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,mental_health_occupations,School_counselor,"""The role of school counselors in addressing ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The experiences of school counselors-in-training in group ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Homonegativity among professional school counselors: An ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Professional school counselors and the practice of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Principals' perceptions of school counselor roles and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors and principals: Partners in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor induction and the importance of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Introduction to special issue: The school counselor ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Secondary school counselors as educational leaders: Shifting ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""High school counselors' views of their leadership ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Four views of the professional school counselor ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The school counselor's role in facilitating multisystemic ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors' and school principals' perceptions of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Change-Agent-for-Equity model: A framework for school ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor educators as educational leaders promoting ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Perceptions of school counselors and school principals ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Contribution of professional school counselors' values and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Principals' perceptions of elementary school counselors' role ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Single-subject research design for school counselors: Becoming ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Missouri professional school counselors: Ratios matter, especially ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""How school counselors can help prevent online ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors and the cyberbully: Interventions and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Obesity prevention among Latino youth: School counselors' ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Missouri professional school counselors: Ratios matter, especially ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The role of the rural school counselor: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors' partnerships working with linguistically diverse ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors' perceptions of their involvement in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors' roles in developing partnerships with ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School-family-community partnerships: Implications for school counselors to ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Culturally competent collaboration: School counselor collaboration with ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor induction and the importance of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Ethical and legal issues in school counselor ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Preparing school counselors to be leaders and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor supervisors' perceptions of the discrimination ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Supervising school counselors and interns: Resources for ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Development of the School Counselor Self-Efficacy ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselor roles: Discrepancies between actual practice ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Teacher perceptions and expectations of school counselor ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The role of school counselors in meeting ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""School counselors: Becoming key players in school ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Inducting the transformed school counselor into the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Change-Agent-for-Equity model: A framework for school ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""An exploration of 21st Century school counselors' ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""Teacher perceptions of the professional school counselor ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The school counselor activity rating scale: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The school counselor as an emerging professional ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,School_counselor,"""The school counselor alumni peer consultation ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,Social_worker,"–International Federation of Social Workers ""Social work ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,mental_health_occupations,Social_worker,"–National Association of Social Workers""Social workers work ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Sound_design,Sound design commonly involves performing (see ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,theatre_personnel,Movement_director,"""Movement Directors: the secret weapons of theatre, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Audio_engineer,"Audio engineers work on the ""...technical ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Musician,"Musicians wrote to be ""...objective, while ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Musical_theatre,"Musical theatre writer Andrew Lamb notes, ""The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Tragedy,Tragedy  is a form of ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,theatre_personnel,Tragedy,"Arthur Miller's essay ""Tragedy and the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Tragedy,"""You emerge from tragedy equipped against ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Improvisational_theatre,"""Training to imagine practical improvisational theatre techniques ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Opera,Opera  is a form of ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,theatre_personnel,Opera,")However, operatic modernism's use of atonality ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+profession,theatre_personnel,Opera,"""The biggest chunk of operatic training ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Scenography,":
+
+""Scenography is the seamless synthesis of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,theatre_personnel,Rehearsal,"A  ""dress rehearsal"" is a rehearsal ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,corporate_titles,Chief_Investment_Officer,"""Whenever the role of the chief investment officer ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,corporate_titles,Human_resources,"""Human resources and industrial relations: Commonalities and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,corporate_titles,Supply-chain_management,Supply-chain management has been defined  as ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,corporate_titles,Chief_Visibility_Officer,A chief visibility officer  or director of ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,industrial_occupations,Auto_mechanic,An auto mechanic  is a mechanic ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,industrial_occupations,Miller,"This is known as a ""miller's ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,industrial_occupations,Miller,"Sayings such as ""worth a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+profession,railway_industry_occupations,Gandy_dancer,Though all gandy dancers sang  railroad ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+profession,railway_industry_occupations,Bridge_tender,A bridge tender  operates and maintains ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,left-wing,New_Left,"""Among Hall's New Left works were the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,left-wing,New_Left,"Instead they called for a ""new left ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,left-wing,New_Left,"""The New Left opposed what it saw ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,left-wing,New_Left,"(2004) ""New Left, not new liberal: 1960s ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,left-wing,New_Left,"""Letter to the New ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,left-wing,Regressive_left,"Rubin describes the regressive left as ""the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,left-wing,Left_Bloc,The Left Blocʃˈkeɾdɐ]) is a left-wing political ,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+political,left-wing,American_Left,"A Short History of American Left Movements"",Part ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,right-wing,Christian_right,"Other ""Christian right organizations supported the teaching ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,right-wing,Christian_right,"""Faith and Election: The Christian right in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,right-wing,Christian_right,"Green, John C. ""The Christian Right and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,right-wing,Christian_right,"Shields, Jon A., ""Framing the Christian Right: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,right-wing,New_Right,"(1992) ""The new right in Germany: The ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,right-wing,Congress_of_the_New_Right,"""The Congress of the New Right is the latest anti-establishment ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Communism,"Communism may be interpreted as ""the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Communism,"""The Long-Term Effects of Communism in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Communism,(The Cambridge History of Communism ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,communism,Religious_communism,"Larry Arnhart described ""religious communism in the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Council_communism,"""The Birth of Council ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Council_communism,"""Council ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Council_communism,"""On Council ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Council_communism,"""The Frankfurt School and Council ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Council_communism,"""From Left Radicalism to Council Communism: Anton ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Council_communism,"""Anarchism and Council Communism: On the Russian ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Council_communism,"""After council communism: the post-war rediscovery of ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,communism,Anarchist_communism,"""An important difference between anarchist communism and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism,"Other currents inspired Christian socialism ""often ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Libertarian_socialism,"According to Hahnel, ""libertarian socialism was as ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Authoritarian_socialism,"""Immanent Critique and Authoritarian ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Authoritarian_socialism,"""Strategies of structural reform of authoritarian socialism: ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Real_socialism,"""What is real ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism_in_one_country,Socialism in one country (Russian: социали́зм в отде́льно взя́той ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,socialism,Socialism_in_one_country,"""Socialism in One Country, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism_in_one_country,"""Socialism in one ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism_in_one_country,"""Socialism in one country: a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism_in_one_country,"""Lenin's Conception of Socialism in One Country, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Prussian_socialism,"Landa describes Spengler's ""Prussian Socialism"" as ""working ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Democratic_socialism,"""Democratic socialism, explained by a democratic ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Democratic_socialism,"""What is Democratic ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Democratic_socialism,"""Democratic Socialism in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism_in_One_Country,Socialism in one country (Russian: социали́зм в отде́льно взя́той ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,socialism,Socialism_in_One_Country,"""Socialism in One Country, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism_in_One_Country,"""Socialism in one ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism_in_One_Country,"""Socialism in one country: a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism_in_One_Country,"""Lenin's Conception of Socialism in One Country, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Burmese_Way_to_Socialism,"""THE BURMESE WAY TO ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Melanesian_socialism,"""The Myth of Melanesian ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,socialism,Socialism_in_New_Zealand,"""Marxian Socialism in New ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Social_democracy,Many democratic socialists use social democracy  ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,democracy,Social_democracy,"""Social democracy in the unfinished global ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Direct_democracy,"(See ""Direct democracy in Switzerland"" ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,democracy,Direct_democracy,)Modern Direct Democracy also occurs within the ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,democracy,Liberal_democracy,"""Liberal democracy has also been attacked by ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Liberal_democracy,"He suggests that liberal democracy ""is neither ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Participatory_democracy,"""Another proposed advantage participatory democracy over other ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Christian_democracy,"Christian Democracy fosters an ""ecumenical unity achieved ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Belarusian_Christian_Democracy,The Belarusian Christian Democracy  is a Christian-democratic ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,democracy,Radical_democracy,"Radical democracy can be defined as ""a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Radical_democracy,Radical Democracy Party –  was an ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,democracy,Athenian_democracy,Athenian democracy  developed around the sixth ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,democracy,Authoritarian_democracy,"Authoritarian democracy has also been called ""organic ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Defensive_democracy,defensive democracy to prevent illegal parties) and ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,democracy,Deliberative_democracy,Deliberative democracy or discursive democracy  is ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,democracy,Inclusive_Democracy,""", The International Journal of Inclusive Democracy, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Inclusive_Democracy,""", The International Journal of Inclusive Democracy, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Inclusive_Democracy,"1; and ""The Autonomy and Inclusive Democracy ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Jeffersonian_democracy,"""Some Economic Origins of Jeffersonian ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Jeffersonian_democracy,"""Jeffersonian democracy and the origins of political ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Media_democracy,"""Media democracy is grounded in creating a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Pluralist_democracy,"577–587, University of Utah)
+""A Pluralist Democracy"", article ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,democracy,Sovereign_democracy,"Sovereign democracy (Russian: суверенная демократия, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,democracy,Sovereign_democracy,"""Whilst talking about sovereign democracy in 2006, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Inclusive_democracy,""", The International Journal of Inclusive Democracy, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Inclusive_democracy,""", The International Journal of Inclusive Democracy, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,Inclusive_democracy,"1; and ""The Autonomy and Inclusive Democracy ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,democracy,National_League_for_Democracy,"The National League for Democracy (Burmese: အမျိုးသား ဒီမိုကရေစီ အဖွဲ့ချုပ်, ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,democracy,Movement_for_Social_Democracy,"The Movement for Social Democracy, Kinima Sosialdimokraton) is a ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,liberalism,Economic_liberalism,Economic liberalism  follows the same philosophical ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,liberalism,Liberalism_in_Germany,"Liberalism in Germany
+Mork, Gordon R. ""Bismarck and the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,liberalism,Religious_liberalism,"""Religious ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,populism,Populism,""".Although academic definitions of populism have ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,populism,Populism,"""Populism is, according to Mudde and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,populism,Populism,"Mudde noted that populism is ""moralistic ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,populism,Populism,"Populism typically entails ""celebrating them as ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,populism,Populism,"Inclusionary populism tends to define ""the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,populism,Populism,"""Populism can serve as a democratic ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,conservatism,Civic_conservatism,"""Civic conservatism, like free market economics, proceeds ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Nationalism,"More abstractly, nationalism is ""power-hunger tempered ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Nationalism,"Albert Einstein stated that ""Nationalism is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Nationalism,"""The Nationalism ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Nationalism,Nationalism : selected ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+political,nationalism,Musical_nationalism,"""Edward MacDowell: Musical Nationalism and an American ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Musical_nationalism,"""Musical Nationalism in Ireland in the Twentieth ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Musical_nationalism,"""Moniuszko and Musical ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Musical_nationalism,"""Race, Class, and Musical Nationalism in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Radical_nationalism,"This intellectual synthesis of ""radical nationalism and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,African_nationalism,"""African Nationalism: Concept or ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,African_nationalism,"""Women and African ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Ethiopian_nationalism,Ethiopian nationalism (Amharic: ኢትዮጵያዊነት Ītyop'iyawīnet; ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,nationalism,Arab_nationalism,"""Arab ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Arab_nationalism,"""Arab ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Arab_nationalism,"""The Rise of Arab Nationalism in the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Azerbaijani_nationalism,"""A key advocate of Azerbaijani nationalism is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Khmer_nationalism,Khmer nationalism or  Cambodian nationalism is ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,nationalism,Chinese_nationalism,"""The many facets of Chinese ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Chinese_nationalism,"""Talent, Virtue and Nation: Chinese Nationalism and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Bengali_nationalism,Bengali nationalism is a  form of ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,nationalism,Pakistani_nationalism,"""The Growth of Pakistani Nationalism, 800 AD ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Pakistani_nationalism,"""Foundations of Pakistani Nationalism: The Life and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Tamil_nationalism,Tamil nationalism  is the ideology which ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,nationalism,French_nationalism,"""Monuments and Memory in French ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Italian_nationalism,"Cunsolo, Ronald S. ""Italian nationalism in historical ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Italian_nationalism,"""The Theory and Practice of Italian Nationalism, ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Italian_nationalism,"""Enrico Corradini's Italian nationalism: the ‘right wing’ ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Norwegian_romantic_nationalism,Norwegian romantic nationalism  was a movement in ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,nationalism,Circassian_nationalism,"""Circassian Nationalism and the ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Resource_nationalism,"""The Return of Resource ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,nationalism,Technological_nationalism,"""Maple Leaves, Beavers and Satellites: Technological Nationalism ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,anarchism,Philosophical_anarchism,"""Philosophical ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,anarchism,Collectivist_anarchism,"As Kropotkin noted, ""[collectivist anarchism] express[es] a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,anarchism,Religious_anarchism,"(2011), Religious Anarchism: New Perspectives (1st ",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+political,anarchism,Anarchism_in_Argentina,"""The Uniqueness of Anarchism in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,anarchism,Individualist_anarchism_in_the_United_States,"""Individualist anarchism in the United States, England and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,anarchism,Anarchism_in_Japan,"""Anarchism in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,anarchism,Anarchism_in_Japan,"""Anarchism in Japan and ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,anarchism,Anarchism_in_Germany,"""New England Anarchism in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,capitalism,Capitalism,"Rand defined capitalism as ""a social ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,capitalism,State_capitalism,"The most recent slogan is ""State ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,capitalism,State_capitalism,"James on Marx's Capital and State Capitalism""
+State ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,capitalism,East_Asian_model_of_capitalism,Japan:   The East Asian model of capitalism was ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,capitalism,Welfare_capitalism,"Social Democracy & Welfare Capitalism
+Jacoby, Sanford M.  ",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+political,capitalism,Welfare_capitalism,"""Welfare ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,capitalism,Welfare_capitalism,"3 Oct. 2009
+M. Ramesh; ""Welfare Capitalism in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Fascism,"Roger Griffin describes fascism as ""a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Fascism,"In Griffin's view, Fascism is ""a ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Fascism,"""Robert Paxton says that fascism is ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Fascism,"Paxton says: ""In fascism's heyday, in ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Fascism,"""The Transnational Consensus: Fascism and Nazism ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Fascism,"""Fascism – Concepts and Theories, version ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Fascism,"""How Fascism Works: A Yale philosopher ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Refuse_Fascism,"""Refuse Fascism spokesperson Sunsara Taylor said that ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Refuse_Fascism,"""Refuse Fascism was involved in organizing several ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Refuse_Fascism,"""On November 4, 2017, Refuse Fascism held ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Clerical_fascism,"Griffin adds that ""clerical fascism"" ""should never ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Japanese_fascism,"(1971) ""Rural Origins of Japanese Fascism. ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Italian_Fascism,"""Italian ",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+political,fascism,Grand_Council_of_Fascism,The Grand Council of Fascism  was the main ,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE

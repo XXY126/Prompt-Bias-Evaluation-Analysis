@@ -1,0 +1,9 @@
+{
+  "run": "bold_raw_v1_rep5",
+  "source_md5": "6b8a579f5e959960fd1c297d5b80eb2e",
+  "n_records": 236790,
+  "n_scope": 108610,
+  "n_unique": 108605,
+  "scope": "All prepared gender/race texts, including Han; language exclusion unchanged",
+  "script_md5": "e5856c4c5eb71573ad5abd3d4d3345e3"
+}

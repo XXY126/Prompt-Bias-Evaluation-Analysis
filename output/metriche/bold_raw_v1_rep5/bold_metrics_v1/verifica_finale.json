@@ -1,0 +1,8 @@
+{
+  "rows": 236790,
+  "original_columns_preserved": true,
+  "r_read_verified": true,
+  "excluded_scores_null": true,
+  "sentiment_scored": 109908,
+  "gender_unigram_scored": 31701
+}

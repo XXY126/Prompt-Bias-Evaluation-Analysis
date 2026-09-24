@@ -1,0 +1,246 @@
+{
+  "run": "bold_english_sentence_v3_limit8",
+  "audited_at": "2026-09-13 16:34:59 UTC",
+  "input_files": ["C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/data/generated/bold_english_sentence_v3_limit8/qwen3_8b_base/generations.parquet", "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/data/generated/bold_english_sentence_v3_limit8/qwen3_8b_post/generations.parquet"],
+  "input_md5": {
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/data/generated/bold_english_sentence_v3_limit8/qwen3_8b_base/generations.parquet": "4460756516fa9f528ec6355cbc988ade",
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/data/generated/bold_english_sentence_v3_limit8/qwen3_8b_post/generations.parquet": "8c9b2a602aa30a02f971ef9ad28f544a"
+  },
+  "source_metadata": {
+    "qwen3_8b_base": {
+      "status": "complete",
+      "experiment_signature": "6667c3cb4e107edb0b8b2d3cfe6b22b63d429e3a466690ddb4d97a13c7fc675b",
+      "protocol": {
+        "implementation_sha256": "e9e9a2d2edffb8c9e023590281f442d6868f887009c6441be49a9bba7600c2db",
+        "model_key": "qwen3_8b_base",
+        "repo_id": "Qwen/Qwen3-8B-Base",
+        "training_stage": "base",
+        "model_manifest": {
+          "huggingface_commit": "49e3418fbbbca6ecbdf9608b4d22e5a407081db4",
+          "config_sha256": "3bd01d7ad7a2e203ecbbe84e24087a51c6d2a108ee4bcc42d0016bf49564983a",
+          "index_sha256": "cd39d5e44c5aadfd1954b598883aea1c4a98822a2f7723d214ef2278b7fec2e4",
+          "weight_files": [
+            {
+              "name": "model-00001-of-00005.safetensors",
+              "bytes": 3996250744
+            },
+            {
+              "name": "model-00002-of-00005.safetensors",
+              "bytes": 3993160032
+            },
+            {
+              "name": "model-00003-of-00005.safetensors",
+              "bytes": 3959604768
+            },
+            {
+              "name": "model-00004-of-00005.safetensors",
+              "bytes": 3187841392
+            },
+            {
+              "name": "model-00005-of-00005.safetensors",
+              "bytes": 1244659840
+            }
+          ]
+        },
+        "run_name": "bold_english_sentence_v3_limit8",
+        "prompt_mode": "instruction_prefix",
+        "repetitions": 1,
+        "base_seed": 42,
+        "limit": 8,
+        "generation": {
+          "do_sample": true,
+          "temperature": 1,
+          "top_k": 40,
+          "top_p": 0.95,
+          "repetition_penalty": 1,
+          "max_new_tokens": 80,
+          "sentence_stop": "english_sentence_v1"
+        },
+        "runtime": {
+          "batch_size": 8,
+          "checkpoint_every_batches": 10,
+          "attention_implementation": "sdpa"
+        },
+        "quantization": {
+          "load_in_4bit": true,
+          "quant_type": "nf4",
+          "double_quant": false,
+          "compute_dtype": "bfloat16"
+        },
+        "source_sha256": {
+          "gender_prompt.json": "a863aaf2492e3c911c39f435005abee2eba5f5edabe836e97de110cd83273054",
+          "political_ideology_prompt.json": "a83ea7cc272971b618231e13bcb5c1d1be5b208c92135c4ffde85be31f8ab4c6",
+          "profession_prompt.json": "5508012069f20419559417e64d8bb2b8d864ebf8afedd21e5ca564393c291794",
+          "race_prompt.json": "200337f6c43b09671e580b1df6aea2cdc0196ee02779260e9881da07029e1cb6",
+          "religious_ideology_prompt.json": "633830ea87d569e5476895a93f68b8f686cb0dcae6d67a1091a9247c5c4c931d"
+        },
+        "instruction_prefix": "Complete the unfinished sentence below in English.\nWrite only the words needed to finish that sentence naturally.\nKeep the completion concise and end with a full stop.\nDo not start another sentence.\nDo not repeat the given text, ask questions, or create a quiz.\nOutput only the continuation.\n\nUnfinished sentence:\n",
+        "sentence_implementation_sha256": "81d117942a64698a37d5480e70f01b0d5adce27bbcc3b6372a498c656299740c"
+      },
+      "records_expected": 8,
+      "records_completed": 8,
+      "created_or_resumed_at": "2026-09-13T18:31:30+0200",
+      "software": {
+        "python": "3.11.16",
+        "platform": "Windows-10-10.0.26200-SP0",
+        "packages": {
+          "torch": "2.13.0+cu126",
+          "transformers": "5.15.1",
+          "accelerate": "1.14.0",
+          "bitsandbytes": "0.50.1",
+          "pandas": "3.0.5",
+          "pyarrow": "25.0.1",
+          "PyYAML": "6.0.3"
+        }
+      },
+      "git": {
+        "commit": "437187d4bd66598950ca4c9c07eda0cbc5c00d48",
+        "dirty": true
+      },
+      "gpu": {
+        "name": "NVIDIA GeForce RTX 3080",
+        "cuda_runtime": "12.6"
+      },
+      "model_memory_bytes": 5962820096,
+      "records_skipped_empty": 0,
+      "records_roundtrip_mismatch": 0,
+      "completed_at": "2026-09-13T18:31:58+0200",
+      "peak_gpu_memory_bytes": 6664561664
+    },
+    "qwen3_8b_post": {
+      "status": "complete",
+      "experiment_signature": "382317b0c4563035a410fb18c1966d68108b92a260e307e34219288f8e0651ae",
+      "protocol": {
+        "implementation_sha256": "e9e9a2d2edffb8c9e023590281f442d6868f887009c6441be49a9bba7600c2db",
+        "model_key": "qwen3_8b_post",
+        "repo_id": "Qwen/Qwen3-8B",
+        "training_stage": "post_trained",
+        "model_manifest": {
+          "huggingface_commit": "b968826d9c46dd6066d109eabc6255188de91218",
+          "config_sha256": "f7c4eadfbbf522470667b797a3c89be2524832d2d599797248dc304fff447c30",
+          "index_sha256": "f9fdbcb91c23971c13ec5d5f2573d2349e8f61f2f049371ec699281748fdb1bc",
+          "weight_files": [
+            {
+              "name": "model-00001-of-00005.safetensors",
+              "bytes": 3996250744
+            },
+            {
+              "name": "model-00002-of-00005.safetensors",
+              "bytes": 3993160032
+            },
+            {
+              "name": "model-00003-of-00005.safetensors",
+              "bytes": 3959604768
+            },
+            {
+              "name": "model-00004-of-00005.safetensors",
+              "bytes": 3187841392
+            },
+            {
+              "name": "model-00005-of-00005.safetensors",
+              "bytes": 1244659840
+            }
+          ]
+        },
+        "run_name": "bold_english_sentence_v3_limit8",
+        "prompt_mode": "instruction_prefix",
+        "repetitions": 1,
+        "base_seed": 42,
+        "limit": 8,
+        "generation": {
+          "do_sample": true,
+          "temperature": 1,
+          "top_k": 40,
+          "top_p": 0.95,
+          "repetition_penalty": 1,
+          "max_new_tokens": 80,
+          "sentence_stop": "english_sentence_v1"
+        },
+        "runtime": {
+          "batch_size": 8,
+          "checkpoint_every_batches": 10,
+          "attention_implementation": "sdpa"
+        },
+        "quantization": {
+          "load_in_4bit": true,
+          "quant_type": "nf4",
+          "double_quant": false,
+          "compute_dtype": "bfloat16"
+        },
+        "source_sha256": {
+          "gender_prompt.json": "a863aaf2492e3c911c39f435005abee2eba5f5edabe836e97de110cd83273054",
+          "political_ideology_prompt.json": "a83ea7cc272971b618231e13bcb5c1d1be5b208c92135c4ffde85be31f8ab4c6",
+          "profession_prompt.json": "5508012069f20419559417e64d8bb2b8d864ebf8afedd21e5ca564393c291794",
+          "race_prompt.json": "200337f6c43b09671e580b1df6aea2cdc0196ee02779260e9881da07029e1cb6",
+          "religious_ideology_prompt.json": "633830ea87d569e5476895a93f68b8f686cb0dcae6d67a1091a9247c5c4c931d"
+        },
+        "instruction_prefix": "Complete the unfinished sentence below in English.\nWrite only the words needed to finish that sentence naturally.\nKeep the completion concise and end with a full stop.\nDo not start another sentence.\nDo not repeat the given text, ask questions, or create a quiz.\nOutput only the continuation.\n\nUnfinished sentence:\n",
+        "sentence_implementation_sha256": "81d117942a64698a37d5480e70f01b0d5adce27bbcc3b6372a498c656299740c"
+      },
+      "records_expected": 8,
+      "records_completed": 8,
+      "created_or_resumed_at": "2026-09-13T18:33:58+0200",
+      "software": {
+        "python": "3.11.16",
+        "platform": "Windows-10-10.0.26200-SP0",
+        "packages": {
+          "torch": "2.13.0+cu126",
+          "transformers": "5.15.1",
+          "accelerate": "1.14.0",
+          "bitsandbytes": "0.50.1",
+          "pandas": "3.0.5",
+          "pyarrow": "25.0.1",
+          "PyYAML": "6.0.3"
+        }
+      },
+      "git": {
+        "commit": "437187d4bd66598950ca4c9c07eda0cbc5c00d48",
+        "dirty": true
+      },
+      "gpu": {
+        "name": "NVIDIA GeForce RTX 3080",
+        "cuda_runtime": "12.6"
+      },
+      "model_memory_bytes": 5962820096,
+      "records_skipped_empty": 0,
+      "records_roundtrip_mismatch": 0,
+      "completed_at": "2026-09-13T18:34:19+0200",
+      "peak_gpu_memory_bytes": 6664561664
+    }
+  },
+  "script_md5": {
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/R/audit_generazioni.R": "d60c9a484ef51bcec33ed5cbc637df89",
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/scripts/06_audit_generazioni.R": "494fa94b7357a63e71204e6b8213e3a4"
+  },
+  "han_detection": "Unicode script=Han; not a Chinese language classifier",
+  "quiz_detection": "Literal ASCII '?' in generation only; does not verify an answer is present",
+  "nul_handling": {
+    "policy": "nul_visible_replacement_v1",
+    "action": "NUL -> U+FFFD only in R audit copy; original Parquet unchanged",
+    "raw_bytes": "caratteri_nul.csv: original_utf8_hex for each affected cell",
+    "n_rows": 0,
+    "n_nul": 0,
+    "metric_preparation": "prompt/generation NUL rows are not prepared for scoring"
+  },
+  "replica_comparison": {
+    "method": "Equality after lowercase (locale=en), Unicode whitespace collapse and trim",
+    "group_by": ["model_key", "prompt_id"],
+    "eligible": "status=ok and nonempty generation; groups with duplicate keys excluded",
+    "original_text_preserved": true
+  },
+  "sampling": {
+    "seed": 42,
+    "keys_per_category": 5,
+    "paired_by": ["prompt_id", "repetition"]
+  },
+  "r_version": "R version 4.6.1 (2026-06-24 ucrt)",
+  "packages": {
+    "here": "1.0.2",
+    "dplyr": "1.2.1",
+    "stringi": "1.8.9",
+    "readr": "2.2.0",
+    "jsonlite": "2.0.0",
+    "ggplot2": "4.0.3",
+    "arrow": "25.0.1"
+  }
+}

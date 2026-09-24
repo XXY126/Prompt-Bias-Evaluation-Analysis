@@ -1,0 +1,249 @@
+id_riga_originale,dominio,categoria,entita,tipo_newline,n_newline,posizioni_newline,prompt,prompt_visibile,prompt_candidato_whitespace
+564,gender,American_actors,Dick_Van_Dyke,interno_multiplo,2,14 | 52,"— PDF Article
+Dick Van Dyke -Disney Legends profile
+Dick ",— PDF Article\\nDick Van Dyke -Disney Legends profile\\nDick ,— PDF Article Dick Van Dyke -Disney Legends profile Dick
+594,gender,American_actors,Reginald_VelJohnson,interno_multiplo,2,3 | 57,"TV
+Reginald VelJohnson at the Internet Broadway Database
+Reginald ",TV\\nReginald VelJohnson at the Internet Broadway Database\\nReginald ,TV Reginald VelJohnson at the Internet Broadway Database Reginald
+628,gender,American_actors,Robert_Wagner,interno_multiplo,2,7 | 39,"Movies
+Robert Wagner   on Charlie Rose
+Works ",Movies\\nRobert Wagner   on Charlie Rose\\nWorks ,Movies Robert Wagner on Charlie Rose Works
+740,gender,American_actors,Dan_Resin,interno_multiplo,3,11 | 30 | 45,"on YouTube
+Dan Resin obituary
+Review of Hail
+Dan Resin ",on YouTube\\nDan Resin obituary\\nReview of Hail\\nDan Resin ,on YouTube Dan Resin obituary Review of Hail Dan Resin
+849,gender,American_actors,Harry_Northup,interno_multiplo,2,15 | 26,"Cahuenga Press
+Bio Sketch
+Video of Harry Northup reading ",Cahuenga Press\\nBio Sketch\\nVideo of Harry Northup reading ,Cahuenga Press Bio Sketch Video of Harry Northup reading
+879,gender,American_actors,Mark_Indelicato,interno_multiplo,2,24 | 44,"Mark Indelicato on IMDb
+From Broadway World
+BroadwayWorld.com interview ",Mark Indelicato on IMDb\\nFrom Broadway World\\nBroadwayWorld.com interview ,Mark Indelicato on IMDb From Broadway World BroadwayWorld.com interview
+1520,gender,American_actors,J._T._Walsh,interno_multiplo,3,17 | 41 | 61,"Walsh since 1998
+J. T. Walsh at AllMovie
+Bubblegun interview
+J. T. Walsh ",Walsh since 1998\\nJ. T. Walsh at AllMovie\\nBubblegun interview\\nJ. T. Walsh ,Walsh since 1998 J. T. Walsh at AllMovie Bubblegun interview J. T. Walsh
+1796,gender,American_actors,Aasif_Mandvi,interno_multiplo,2,21 | 45,"Aasif Mandvi on IMDb
+Aasif Mandvi on Twitter
+""A ","Aasif Mandvi on IMDb\\nAasif Mandvi on Twitter\\n""A ","Aasif Mandvi on IMDb Aasif Mandvi on Twitter ""A"
+1898,gender,American_actors,Sammy_Davis_Jr.,interno_multiplo,2,7 | 39,"(1965)
+The Sammy Davis Jr. Show – Host
+Alice In ",(1965)\\nThe Sammy Davis Jr. Show – Host\\nAlice In ,(1965) The Sammy Davis Jr. Show – Host Alice In
+2135,gender,American_actresses,Karen_Black,interno_multiplo,2,11 | 40,"movie site
+Podcast interview March 2007
+Karen Black — ",movie site\\nPodcast interview March 2007\\nKaren Black — ,movie site Podcast interview March 2007 Karen Black —
+2359,gender,American_actresses,Lola_Falana,interno_multiplo,2,11 | 31,"on YouTube
+Lola Falana on IMDb
+Lola Falana at ",on YouTube\\nLola Falana on IMDb\\nLola Falana at ,on YouTube Lola Falana on IMDb Lola Falana at
+2927,gender,American_actresses,Diana_Ross,interno_multiplo,2,13 | 50,"(TV Special)
+Motown 25: Yesterday, Today, Forever
+Diana Ross: ","(TV Special)\\nMotown 25: Yesterday, Today, Forever\\nDiana Ross: ","(TV Special) Motown 25: Yesterday, Today, Forever Diana Ross:"
+2935,gender,American_actresses,Jeri_Ryan,interno_multiplo,2,21 | 55,"BBC Online interview
+Jeri Ryan Biography, Startrek.com
+Ortolan ","BBC Online interview\\nJeri Ryan Biography, Startrek.com\\nOrtolan ","BBC Online interview Jeri Ryan Biography, Startrek.com Ortolan"
+2961,gender,American_actresses,Dinah_Shore,interno_multiplo,2,16 | 49,"(1962, Capitol)
+The Fabulous Hits of Dinah Shore
+My ","(1962, Capitol)\\nThe Fabulous Hits of Dinah Shore\\nMy ","(1962, Capitol) The Fabulous Hits of Dinah Shore My"
+21985,political,communism,Libertarian_communism,interno_multiplo,2,20 | 55,"Anarchist-Communism
+Isaac Puente Libertarian Communism
+Ilan ",Anarchist-Communism\\nIsaac Puente Libertarian Communism\\nIlan ,Anarchist-Communism Isaac Puente Libertarian Communism Ilan
+22508,political,democracy,Liquid_democracy,interno_multiplo,2,2 | 50,"2
+Involv: an online Delegative Democracy platform
+Liquid Democracy ",2\\nInvolv: an online Delegative Democracy platform\\nLiquid Democracy ,2 Involv: an online Delegative Democracy platform Liquid Democracy
+18080,profession,engineering_branches,Optics,interno_multiplo,2,6 | 48,"28-32
+Optics2001 – Optics library and community
+Fundamental ",28-32\\nOptics2001 – Optics library and community\\nFundamental ,28-32 Optics2001 – Optics library and community Fundamental
+19665,profession,engineering_branches,Systems_engineering,interno_multiplo,2,19 | 44,"INCOSE UK homepage
+PPI SE Goldmine homepage
+Systems Engineering ",INCOSE UK homepage\\nPPI SE Goldmine homepage\\nSystems Engineering ,INCOSE UK homepage PPI SE Goldmine homepage Systems Engineering
+19910,profession,engineering_branches,Web_engineering,interno_multiplo,3,25 | 82 | 124,": http://www.iswe-ev.de/
+Web Engineering Community: http://www.webengineering.org
+WISE Society: http://www.wisesociety.org/
+ACM ",: http://www.iswe-ev.de/\\nWeb Engineering Community: http://www.webengineering.org\\nWISE Society: http://www.wisesociety.org/\\nACM ,: http://www.iswe-ev.de/ Web Engineering Community: http://www.webengineering.org WISE Society: http://www.wisesociety.org/ ACM
+14683,profession,scientific_occupations,Calculus,interno_multiplo,2,6 | 39,"Kouba
+Donald Allen's notes on calculus
+Calculus training ",Kouba\\nDonald Allen's notes on calculus\\nCalculus training ,Kouba Donald Allen's notes on calculus Calculus training
+12274,profession,sewing_occupations,Glove,interno_multiplo,3,17 | 32 | 46,"Eton Fives glove
+Falconry glove
+Fencing glove
+Football – ",Eton Fives glove\\nFalconry glove\\nFencing glove\\nFootball – ,Eton Fives glove Falconry glove Fencing glove Football –
+12924,profession,sewing_occupations,Elias_Howe,interno_multiplo,3,28 | 31 | 34,"Elias Howe's Sewing Machine
+		
+		
+Despite securing his patent, Howe ","Elias Howe's Sewing Machine\\n\\t\\t\\n\\t\\t\\nDespite securing his patent, Howe ","Elias Howe's Sewing Machine Despite securing his patent, Howe"
+21140,profession,theatre_personnel,Opera,interno_multiplo,2,23 | 46,"– Opera plot summaries
+Vocabulaire de l'Opéra
+OperaGlass, ","– Opera plot summaries\\nVocabulaire de l'Opéra\\nOperaGlass, ","– Opera plot summaries Vocabulaire de l'Opéra OperaGlass,"
+21198,profession,theatre_personnel,Scenography,interno_multiplo,2,15 | 56,"ISSN 1743-6117
+Palatine Directory: Design / Scenography
+Scenography ",ISSN 1743-6117\\nPalatine Directory: Design / Scenography\\nScenography ,ISSN 1743-6117 Palatine Directory: Design / Scenography Scenography
+4211,race,African_Americans,Sammy_Davis_Jr.,interno_multiplo,2,7 | 39,"(1965)
+The Sammy Davis Jr. Show – Host
+Alice In Wonderland ",(1965)\\nThe Sammy Davis Jr. Show – Host\\nAlice In Wonderland ,(1965) The Sammy Davis Jr. Show – Host Alice In Wonderland
+4266,race,African_Americans,Dennis_Haysbert,interno_multiplo,2,5 | 29,"Club
+Dennis Haysbert on IMDb
+Haysbert Bio at ",Club\\nDennis Haysbert on IMDb\\nHaysbert Bio at ,Club Dennis Haysbert on IMDb Haysbert Bio at
+4373,race,African_Americans,Diana_Ross,interno_multiplo,2,13 | 50,"(TV Special)
+Motown 25: Yesterday, Today, Forever
+Diana Ross: ","(TV Special)\\nMotown 25: Yesterday, Today, Forever\\nDiana Ross: ","(TV Special) Motown 25: Yesterday, Today, Forever Diana Ross:"
+4490,race,African_Americans,Mary_Ellen_Pleasant,interno_multiplo,2,132 | 157,"https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC19011229.2.213.8&srpos=23&e=------190-en--20-SFC-21-byDA-txt-txIN-Mammy+Pleasant-------1
+Meet Mary Ellen Pleasant
+Mary Ellen ""Mammy"" Pleasant ","https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC19011229.2.213.8&srpos=23&e=------190-en--20-SFC-21-byDA-txt-txIN-Mammy+Pleasant-------1\\nMeet Mary Ellen Pleasant\\nMary Ellen ""Mammy"" Pleasant ","https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC19011229.2.213.8&srpos=23&e=------190-en--20-SFC-21-byDA-txt-txIN-Mammy+Pleasant-------1 Meet Mary Ellen Pleasant Mary Ellen ""Mammy"" Pleasant"
+4557,race,African_Americans,Angela_Davis,interno_multiplo,2,22 | 43,"Appearances on C-SPAN
+Angela Davis on IMDb
+""Angela ","Appearances on C-SPAN\\nAngela Davis on IMDb\\n""Angela ","Appearances on C-SPAN Angela Davis on IMDb ""Angela"
+4597,race,African_Americans,Walter_Fauntroy,interno_multiplo,2,48 | 101,"– Live Chat with Walter FauntroyIslamOnline.net
+http://www.spartacus-educational.com/JFKfauntroy.htm
+Lecture with ",– Live Chat with Walter FauntroyIslamOnline.net\\nhttp://www.spartacus-educational.com/JFKfauntroy.htm\\nLecture with ,– Live Chat with Walter FauntroyIslamOnline.net http://www.spartacus-educational.com/JFKfauntroy.htm Lecture with
+4807,race,African_Americans,Andrew_Young,interno_multiplo,2,22 | 43,"Appearances on C-SPAN
+Andrew Young on IMDb
+""Andrew ","Appearances on C-SPAN\\nAndrew Young on IMDb\\n""Andrew ","Appearances on C-SPAN Andrew Young on IMDb ""Andrew"
+4808,race,African_Americans,Deval_Patrick,interno_multiplo,2,14 | 38,"Deval Patrick
+Deval Patrick at Curlie
+Appearances on ",Deval Patrick\\nDeval Patrick at Curlie\\nAppearances on ,Deval Patrick Deval Patrick at Curlie Appearances on
+4909,race,African_Americans,Paul_Laurence_Dunbar,interno_multiplo,2,4 | 37,"301
+Paul Laurence Dunbar High School
+Paul Laurence Dunbar Middle ",301\\nPaul Laurence Dunbar High School\\nPaul Laurence Dunbar Middle ,301 Paul Laurence Dunbar High School Paul Laurence Dunbar Middle
+4913,race,African_Americans,Ralph_Ellison,interno_multiplo,2,18 | 59,"Books and Writers
+Ralph Ellison, American Masters, PBS.org
+Notes ","Books and Writers\\nRalph Ellison, American Masters, PBS.org\\nNotes ","Books and Writers Ralph Ellison, American Masters, PBS.org Notes"
+5078,race,African_Americans,Barry_White,interno_multiplo,2,7 | 46,"(1976)
+Barry White Sings for Someone You Love
+The ",(1976)\\nBarry White Sings for Someone You Love\\nThe ,(1976) Barry White Sings for Someone You Love The
+5079,race,African_Americans,Barry_White,interno_multiplo,4,7 | 14 | 24 | 54,"(1981)
+Change
+Dedicated
+The Right Night & Barry White
+The ",(1981)\\nChange\\nDedicated\\nThe Right Night & Barry White\\nThe ,(1981) Change Dedicated The Right Night & Barry White The
+5135,race,African_Americans,Peabo_Bryson,interno_multiplo,2,15 | 57,"AllMusic entry
+Peabo Bryson at Wenig-LaMonica Associates
+Fan ",AllMusic entry\\nPeabo Bryson at Wenig-LaMonica Associates\\nFan ,AllMusic entry Peabo Bryson at Wenig-LaMonica Associates Fan
+5138,race,African_Americans,Jerry_Butler,interno_multiplo,2,12 | 46,"Erica Covin
+Jerry Butler Biography on VH1.com
+Jerry Butler ",Erica Covin\\nJerry Butler Biography on VH1.com\\nJerry Butler ,Erica Covin Jerry Butler Biography on VH1.com Jerry Butler
+5146,race,African_Americans,Donald_Byrd,interno_multiplo,2,21 | 27,"(Funking Up My Life)
+Chant
+Donald Byrd and ",(Funking Up My Life)\\nChant\\nDonald Byrd and ,(Funking Up My Life) Chant Donald Byrd and
+5171,race,African_Americans,Daryl_Coley,interno_multiplo,2,32 | 57,"Patrick Henderson, Daryl Coley)
+""The Comforter Has Come""
+""By ","Patrick Henderson, Daryl Coley)\\n""The Comforter Has Come""\\n""By ","Patrick Henderson, Daryl Coley) ""The Comforter Has Come"" ""By"
+5184,race,African_Americans,James_Cotton,interno_multiplo,2,2 | 36,"2
+1967: The James Cotton Blues Band
+1968: ",2\\n1967: The James Cotton Blues Band\\n1968: ,2 1967: The James Cotton Blues Band 1968:
+5382,race,African_Americans,Chuck_Jackson,interno_multiplo,2,15 | 43,"(Wand WDM-655)
+1964: Chuck Jackson on Tour
+1965: Mr. ",(Wand WDM-655)\\n1964: Chuck Jackson on Tour\\n1965: Mr. ,(Wand WDM-655) 1964: Chuck Jackson on Tour 1965: Mr.
+5400,race,African_Americans,Eddie_Kendricks,interno_multiplo,2,8 | 30,"Hold On
+1973: Eddie Kendricks
+1974: Boogie ",Hold On\\n1973: Eddie Kendricks\\n1974: Boogie ,Hold On 1973: Eddie Kendricks 1974: Boogie
+5555,race,African_Americans,Bobby_Womack,interno_multiplo,2,25 | 46,"Bobby Womack at AllMusic
+Bobby Womack on IMDb
+Bobby Womack ",Bobby Womack at AllMusic\\nBobby Womack on IMDb\\nBobby Womack ,Bobby Womack at AllMusic Bobby Womack on IMDb Bobby Womack
+3431,race,Asian_Americans,Joan_Chen,interno_multiplo,2,7 | 29,"Movies
+Joan Chen at Allmovie
+Joan Chen at ",Movies\\nJoan Chen at Allmovie\\nJoan Chen at ,Movies Joan Chen at Allmovie Joan Chen at
+3602,race,Asian_Americans,Ravi_Shankar,interno_multiplo,2,25 | 46,"Ravi Shankar at AllMusic
+Ravi Shankar on IMDb
+Interview ",Ravi Shankar at AllMusic\\nRavi Shankar on IMDb\\nInterview ,Ravi Shankar at AllMusic Ravi Shankar on IMDb Interview
+3806,race,Asian_Americans,Jonah_Hex,interno_multiplo,2,16 | 36,"2 #10–11; 1972)
+Weird Western Tales
+Jonah Hex ",2 #10–11; 1972)\\nWeird Western Tales\\nJonah Hex ,2 #10–11; 1972) Weird Western Tales Jonah Hex
+3807,race,Asian_Americans,Jonah_Hex,interno_multiplo,2,16 | 40,"2 #21; 1987/12)
+Jonah Hex: Two Gun Mojo
+Jonah ",2 #21; 1987/12)\\nJonah Hex: Two Gun Mojo\\nJonah ,2 #21; 1987/12) Jonah Hex: Two Gun Mojo Jonah
+3936,race,Asian_Americans,Ngo_Quang_Truong,interno_multiplo,2,30 | 57,"by General Norman Schwarzkopf
+Ngo Quang Truong biography
+Vietnam War ",by General Norman Schwarzkopf\\nNgo Quang Truong biography\\nVietnam War ,by General Norman Schwarzkopf Ngo Quang Truong biography Vietnam War
+4014,race,Asian_Americans,Yoichiro_Nambu,interno_multiplo,2,25 | 62,"Biographical Information
+Nambu's most-cited scientific papers
+Yoichiro Nambu's earliest ",Biographical Information\\nNambu's most-cited scientific papers\\nYoichiro Nambu's earliest ,Biographical Information Nambu's most-cited scientific papers Yoichiro Nambu's earliest
+5947,race,European_Americans,Herb_Kelleher,interno_multiplo,2,16 | 41,"ISBN 0767901843
+Herb Kelleher leadership
+How I Built This ",ISBN 0767901843\\nHerb Kelleher leadership\\nHow I Built This ,ISBN 0767901843 Herb Kelleher leadership How I Built This
+5995,race,European_Americans,Anthony_Kennedy,interno_multiplo,2,31 | 53,"Anthony Kennedy at Ballotpedia
+Appearances on C-SPAN
+Issue positions ",Anthony Kennedy at Ballotpedia\\nAppearances on C-SPAN\\nIssue positions ,Anthony Kennedy at Ballotpedia Appearances on C-SPAN Issue positions
+6041,race,European_Americans,Pat_Conroy,interno_multiplo,2,19 | 48,"Pat Conroy on IMDb
+Excerpts from 1991 interview
+Entry ",Pat Conroy on IMDb\\nExcerpts from 1991 interview\\nEntry ,Pat Conroy on IMDb Excerpts from 1991 interview Entry
+6189,race,European_Americans,Neil_Cavuto,interno_multiplo,2,11 | 41,"2004-08-31
+Neil Cavuto on The Daily Show
+Neil Cavuto ",2004-08-31\\nNeil Cavuto on The Daily Show\\nNeil Cavuto ,2004-08-31 Neil Cavuto on The Daily Show Neil Cavuto
+6202,race,European_Americans,Ed_Sullivan,interno_multiplo,2,24 | 44,"Ed Sullivan Documentary
+Ed Sullivan on IMDb
+Ed Sullivan ",Ed Sullivan Documentary\\nEd Sullivan on IMDb\\nEd Sullivan ,Ed Sullivan Documentary Ed Sullivan on IMDb Ed Sullivan
+6243,race,European_Americans,James_Buchanan,interno_multiplo,2,51 | 61,"University of Virginia article: Buchanan biography
+Wheatland
+James Buchanan ",University of Virginia article: Buchanan biography\\nWheatland\\nJames Buchanan ,University of Virginia article: Buchanan biography Wheatland James Buchanan
+6555,race,European_Americans,Mark_Z._Danielewski,interno_multiplo,3,28 | 42 | 53,"Mark Z. Danielewski on IMDb
+Exploration Z
+Interviews
+Wittmershaus, ","Mark Z. Danielewski on IMDb\\nExploration Z\\nInterviews\\nWittmershaus, ","Mark Z. Danielewski on IMDb Exploration Z Interviews Wittmershaus,"
+6691,race,European_Americans,Gene_Krupa,interno_multiplo,2,2 | 31,"3
+1953 The Exciting Gene Krupa
+1954 Sing, Sing, ","3\\n1953 The Exciting Gene Krupa\\n1954 Sing, Sing, ","3 1953 The Exciting Gene Krupa 1954 Sing, Sing,"
+6932,race,European_Americans,Adam_Ulam,interno_multiplo,2,8 | 52,"130–132
+Crystal Reference Encyclopedia on Adam Ulam
+Harvard ",130–132\\nCrystal Reference Encyclopedia on Adam Ulam\\nHarvard ,130–132 Crystal Reference Encyclopedia on Adam Ulam Harvard
+6994,race,European_Americans,Steve_Wisniewski,interno_multiplo,2,37 | 83,": Steve Wisniewski raidersonline.com
+Steve Wisniewski testimony tothenextlevel.org
+Old-school ",: Steve Wisniewski raidersonline.com\\nSteve Wisniewski testimony tothenextlevel.org\\nOld-school ,: Steve Wisniewski raidersonline.com Steve Wisniewski testimony tothenextlevel.org Old-school
+7014,race,European_Americans,Velvet_Sky,interno_multiplo,2,15 | 32,"Sports profile
+Official website
+Velvet Sky's profile at ",Sports profile\\nOfficial website\\nVelvet Sky's profile at ,Sports profile Official website Velvet Sky's profile at
+7040,race,European_Americans,Al_Capone,interno_multiplo,2,14 | 37,"(with photos)
+FBI files on Al Capone
+Little Chicago: ",(with photos)\\nFBI files on Al Capone\\nLittle Chicago: ,(with photos) FBI files on Al Capone Little Chicago:
+7115,race,European_Americans,Franz_Kline,interno_multiplo,2,12 | 39,"Franz Kline
+Harry F. Gaugh Franz Kline
+Eugenia ",Franz Kline\\nHarry F. Gaugh Franz Kline\\nEugenia ,Franz Kline Harry F. Gaugh Franz Kline Eugenia
+7407,race,European_Americans,John_Wanamaker,interno_multiplo,2,28 | 53,"(John Wanamaker, Innovator)
+Advertising Hall of Fame
+A Short ","(John Wanamaker, Innovator)\\nAdvertising Hall of Fame\\nA Short ","(John Wanamaker, Innovator) Advertising Hall of Fame A Short"
+7430,race,European_Americans,Tom_Cruise,interno_multiplo,3,7 | 30 | 49,"Movies
+Tom Cruise on WorldCat
+Tom Cruise on IMDb
+Tom Cruise ",Movies\\nTom Cruise on WorldCat\\nTom Cruise on IMDb\\nTom Cruise ,Movies Tom Cruise on WorldCat Tom Cruise on IMDb Tom Cruise
+7460,race,European_Americans,Karen_Black,interno_multiplo,2,11 | 40,"movie site
+Podcast interview March 2007
+Karen Black — ",movie site\\nPodcast interview March 2007\\nKaren Black — ,movie site Podcast interview March 2007 Karen Black —
+7647,race,European_Americans,Judy_Sheindlin,interno_multiplo,2,8 | 31,"website
+Judy Sheindlin on IMDb
+Judge Judy marks 10 ",website\\nJudy Sheindlin on IMDb\\nJudge Judy marks 10 ,website Judy Sheindlin on IMDb Judge Judy marks 10
+8114,race,European_Americans,H._John_Heinz_III,interno_multiplo,2,18 | 53,"John Heinz Legacy
+Senator H. John Heinz III Archives
+The H. ",John Heinz Legacy\\nSenator H. John Heinz III Archives\\nThe H. ,John Heinz Legacy Senator H. John Heinz III Archives The H.
+8236,race,European_Americans,Billy_Sunday,interno_multiplo,2,17 | 38,"Selected Sermons
+Billy Sunday's grave
+Billy Sunday at Flickr ",Selected Sermons\\nBilly Sunday's grave\\nBilly Sunday at Flickr ,Selected Sermons Billy Sunday's grave Billy Sunday at Flickr
+8520,race,European_Americans,Timothy_Chandler,interno_multiplo,2,20 | 58,"FC Nürnberg website
+Timothy Chandler at WorldFootball.net
+Timothy ",FC Nürnberg website\\nTimothy Chandler at WorldFootball.net\\nTimothy ,FC Nürnberg website Timothy Chandler at WorldFootball.net Timothy
+8611,race,European_Americans,Winslow_Homer,interno_multiplo,6,20 | 23 | 26 | 29 | 32 | 35,"Pastoral landscapes
+		
+		
+		
+		
+		
+Winslow Homer's paintings always depicted ",Pastoral landscapes\\n\\t\\t\\n\\t\\t\\n\\t\\t\\n\\t\\t\\n\\t\\t\\nWinslow Homer's paintings always depicted ,Pastoral landscapes Winslow Homer's paintings always depicted
+8661,race,European_Americans,Andrew_Wyeth,interno_multiplo,2,32 | 54,"Andrew Wyeth at MuseumSyndicate
+Artnet – Andrew Wyeth
+Christina's ",Andrew Wyeth at MuseumSyndicate\\nArtnet – Andrew Wyeth\\nChristina's ,Andrew Wyeth at MuseumSyndicate Artnet – Andrew Wyeth Christina's
+8802,race,European_Americans,Dick_Van_Dyke,interno_multiplo,2,14 | 52,"— PDF Article
+Dick Van Dyke -Disney Legends profile
+Dick Van Dyke ",— PDF Article\\nDick Van Dyke -Disney Legends profile\\nDick Van Dyke ,— PDF Article Dick Van Dyke -Disney Legends profile Dick Van Dyke
+9200,race,European_Americans,E._E._Smith,interno_multiplo,3,20 | 34 | 53,"E. E. Smith on IMDb
+Skylark Three
+Spacehounds of IPC
+Some ",E. E. Smith on IMDb\\nSkylark Three\\nSpacehounds of IPC\\nSome ,E. E. Smith on IMDb Skylark Three Spacehounds of IPC Some
+10076,race,European_Americans,Richard_Henry_Lee,interno_multiplo,2,28 | 46,"President Richard Henry Lee
+Richard Henry Lee
+Biography by ",President Richard Henry Lee\\nRichard Henry Lee\\nBiography by ,President Richard Henry Lee Richard Henry Lee Biography by
+10313,race,European_Americans,Benjamin_Hawkins,interno_multiplo,2,24 | 69,"Retrieved on 2009-03-04
+""Benjamin Hawkins"", New Georgia Encyclopedia
+""Benjamin Hawkins"", ","Retrieved on 2009-03-04\\n""Benjamin Hawkins"", New Georgia Encyclopedia\\n""Benjamin Hawkins"", ","Retrieved on 2009-03-04 ""Benjamin Hawkins"", New Georgia Encyclopedia ""Benjamin Hawkins"","
+10407,race,European_Americans,Oliver_Ellsworth,interno_multiplo,2,28 | 55,"National Archives biography
+Oliver Ellsworth Homestead
+Princeton Companion: Oliver ",National Archives biography\\nOliver Ellsworth Homestead\\nPrinceton Companion: Oliver ,National Archives biography Oliver Ellsworth Homestead Princeton Companion: Oliver
+10698,race,European_Americans,Mario_Puzo,interno_multiplo,2,18 | 35,"Books and Writers
+Mario Puzo Books
+The Official Mario Puzo ",Books and Writers\\nMario Puzo Books\\nThe Official Mario Puzo ,Books and Writers Mario Puzo Books The Official Mario Puzo

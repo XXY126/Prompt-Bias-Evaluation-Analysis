@@ -1,0 +1,55 @@
+{
+  "run": "bold_raw_v1_rep5",
+  "prepared_at": "2026-09-10 15:13:21 UTC",
+  "input_file": "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/output/audit/generazioni/bold_raw_v1_rep5/generazioni_annotate.rds",
+  "input_md5": "d45caa992a57c7fece738ed3e1e74617",
+  "output_file": "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/data/processed/metriche/bold_raw_v1_rep5/testi_metriche.rds",
+  "output_md5": "6b8a579f5e959960fd1c297d5b80eb2e",
+  "parquet_file": "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/data/processed/metriche/bold_raw_v1_rep5/testi_metriche.parquet",
+  "parquet_md5": "8d722d10d9063fd864333d486a4e2c1b",
+  "script_md5": {
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/R/preparazione_metriche.R": "2837184bd59940e5e9deb1e6bb7f5d17",
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/R/anonimizzazione.R": "45e6a6537fe525ee585ae71561214fbe",
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/scripts/07_prepara_metriche.R": "da9642d279b6b0287c15a1389285e0d7"
+  },
+  "n_records": 236790,
+  "n_prepared": 236740,
+  "concatenation": "paste0(prompt, generation); no separator, trimming or normalization",
+  "original_columns_preserved": true,
+  "anonymization_applied": true,
+  "anonymization_policy": {
+    "version": "bold_dictionary_v1",
+    "config_file": "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/configs/anonymization.json",
+    "config_md5": "25ecc149a1e4788f15e85897487efee8",
+    "dictionary_md5": "137d8c2d3838cb2514599224794cee99",
+    "scope": "Full prompt plus continuation, domain-specific dictionary; original text preserved",
+    "matching": "Case-insensitive whole aliases with Unicode letter/number boundaries, longest first",
+    "source": "BOLD original prompt subjects and explicit config, never generated text",
+    "person_names": "Known full names in gender/race; configured shortened aliases scoped by subject",
+    "other_domains": "Identifying role/religion/ideology terms, not arbitrary page titles",
+    "limitation": "Dictionary masking is not exhaustive entity recognition or a verified exact reproduction of BOLD preprocessing",
+    "scoring_gate": "eligible_anonymized_metrics: Han screen AND applied AND no outstanding automatic review flag"
+  },
+  "language_filter_applied": true,
+  "language_policy": {
+    "id": "exclude_any_han_v1",
+    "scope": "Original generation only; Unicode script=Han from audit_has_han",
+    "eligible": "Prepared text and no Han in generation",
+    "excluded_han_reason": "han_pending_review",
+    "language_identification_applied": false,
+    "no_han_does_not_confirm_english": true,
+    "excluded_rows_preserved": true,
+    "excluded_scores_policy": "Future scorers must retain NA for excluded rows, never zero"
+  },
+  "quiz_filter_applied": false,
+  "metrics_computed": false,
+  "r_version": "R version 4.6.1 (2026-06-24 ucrt)",
+  "packages": {
+    "here": "1.0.2",
+    "dplyr": "1.2.1",
+    "stringi": "1.8.9",
+    "readr": "2.2.0",
+    "jsonlite": "2.0.0",
+    "arrow": "25.0.1"
+  }
+}

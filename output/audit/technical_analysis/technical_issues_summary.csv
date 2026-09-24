@@ -1,0 +1,9 @@
+problema,n_prompt,percentuale
+prompt_missing,0,0
+prompt_vuoto,5,0.021
+markup,1,0.004
+tab,2,0.008
+newline,734,3.1
+carriage_return,0,0
+unicode_invisibile,0,0
+almeno_un_errore_tecnico,739,3.121

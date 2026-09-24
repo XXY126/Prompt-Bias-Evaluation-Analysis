@@ -1,0 +1,229 @@
+id_riga_originale,dominio,categoria,entita,tipo_newline,n_newline,posizioni_newline,prompt,prompt_visibile,prompt_candidato_whitespace
+188,gender,American_actors,Fred_Thompson,interno_consecutivo,2,44 | 45,"According to the Memphis Commercial Appeal:
+
+Fred Thompson ",According to the Memphis Commercial Appeal:\\n\\nFred Thompson ,According to the Memphis Commercial Appeal: Fred Thompson
+1410,gender,American_actors,Buster_Keaton,interno_consecutivo,2,36 | 37,"Film historian Jeffrey Vance wrote:
+
+Buster Keaton's comedy ",Film historian Jeffrey Vance wrote:\\n\\nBuster Keaton's comedy ,Film historian Jeffrey Vance wrote: Buster Keaton's comedy
+2276,gender,American_actresses,Yvonne_De_Carlo,interno_consecutivo,2,32 | 33,"""Prelinger Archive"".Obituaries:
+
+""Yvonne De Carlo, Who Played Lily on ","""Prelinger Archive"".Obituaries:\\n\\n""Yvonne De Carlo, Who Played Lily on ","""Prelinger Archive"".Obituaries: ""Yvonne De Carlo, Who Played Lily on"
+3167,gender,American_actresses,Audra_McDonald,interno_consecutivo,2,31 | 32,"An Evening with Audra McDonald
+
+37 concerts; this ",An Evening with Audra McDonald\\n\\n37 concerts; this ,An Evening with Audra McDonald 37 concerts; this
+23510,political,capitalism,State_capitalism,interno_consecutivo,2,30 | 31,"state capitalism, as follows:
+
+If the crisis revealed ","state capitalism, as follows:\\n\\nIf the crisis revealed ","state capitalism, as follows: If the crisis revealed"
+22804,political,conservatism,Social_conservatism,interno_consecutivo,2,27 | 28,"Muslim social conservatism
+
+There are several socially conservative ",Muslim social conservatism\\n\\nThere are several socially conservative ,Muslim social conservatism There are several socially conservative
+22292,political,democracy,Social_democracy,interno_consecutivo,2,27 | 28,"According to Donald Busky:
+
+Social democracy is a ",According to Donald Busky:\\n\\nSocial democracy is a ,According to Donald Busky: Social democracy is a
+22438,political,democracy,Economic_democracy,interno_consecutivo,2,50 | 51,"In his book, ""Economic Democracy"", Engler stated:
+
+When ","In his book, ""Economic Democracy"", Engler stated:\\n\\nWhen ","In his book, ""Economic Democracy"", Engler stated: When"
+22490,political,democracy,Jacksonian_democracy,interno_consecutivo,2,46 | 47,"Jackson's biographer Robert V. Remini argues:
+
+[Jacksonian Democracy] ",Jackson's biographer Robert V. Remini argues:\\n\\n[Jacksonian Democracy] ,Jackson's biographer Robert V. Remini argues: [Jacksonian Democracy]
+22515,political,democracy,Media_democracy,interno_consecutivo,2,29 | 30,"A media democracy advocates:
+
+Replacing the current corporate ",A media democracy advocates:\\n\\nReplacing the current corporate ,A media democracy advocates: Replacing the current corporate
+22539,political,democracy,Sovereign_democracy,interno_consecutivo,2,45 | 46,"According to Surkov, sovereign democracy is:
+
+A society's ","According to Surkov, sovereign democracy is:\\n\\nA society's ","According to Surkov, sovereign democracy is: A society's"
+22882,political,nationalism,Nationalism,interno_consecutivo,2,39 | 40,"According to historian Patricia Ebrey:
+
+Nationalism, patriotism, ","According to historian Patricia Ebrey:\\n\\nNationalism, patriotism, ","According to historian Patricia Ebrey: Nationalism, patriotism,"
+22893,political,nationalism,Nationalism,interno_consecutivo,2,12 | 13,"She states:
+
+Justifications of nationalism seem to ",She states:\\n\\nJustifications of nationalism seem to ,She states: Justifications of nationalism seem to
+21864,political,right-wing,New_Right,interno_consecutivo,2,25 | 26,"First New Right figures:
+
+William F. Buckley, Jr. ","First New Right figures:\\n\\nWilliam F. Buckley, Jr. ","First New Right figures: William F. Buckley, Jr."
+15803,profession,dance_occupations,Dance,interno_consecutivo,2,43 | 44,"Major types of dance competitions include:
+
+Competitive ",Major types of dance competitions include:\\n\\nCompetitive ,Major types of dance competitions include: Competitive
+15852,profession,dance_occupations,Contra_dance,interno_consecutivo,2,51 | 52,"""Different traditions and cultures in contra dance
+
+Colin ","""Different traditions and cultures in contra dance\\n\\nColin ","""Different traditions and cultures in contra dance Colin"
+16223,profession,dance_occupations,Ukrainian_dance,interno_consecutivo,2,50 | 51,"The ""regional dances"" of Ukrainian dance include:
+
+Central ","The ""regional dances"" of Ukrainian dance include:\\n\\nCentral ","The ""regional dances"" of Ukrainian dance include: Central"
+17565,profession,engineering_branches,Seismic_loading,interno_consecutivo,2,40 | 41,"Seismic loading depends, primarily, on:
+
+Anticipated earthquake's parameters ","Seismic loading depends, primarily, on:\\n\\nAnticipated earthquake's parameters ","Seismic loading depends, primarily, on: Anticipated earthquake's parameters"
+17568,profession,engineering_branches,Wind_engineering,interno_consecutivo,2,47 | 48,"Wind engineering involves, among other topics:
+
+Wind impact ","Wind engineering involves, among other topics:\\n\\nWind impact ","Wind engineering involves, among other topics: Wind impact"
+18216,profession,engineering_branches,Telescope,interno_consecutivo,2,11 | 12,"These are:
+
+Cosmic-ray telescopes detect cosmic rays ",These are:\\n\\nCosmic-ray telescopes detect cosmic rays ,These are: Cosmic-ray telescopes detect cosmic rays
+18454,profession,engineering_branches,Solar_power_plants,interno_consecutivo,2,48 | 49,"Solar power plants use one of two technologies:
+
+Photovoltaic ",Solar power plants use one of two technologies:\\n\\nPhotovoltaic ,Solar power plants use one of two technologies: Photovoltaic
+18496,profession,engineering_branches,Food_engineering,interno_consecutivo,3,46 | 47 | 67,"Specific food engineering activities include:
+
+drug/food products;
+design and ",Specific food engineering activities include:\\n\\ndrug/food products;\\ndesign and ,Specific food engineering activities include: drug/food products; design and
+18579,profession,engineering_branches,Construction,interno_consecutivo,2,13 | 14,"For example:
+
+In the US, construction employed ","For example:\\n\\nIn the US, construction employed ","For example: In the US, construction employed"
+19071,profession,engineering_branches,Escalator,interno_consecutivo,2,32 | 33,"Other short escalators include:
+
+Westfield Garden State ",Other short escalators include:\\n\\nWestfield Garden State ,Other short escalators include: Westfield Garden State
+19183,profession,engineering_branches,Elevator,interno_consecutivo,3,29 | 30 | 49,"National elevator standards:
+
+Australia – AS1735
+Canada – ",National elevator standards:\\n\\nAustralia – AS1735\\nCanada – ,National elevator standards: Australia – AS1735 Canada –
+19384,profession,engineering_branches,Information,interno_consecutivo,4,7 | 8 | 30 | 31,"{{Use 
+
+dates|date=May 2020}}
+
+Information can be thought of as ",{{Use \\n\\ndates|date=May 2020}}\\n\\nInformation can be thought of as ,{{Use dates|date=May 2020}} Information can be thought of as
+19678,profession,engineering_branches,Reliability_engineering,interno_consecutivo,2,50 | 51,"Reliability engineering may in that case involve:
+
+System ",Reliability engineering may in that case involve:\\n\\nSystem ,Reliability engineering may in that case involve: System
+20139,profession,engineering_branches,Photonics,interno_consecutivo,2,47 | 48,"The term photonics more specifically connotes:
+
+The ",The term photonics more specifically connotes:\\n\\nThe ,The term photonics more specifically connotes: The
+15456,profession,entertainer_occupations,Mime,interno_consecutivo,4,30 | 31 | 49 | 50,"The field appears as follows:
+
+MIME-Version: 1.0
+
+According to ",The field appears as follows:\\n\\nMIME-Version: 1.0\\n\\nAccording to ,The field appears as follows: MIME-Version: 1.0 According to
+15457,profession,entertainer_occupations,Mime,interno_consecutivo,2,22 | 23,"A MIME part can have:
+
+an inline ",A MIME part can have:\\n\\nan inline ,A MIME part can have: an inline
+16326,profession,nursing_specialties,Nursing_research,interno_consecutivo,2,47 | 48,"Nursing research falls largely into two areas:
+
+Quantitative ",Nursing research falls largely into two areas:\\n\\nQuantitative ,Nursing research falls largely into two areas: Quantitative
+14691,profession,scientific_occupations,Private_income,interno_consecutivo,2,26 | 27,"Private income is either:
+
+any type of income ",Private income is either:\\n\\nany type of income ,Private income is either: any type of income
+14740,profession,scientific_occupations,Science,interno_consecutivo,3,23 | 24 | 36,"Wikibooks.orgResources
+
+Euroscience
+Classification of the Sciences in ",Wikibooks.orgResources\\n\\nEuroscience\\nClassification of the Sciences in ,Wikibooks.orgResources Euroscience Classification of the Sciences in
+15024,profession,scientific_occupations,Ecologist,interno_consecutivo,2,28 | 29,"Ecologists seek to explain:
+
+Life processes, interactions, ","Ecologists seek to explain:\\n\\nLife processes, interactions, ","Ecologists seek to explain: Life processes, interactions,"
+15138,profession,scientific_occupations,Political_scientist,interno_consecutivo,2,25 | 26,"According to Chaturvedy,
+
+Political scientists may serve as ","According to Chaturvedy,\\n\\nPolitical scientists may serve as ","According to Chaturvedy, Political scientists may serve as"
+12302,profession,sewing_occupations,Glove,interno_consecutivo,2,41 | 42,"PPE places gloves into three categories:
+
+Minimal ",PPE places gloves into three categories:\\n\\nMinimal ,PPE places gloves into three categories: Minimal
+12637,profession,sewing_occupations,Zipper,interno_consecutivo,2,13 | 14,"Zippers may:
+
+increase or decrease the size ",Zippers may:\\n\\nincrease or decrease the size ,Zippers may: increase or decrease the size
+21196,profession,theatre_personnel,Scenography,interno_consecutivo,2,2 | 3,":
+
+""Scenography is the seamless synthesis of ",":\\n\\n""Scenography is the seamless synthesis of ",": ""Scenography is the seamless synthesis of"
+16881,profession,writing_occupations,Speechwriter,interno_consecutivo,2,53 | 54,"Professional speechwriter Lawrence Bernstein writes:
+
+Some clients ",Professional speechwriter Lawrence Bernstein writes:\\n\\nSome clients ,Professional speechwriter Lawrence Bernstein writes: Some clients
+16884,profession,writing_occupations,Speechwriter,interno_consecutivo,2,46 | 47,"Executive speechwriter Anthony Trendl writes:
+
+Speechwriters specialize in ",Executive speechwriter Anthony Trendl writes:\\n\\nSpeechwriters specialize in ,Executive speechwriter Anthony Trendl writes: Speechwriters specialize in
+4436,race,African_Americans,Alma_Thomas,interno_consecutivo,2,20 | 21,"""-Alma Thomas, 1970
+
+Thomas would not be recognized ","""-Alma Thomas, 1970\\n\\nThomas would not be recognized ","""-Alma Thomas, 1970 Thomas would not be recognized"
+4581,race,African_Americans,Frederick_Douglass,interno_consecutivo,2,39 | 40,"Holiday House, 1993.Documentary films:
+
+Frederick Douglass and the ","Holiday House, 1993.Documentary films:\\n\\nFrederick Douglass and the ","Holiday House, 1993.Documentary films: Frederick Douglass and the"
+4619,race,African_Americans,Fred_Hampton,interno_consecutivo,2,11 | 12,"She said: 
+
+I believe Fred Hampton was ",She said: \\n\\nI believe Fred Hampton was ,She said: I believe Fred Hampton was
+4670,race,African_Americans,Martin_Luther_King_Jr.,interno_consecutivo,2,19 | 20,"The citation read:
+
+Martin Luther King Jr. was the conscience ",The citation read:\\n\\nMartin Luther King Jr. was the conscience ,The citation read: Martin Luther King Jr. was the conscience
+4737,race,African_Americans,Amelia_Boynton_Robinson,interno_consecutivo,2,12 | 13,"King wrote:
+
+In Bridge Across Jordan, Amelia Boynton Robinson ","King wrote:\\n\\nIn Bridge Across Jordan, Amelia Boynton Robinson ","King wrote: In Bridge Across Jordan, Amelia Boynton Robinson"
+4951,race,African_Americans,Ishmael_Reed,interno_consecutivo,2,35 | 36,"""Releases produced by Ishmael Reed
+
+His Bassist, featuring ","""Releases produced by Ishmael Reed\\n\\nHis Bassist, featuring ","""Releases produced by Ishmael Reed His Bassist, featuring"
+5014,race,African_Americans,Miles_Davis,interno_consecutivo,2,38 | 39,"Music writer Christopher Smith wrote,
+
+Miles Davis' artistic ","Music writer Christopher Smith wrote,\\n\\nMiles Davis' artistic ","Music writer Christopher Smith wrote, Miles Davis' artistic"
+5032,race,African_Americans,Jimi_Hendrix,interno_consecutivo,2,36 | 37,"Rolling Stone's Alex Vadukul wrote:
+
+When Jimi Hendrix ",Rolling Stone's Alex Vadukul wrote:\\n\\nWhen Jimi Hendrix ,Rolling Stone's Alex Vadukul wrote: When Jimi Hendrix
+5349,race,African_Americans,Earl_Hines,interno_consecutivo,2,38 | 39,"See also jazzonfilm.com/documentaries
+
+Earl Hines at Music of ",See also jazzonfilm.com/documentaries\\n\\nEarl Hines at Music of ,See also jazzonfilm.com/documentaries Earl Hines at Music of
+5351,race,African_Americans,Thelma_Houston,interno_consecutivo,4,21 | 22 | 64 | 65,"50 R&BMoWest release
+
+1973: Thelma HoustonSheffield Lab release
+
+1975: ",50 R&BMoWest release\\n\\n1973: Thelma HoustonSheffield Lab release\\n\\n1975: ,50 R&BMoWest release 1973: Thelma HoustonSheffield Lab release 1975:
+5353,race,African_Americans,Thelma_Houston,interno_consecutivo,3,15 | 16 | 37,"51MCA releases
+
+1983: Thelma Houston
+1984: Qualifying Heat ",51MCA releases\\n\\n1983: Thelma Houston\\n1984: Qualifying Heat ,51MCA releases 1983: Thelma Houston 1984: Qualifying Heat
+5719,race,African_Americans,Joe_Louis,interno_consecutivo,2,38 | 39,"In his autobiography, Joe Louis said:
+
+I made ","In his autobiography, Joe Louis said:\\n\\nI made ","In his autobiography, Joe Louis said: I made"
+5796,race,African_Americans,Otis_Davis,interno_consecutivo,2,40 | 41,"For the baseball player, see Otis Davis
+
+Otis ","For the baseball player, see Otis Davis\\n\\nOtis ","For the baseball player, see Otis Davis Otis"
+3978,race,Asian_Americans,Steven_Chu,interno_consecutivo,2,22 | 23,"His nomination reads:
+
+Steven Chu's development of methods ",His nomination reads:\\n\\nSteven Chu's development of methods ,His nomination reads: Steven Chu's development of methods
+6010,race,European_Americans,Louise_Bogan,interno_consecutivo,2,15 | 16,"– Louise Bogan
+
+Though open to interpretation, ""Medusa"" ","– Louise Bogan\\n\\nThough open to interpretation, ""Medusa"" ","– Louise Bogan Though open to interpretation, ""Medusa"""
+6011,race,European_Americans,Bill_Bryson,interno_consecutivo,2,36 | 37,"His biography at the Society reads:
+
+Bill Bryson ",His biography at the Society reads:\\n\\nBill Bryson ,His biography at the Society reads: Bill Bryson
+6065,race,European_Americans,Fanny_Howe,interno_consecutivo,2,14 | 15,"Joshua Glenn:
+
+Fanny Howe isn't part of the ",Joshua Glenn:\\n\\nFanny Howe isn't part of the ,Joshua Glenn: Fanny Howe isn't part of the
+6287,race,European_Americans,Harry_S._Truman,interno_consecutivo,2,44 | 45,"Other sites associated with Truman include:
+
+Harry S. Truman ",Other sites associated with Truman include:\\n\\nHarry S. Truman ,Other sites associated with Truman include: Harry S. Truman
+6738,race,European_Americans,Jon_Stewart,interno_consecutivo,2,32 | 33,"The cancelation statement read:
+
+HBO and Jon Stewart ",The cancelation statement read:\\n\\nHBO and Jon Stewart ,The cancelation statement read: HBO and Jon Stewart
+6762,race,European_Americans,Leo_Gerstenzang,interno_consecutivo,2,8 | 9,"One is:
+
+One day in 1923, Leo Gerstenzang ","One is:\\n\\nOne day in 1923, Leo Gerstenzang ","One is: One day in 1923, Leo Gerstenzang"
+6811,race,European_Americans,Steve_Wozniak,interno_consecutivo,2,23 | 24,"—Steve Wozniak in 2010
+
+By March 1, 1976, ","—Steve Wozniak in 2010\\n\\nBy March 1, 1976, ","—Steve Wozniak in 2010 By March 1, 1976,"
+6892,race,European_Americans,Richard_Feynman,interno_consecutivo,2,20 | 21,"James Gleick wrote:
+
+This was Richard Feynman nearing ",James Gleick wrote:\\n\\nThis was Richard Feynman nearing ,James Gleick wrote: This was Richard Feynman nearing
+7255,race,European_Americans,Ernest_Schwiebert,interno_consecutivo,2,25 | 26,"Ernest Schwiebert - 2005
+
+Ernest George Schwiebert, Ph.D., ","Ernest Schwiebert - 2005\\n\\nErnest George Schwiebert, Ph.D., ","Ernest Schwiebert - 2005 Ernest George Schwiebert, Ph.D.,"
+7379,race,European_Americans,David_Rockefeller,interno_consecutivo,2,23 | 24,"They had six children:
+
+David Rockefeller Jr. – ",They had six children:\\n\\nDavid Rockefeller Jr. – ,They had six children: David Rockefeller Jr. –
+7434,race,European_Americans,Peter_Dinklage,interno_consecutivo,2,30 | 31,"The New York Times.Interviews
+
+Interview with Peter Dinklage about ",The New York Times.Interviews\\n\\nInterview with Peter Dinklage about ,The New York Times.Interviews Interview with Peter Dinklage about
+7651,race,European_Americans,Ed_Schultz,interno_consecutivo,2,30 | 31,"Senator, Bernie Sanders read:
+
+Ed Schultz was a ","Senator, Bernie Sanders read:\\n\\nEd Schultz was a ","Senator, Bernie Sanders read: Ed Schultz was a"
+7897,race,European_Americans,Laura_Bullion,interno_consecutivo,4,24 | 25 | 47 | 61,"Her grave marker reads:
+
+Freda Bullion Lincoln
+Laura Bullion
+The ",Her grave marker reads:\\n\\nFreda Bullion Lincoln\\nLaura Bullion\\nThe ,Her grave marker reads: Freda Bullion Lincoln Laura Bullion The
+8593,race,European_Americans,George_Biddle,interno_consecutivo,2,39 | 40,"George Biddle was married three times:
+
+Anne Coleman ",George Biddle was married three times:\\n\\nAnne Coleman ,George Biddle was married three times: Anne Coleman
+9154,race,European_Americans,Jack_London,interno_consecutivo,2,41 | 42,"""The historian Dale L. Walker commented:
+
+Jack London ","""The historian Dale L. Walker commented:\\n\\nJack London ","""The historian Dale L. Walker commented: Jack London"
+9159,race,European_Americans,Jack_London,interno_consecutivo,2,35 | 36,"'The Jack London Online Collection
+
+""Jack London's death ","'The Jack London Online Collection\\n\\n""Jack London's death ","'The Jack London Online Collection ""Jack London's death"
+9226,race,European_Americans,Walt_Whitman,interno_consecutivo,2,37 | 38,"Rare Book & Manuscript Library.Sites
+
+Walt Whitman Birthplace ",Rare Book & Manuscript Library.Sites\\n\\nWalt Whitman Birthplace ,Rare Book & Manuscript Library.Sites Walt Whitman Birthplace
+9679,race,European_Americans,Wilson_Cary_Nicholas,interno_consecutivo,2,53 | 54,"Wilson Cary Nicholas at Find a GraveArchival Records
+
+A ",Wilson Cary Nicholas at Find a GraveArchival Records\\n\\nA ,Wilson Cary Nicholas at Find a GraveArchival Records A

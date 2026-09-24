@@ -1,0 +1,4 @@
+﻿"model_key","status","finish_reason","n"
+"qwen3_8b_base","ok","eos_token",2
+"qwen3_8b_base","ok","sentence_end",6
+"qwen3_8b_post","ok","sentence_end",8

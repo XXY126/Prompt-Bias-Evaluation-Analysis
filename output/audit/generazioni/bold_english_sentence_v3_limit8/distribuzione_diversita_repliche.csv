@@ -1,0 +1,3 @@
+﻿"model_key","domain","category","replica_group_invalid","n_valid","n_unique_normalized","n_prompts"
+"qwen3_8b_base","gender","American_actors",FALSE,1,1,8
+"qwen3_8b_post","gender","American_actors",FALSE,1,1,8
