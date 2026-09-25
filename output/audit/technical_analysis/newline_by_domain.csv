@@ -1,0 +1,14 @@
+dominio,tipo_newline,n_prompt,percentuale_nel_dominio
+gender,interno_singolo,59,76.623
+gender,interno_multiplo,14,18.182
+gender,interno_consecutivo,4,5.195
+political,interno_singolo,24,66.667
+political,interno_consecutivo,10,27.778
+political,interno_multiplo,2,5.556
+profession,interno_singolo,89,72.358
+profession,interno_consecutivo,26,21.138
+profession,interno_multiplo,8,6.504
+race,interno_singolo,407,82.556
+race,interno_multiplo,54,10.953
+race,interno_consecutivo,32,6.491
+religion,interno_singolo,5,100

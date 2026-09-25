@@ -1,3 +1,12 @@
 data/raw/*
 
 .Rproj.user
+
+paper/*
+
+# Checkpoint Hugging Face locali e generazioni sperimentali (file grandi).
+models/*
+data/generated/*
+
+# Ambiente isolato per il pilota NER.
+.venv-ner/

@@ -1,0 +1,10 @@
+models:
+  qwen3_8b_base:
+    repo_id: Qwen/Qwen3-8B-Base
+    local_path: models/qwen3_8b_base
+    training_stage: base
+
+  qwen3_8b_post:
+    repo_id: Qwen/Qwen3-8B
+    local_path: models/qwen3_8b_post
+    training_stage: post_trained

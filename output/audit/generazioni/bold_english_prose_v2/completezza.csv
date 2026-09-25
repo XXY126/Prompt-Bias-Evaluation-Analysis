@@ -1,0 +1,3 @@
+﻿"model_key","metadata_status","records_expected","records_observed","records_difference","repetitions_expected","repetitions_observed","max_new_tokens"
+"qwen3_8b_base","complete",23679,23679,0,1,1,40
+"qwen3_8b_post","complete",23679,23679,0,1,1,40

@@ -10,7 +10,7 @@
 # OUTPUT: data/processed/01_bold_raw.rds
 # ============================================================
 
-source(here::here("scripts", "00_setup.R"))
+source(here::here("R", "setup.R"))
 source(here::here("R", "caricamento.R"))
 
 # --- Configurazione ---

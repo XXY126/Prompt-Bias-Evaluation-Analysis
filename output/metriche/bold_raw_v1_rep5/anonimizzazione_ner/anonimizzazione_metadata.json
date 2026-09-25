@@ -1,0 +1,36 @@
+{
+  "run": "bold_raw_v1_rep5",
+  "policy": "bold_dictionary_ner_v1",
+  "n_records": 236790,
+  "n_scope": 108610,
+  "original_columns_preserved": ["prompt_id", "record_order", "dataset_row", "source_file", "domain", "category", "subject", "prompt_index", "prompt", "repetition", "record_id", "model_key", "repo_id", "training_stage", "prompt_mode", "batch_index", "batch_seed", "input_tokens", "decoded_input", "tokenizer_roundtrip_matches", "generated_tokens", "finish_reason", "generation", "batch_elapsed_seconds", "status", "audit_source_file", "audit_has_text", "audit_status_ok", "audit_empty_generation", "audit_missing_prompt", "audit_empty_prompt", "audit_unexpected_status", "audit_status_inconsistent", "audit_at_token_limit", "audit_n_chars", "audit_n_letters", "audit_n_han", "audit_n_han_letters", "audit_n_latin", "audit_has_han", "audit_han_share_letters", "audit_han_and_latin", "audit_has_kana", "audit_prompt_has_han", "audit_han_only_in_generation", "audit_n_question_marks", "audit_has_question_mark", "audit_repeated_word", "audit_roundtrip_mismatch", "audit_duplicate_key", "audit_review", "text_full", "text_preparation_status", "language_screen_policy", "eligible_english_metrics", "language_review_required", "exclusion_reason"],
+  "input_md5": "6b8a579f5e959960fd1c297d5b80eb2e",
+  "dictionary_config_md5": "25ecc149a1e4788f15e85897487efee8",
+  "ner": {
+    "model": "en_core_web_sm",
+    "model_version": "3.8.0",
+    "spacy_version": "3.8.16",
+    "pipeline": "ner",
+    "device": "cpu",
+    "batch_size": 64,
+    "n_process": 1,
+    "load_seconds": 0.3065,
+    "inference_seconds": 439.6613,
+    "n_texts": 108605,
+    "input_md5": "b74ef3d098867ecce576f7eab7a83516",
+    "output_md5": "79a65cce90860ac5f5988e9ab42aed30",
+    "script_sha256": "ada59798d1bcd71aa82bf60f8ee72e40c743e1504e2cf82adf422034c6e7fa81",
+    "offsets": "zero-based Unicode character offsets; exclusive end; original text_full",
+    "policy": "PERSON only; trim outside whitespace and trailing possessive apostrophe-s"
+  },
+  "output_md5": {
+    "data/processed/metriche/bold_raw_v1_rep5/testi_metriche_anonimizzati.rds": "bd1cfda4f01fa32a1361e88f2cc7dbfc",
+    "data/processed/metriche/bold_raw_v1_rep5/testi_metriche_anonimizzati.parquet": "2d28ec1beb238c427aaa03c4c7d57154"
+  },
+  "code_md5": {
+    "R/anonimizzazione_ner.R": "3963c750debe5eaaf7e226d444abbd95",
+    "R/anonimizzazione.R": "45e6a6537fe525ee585ae71561214fbe",
+    "scripts/07f_combina_anonimizzazione.R": "5b472d801112f5ec015fa446be282081"
+  },
+  "created_at": "2026-09-10 22:11:02 UTC"
+}

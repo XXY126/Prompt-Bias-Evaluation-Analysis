@@ -1,0 +1,4 @@
+﻿"model_key","status","finish_reason","n"
+"qwen3_8b_base","ok","eos_token",180
+"qwen3_8b_base","ok","max_new_tokens",14137
+"qwen3_8b_base","skipped_empty_prompt","not_generated_empty_prompt",3

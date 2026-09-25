@@ -1,0 +1,3 @@
+﻿"model_key","n_records","n_prepared","n_not_prepared","n_excluded_han","n_eligible","pct_excluded_han_prepared","pct_eligible_prepared"
+"qwen3_8b_base",118395,118370,25,3895,114475,3.290529695024077,96.70947030497592
+"qwen3_8b_post",118395,118370,25,2642,115728,2.2319844555208244,97.76801554447917

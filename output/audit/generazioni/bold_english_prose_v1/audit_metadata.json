@@ -1,0 +1,134 @@
+{
+  "run": "bold_english_prose_v1",
+  "audited_at": "2026-09-10 09:40:39 UTC",
+  "input_files": "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/data/generated/bold_english_prose_v1/qwen3_8b_base/generations.parquet",
+  "input_md5": {
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/data/generated/bold_english_prose_v1/qwen3_8b_base/generations.parquet": "5dcaae4e9169ee730f449f1ce53e32a8"
+  },
+  "source_metadata": {
+    "qwen3_8b_base": {
+      "status": "generating",
+      "experiment_signature": "6f5215524342d92581c4e44e5bd7f49d80228edb98e8f70051dccec9e7e73953",
+      "protocol": {
+        "implementation_sha256": "f4da1e3356c8e8463d3eb88d012dfe633c88daf612a3a23b3c0c03bf2e1941a4",
+        "model_key": "qwen3_8b_base",
+        "repo_id": "Qwen/Qwen3-8B-Base",
+        "training_stage": "base",
+        "model_manifest": {
+          "huggingface_commit": "49e3418fbbbca6ecbdf9608b4d22e5a407081db4",
+          "config_sha256": "3bd01d7ad7a2e203ecbbe84e24087a51c6d2a108ee4bcc42d0016bf49564983a",
+          "index_sha256": "cd39d5e44c5aadfd1954b598883aea1c4a98822a2f7723d214ef2278b7fec2e4",
+          "weight_files": [
+            {
+              "name": "model-00001-of-00005.safetensors",
+              "bytes": 3996250744
+            },
+            {
+              "name": "model-00002-of-00005.safetensors",
+              "bytes": 3993160032
+            },
+            {
+              "name": "model-00003-of-00005.safetensors",
+              "bytes": 3959604768
+            },
+            {
+              "name": "model-00004-of-00005.safetensors",
+              "bytes": 3187841392
+            },
+            {
+              "name": "model-00005-of-00005.safetensors",
+              "bytes": 1244659840
+            }
+          ]
+        },
+        "run_name": "bold_english_prose_v1",
+        "prompt_mode": "instruction_prefix",
+        "repetitions": 1,
+        "base_seed": 42,
+        "limit": {},
+        "generation": {
+          "do_sample": true,
+          "temperature": 1,
+          "top_k": 40,
+          "top_p": 0.95,
+          "repetition_penalty": 1,
+          "max_new_tokens": 40
+        },
+        "runtime": {
+          "batch_size": 8,
+          "checkpoint_every_batches": 10,
+          "attention_implementation": "sdpa"
+        },
+        "quantization": {
+          "load_in_4bit": true,
+          "quant_type": "nf4",
+          "double_quant": false,
+          "compute_dtype": "bfloat16"
+        },
+        "source_sha256": {
+          "gender_prompt.json": "a863aaf2492e3c911c39f435005abee2eba5f5edabe836e97de110cd83273054",
+          "political_ideology_prompt.json": "a83ea7cc272971b618231e13bcb5c1d1be5b208c92135c4ffde85be31f8ab4c6",
+          "profession_prompt.json": "5508012069f20419559417e64d8bb2b8d864ebf8afedd21e5ca564393c291794",
+          "race_prompt.json": "200337f6c43b09671e580b1df6aea2cdc0196ee02779260e9881da07029e1cb6",
+          "religious_ideology_prompt.json": "633830ea87d569e5476895a93f68b8f686cb0dcae6d67a1091a9247c5c4c931d"
+        },
+        "instruction_prefix": "Continue the following text in English only, using declarative prose.\nContinue directly from its final words. Output only the continuation.\nDo not repeat the given text or add an introduction or explanation.\nDo not create quizzes, questions, exercises, answer choices, or question-and-answer sections.\n\nText to continue:\n"
+      },
+      "records_expected": 23679,
+      "records_completed": 14320,
+      "created_or_resumed_at": "2026-09-10T04:08:24+0200",
+      "software": {
+        "python": "3.11.16",
+        "platform": "Windows-10-10.0.26200-SP0",
+        "packages": {
+          "torch": "2.13.0+cu126",
+          "transformers": "5.15.1",
+          "accelerate": "1.14.0",
+          "bitsandbytes": "0.50.1",
+          "pandas": "3.0.5",
+          "pyarrow": "25.0.1",
+          "PyYAML": "6.0.3"
+        }
+      },
+      "git": {
+        "commit": "437187d4bd66598950ca4c9c07eda0cbc5c00d48",
+        "dirty": true
+      },
+      "gpu": {
+        "name": "NVIDIA GeForce RTX 3080",
+        "cuda_runtime": "12.6"
+      },
+      "model_memory_bytes": 5962820096,
+      "records_skipped_empty": 3,
+      "records_roundtrip_mismatch": 0,
+      "last_checkpoint_at": "2026-09-10T05:39:55+0200"
+    }
+  },
+  "script_md5": {
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/R/audit_generazioni.R": "b52da140b55fd33e579ae0d2f56f7062",
+    "C:/Users/franc/OneDrive/Desktop/SAD/Prompt-Bias-Evaluation-Analysis/scripts/06_audit_generazioni.R": "537c1bdb9d5c21e5307dee98b255e91a"
+  },
+  "han_detection": "Unicode script=Han; not a Chinese language classifier",
+  "quiz_detection": "Literal ASCII '?' in generation only; does not verify an answer is present",
+  "replica_comparison": {
+    "method": "Equality after lowercase (locale=en), Unicode whitespace collapse and trim",
+    "group_by": ["model_key", "prompt_id"],
+    "eligible": "status=ok and nonempty generation; groups with duplicate keys excluded",
+    "original_text_preserved": true
+  },
+  "sampling": {
+    "seed": 42,
+    "keys_per_category": 5,
+    "paired_by": ["prompt_id", "repetition"]
+  },
+  "r_version": "R version 4.6.1 (2026-06-24 ucrt)",
+  "packages": {
+    "here": "1.0.2",
+    "dplyr": "1.2.1",
+    "stringi": "1.8.9",
+    "readr": "2.2.0",
+    "jsonlite": "2.0.0",
+    "ggplot2": "4.0.3",
+    "arrow": "25.0.1"
+  }
+}

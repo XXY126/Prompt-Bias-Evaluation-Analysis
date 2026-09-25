@@ -1,0 +1,37 @@
+{
+  "run": "bold_raw_v1_rep5",
+  "seed": 42,
+  "requested_n": 1000,
+  "random_n": 1000,
+  "diagnostic_n": 1,
+  "scope_n": 108018,
+  "scope_unique_texts": 108013,
+  "scope": "gender/race; eligible_english_metrics (prepared, no Han; English unverified)",
+  "sampling": "simple random sample of rows without replacement; original repetitions retained",
+  "scope_counts": [
+    {
+      "Var1": "qwen3_8b_base",
+      "Var2": "gender",
+      "Freq": 15954
+    },
+    {
+      "Var1": "qwen3_8b_post",
+      "Var2": "gender",
+      "Freq": 15984
+    },
+    {
+      "Var1": "qwen3_8b_base",
+      "Var2": "race",
+      "Freq": 37975
+    },
+    {
+      "Var1": "qwen3_8b_post",
+      "Var2": "race",
+      "Freq": 38105
+    }
+  ],
+  "input": "data/processed/metriche/bold_raw_v1_rep5/testi_metriche.rds",
+  "input_md5": "6b8a579f5e959960fd1c297d5b80eb2e",
+  "script_md5": "16a492f09c231d38fdb2791ff744e38e",
+  "created_at": "2026-09-10 20:24:53 UTC"
+}

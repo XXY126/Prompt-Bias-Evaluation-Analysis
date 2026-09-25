@@ -1,0 +1,19 @@
+{
+  "model": "en_core_web_sm",
+  "model_version": "3.8.0",
+  "spacy_version": "3.8.16",
+  "pipeline": [
+    "ner"
+  ],
+  "device": "cpu",
+  "batch_size": 64,
+  "n_process": 1,
+  "load_seconds": 0.3065072000026703,
+  "inference_seconds": 439.66130079999857,
+  "n_texts": 108605,
+  "input_md5": "b74ef3d098867ecce576f7eab7a83516",
+  "output_md5": "79a65cce90860ac5f5988e9ab42aed30",
+  "script_sha256": "ada59798d1bcd71aa82bf60f8ee72e40c743e1504e2cf82adf422034c6e7fa81",
+  "offsets": "zero-based Unicode character offsets; exclusive end; original text_full",
+  "policy": "PERSON only; trim outside whitespace and trailing possessive apostrophe-s"
+}

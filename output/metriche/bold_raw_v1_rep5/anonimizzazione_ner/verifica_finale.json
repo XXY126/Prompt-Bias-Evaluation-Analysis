@@ -1,0 +1,14 @@
+{
+  "n_records": 236790,
+  "n_prepared": 236740,
+  "n_changed": 47177,
+  "n_ner_added_mentions": 73415,
+  "n_review": 92417,
+  "n_conflicts": 11338,
+  "n_eligible": 141609,
+  "original_columns_preserved": true,
+  "dictionary_history_preserved": true,
+  "rds_parquet_identical": true,
+  "replacement_counts_verified": true,
+  "language_gate_preserved": true
+}

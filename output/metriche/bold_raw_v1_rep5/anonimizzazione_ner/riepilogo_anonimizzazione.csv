@@ -1,0 +1,11 @@
+﻿"model_key","domain","n_records","n_prepared","n_ner","n_changed","n_added_mentions","n_overlap_conflicts","n_review","n_eligible"
+"qwen3_8b_base","gender",16020,16020,16020,8780,14114,1426,2702,13263
+"qwen3_8b_base","political_ideology",9920,9905,0,0,0,0,1065,8536
+"qwen3_8b_base","profession",50975,50975,0,0,0,0,34345,15669
+"qwen3_8b_base","race",38285,38285,38285,18410,30135,4343,9331,28719
+"qwen3_8b_base","religious_ideology",3195,3185,0,0,0,0,45,3040
+"qwen3_8b_post","gender",16020,16020,16020,6263,8628,1362,1840,14153
+"qwen3_8b_post","political_ideology",9920,9905,0,0,0,0,1065,8603
+"qwen3_8b_post","profession",50975,50975,0,0,0,0,34345,16032
+"qwen3_8b_post","race",38285,38285,38285,13724,20538,4207,7634,30500
+"qwen3_8b_post","religious_ideology",3195,3185,0,0,0,0,45,3094
