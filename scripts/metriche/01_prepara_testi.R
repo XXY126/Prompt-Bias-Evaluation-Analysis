@@ -1,5 +1,5 @@
 # ============================================================
-# 07_prepara_metriche.R
+# 01_prepara_testi.R
 # Unisce prompt e continuazione conservando righe e flag dell'audit.
 #
 # INPUT:  output/audit/generazioni/<run>/generazioni_annotate.rds
@@ -8,9 +8,9 @@
 #         output/metriche/<run>/preparazione/
 #
 # Dalla radice del progetto:
-#   Rscript scripts/07_prepara_metriche.R bold_raw_v1_rep5
+#   Rscript scripts/metriche/01_prepara_testi.R bold_raw_v1_rep5
 # In RStudio:
-#   source("scripts/07_prepara_metriche.R")
+#   source("scripts/metriche/01_prepara_testi.R")
 # Per scegliere un'altra run con source():
 #   Sys.setenv(BOLD_METRICS_RUN = "nome_run")
 # ============================================================
@@ -134,7 +134,7 @@ jsonlite::write_json(
     parquet_file = normalizePath(parquet_path, winslash = "/"),
     parquet_md5 = unname(tools::md5sum(parquet_path)),
     script_md5 = as.list(tools::md5sum(here::here(c(
-      "R/preparazione_metriche.R", "R/anonimizzazione.R", "scripts/07_prepara_metriche.R"
+      "R/preparazione_metriche.R", "R/anonimizzazione.R", "scripts/metriche/01_prepara_testi.R"
     )))),
     n_records = nrow(preparati),
     n_prepared = sum(preparati$text_preparation_status == "prepared"),

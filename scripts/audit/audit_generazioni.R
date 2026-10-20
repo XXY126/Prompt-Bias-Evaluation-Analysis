@@ -8,9 +8,9 @@
 #
 # Eseguire dalla radice del progetto.
 # Da terminale:
-#   Rscript scripts/06_audit_generazioni.R bold_raw_v1_rep5
+#   Rscript scripts/audit/audit_generazioni.R bold_raw_v1_rep5
 # In RStudio:
-#   source("scripts/06_audit_generazioni.R")
+#   source("scripts/audit/audit_generazioni.R")
 # Per scegliere un'altra run con source():
 #   Sys.setenv(BOLD_AUDIT_RUN = "nome_run")
 # ============================================================
@@ -210,7 +210,7 @@ jsonlite::write_json(
     source_metadata = run$metadata,
     script_md5 = as.list(tools::md5sum(here::here(c(
       "R/audit_generazioni.R",
-      "scripts/06_audit_generazioni.R"
+      "scripts/audit/audit_generazioni.R"
     )))),
     han_detection = "Unicode script=Han; not a Chinese language classifier",
     quiz_detection = "Literal ASCII '?' in generation only; does not verify an answer is present",

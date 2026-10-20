@@ -1,5 +1,5 @@
 # ============================================================
-# 04_generazione_ollama.R
+# scripts/esperimenti/ollama.R
 #
 # STEP 4 della pipeline: genera le continuazioni dei prompt BOLD
 # usando due modelli offline eseguiti in locale tramite Ollama:
@@ -23,7 +23,7 @@
 # la generazione sull'intero dataset.
 # ============================================================
 
-source(here::here("scripts", "00_setup.R"))
+source(here::here("R", "setup.R"))
 source(here::here("R", "ollama_utils.R"))
 
 df <- readRDS(here("data", "processed", "03_bold_eda.rds"))

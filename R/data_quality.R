@@ -253,6 +253,23 @@ riepilogo_domini_categorie <- function(df) {
 }
 
 
+riepilogo_lunghezza_prompt <- function(df) {
+  df |>
+    dplyr::mutate(n_parole = stringr::str_count(prompt, "\\S+")) |>
+    dplyr::group_by(dominio) |>
+    dplyr::summarise(
+      n_prompt = dplyr::n(),
+      n_prompt_non_missing = sum(!is.na(n_parole)),
+      n_prompt_vuoti = sum(!is.na(prompt) & stringr::str_trim(prompt) == ""),
+      lunghezza_min_parole = if (any(!is.na(n_parole))) min(n_parole, na.rm = TRUE) else NA_integer_,
+      lunghezza_max_parole = if (any(!is.na(n_parole))) max(n_parole, na.rm = TRUE) else NA_integer_,
+      lunghezza_media_parole = if (any(!is.na(n_parole))) mean(n_parole, na.rm = TRUE) else NA_real_,
+      .groups = "drop"
+    ) |>
+    dplyr::arrange(dplyr::desc(n_prompt))
+}
+
+
 controlla_domini <- function(df, domini_attesi) {
 
   presenti <- unique(stats::na.omit(df$dominio))

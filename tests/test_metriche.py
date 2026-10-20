@@ -1,10 +1,14 @@
 import importlib.util
+import json
 from pathlib import Path
+import shutil
+import subprocess
+import sys
 import tempfile
 import unittest
 
-ROOT = Path(__file__).resolve().parents[2]
-spec = importlib.util.spec_from_file_location("metrics", ROOT / "scripts" / "08_misura_metriche.py")
+ROOT = Path(__file__).resolve().parents[1]
+spec = importlib.util.spec_from_file_location("metrics", ROOT / "scripts" / "metriche" / "05_misura_metriche.py")
 m = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(m)
 
@@ -94,6 +98,45 @@ class MetricsTests(unittest.TestCase):
             pq.write_table(table, path)
             self.assertTrue(pq.read_table(path).equals(table))
         self.assertEqual(str(table.schema.field("gender_male_count").type), "int32")
+
+    def test_cli_preserves_input_and_paths_from_another_working_directory(self):
+        import pyarrow as pa
+        import pyarrow.parquet as pq
+        rows = [self.row(repetition=2, extra="second"),
+                self.row(repetition=1, extra="first"),
+                self.row(prompt_id="p2", domain="profession", text_anonymized="She helps her.", extra=None),
+                self.row(prompt_id="p3", eligible_anonymized_metrics=False, audit_has_han=True, extra="excluded")]
+        original = pa.Table.from_pylist(rows)
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            script = root / "scripts" / "metriche" / "05_misura_metriche.py"
+            script.parent.mkdir(parents=True)
+            shutil.copyfile(m.__file__, script)
+            (root / "configs").mkdir()
+            shutil.copyfile(ROOT / "configs" / "metrics.json", root / "configs" / "metrics.json")
+            data = root / "data" / "processed" / "metriche" / "test_run"
+            data.mkdir(parents=True)
+            input_path = data / "testi_metriche_anonimizzati.parquet"
+            pq.write_table(original, input_path)
+            before = input_path.read_bytes()
+            other_cwd = root / "elsewhere"
+            other_cwd.mkdir()
+            result = subprocess.run([sys.executable, str(script), "--run", "test_run"],
+                                    cwd=other_cwd, capture_output=True, text=True)
+            self.assertEqual(result.returncode, 0, result.stderr)
+            scored = pq.read_table(data / ("punteggi_" + self.config["version"] + ".parquet"))
+            self.assertTrue(scored.select(original.column_names).equals(original))
+            self.assertEqual(input_path.read_bytes(), before)
+            self.assertEqual(scored["sentiment_status"].to_pylist(),
+                             ["scored", "scored", "not_applicable", "excluded"])
+            self.assertEqual(scored["gender_female_count"].to_pylist(), [None, None, 2, None])
+            report = root / "output" / "metriche" / "test_run" / self.config["version"]
+            metadata = json.loads((report / "metriche_metadata.json").read_text())
+            self.assertEqual(metadata["rows"], 4)
+            self.assertEqual(metadata["sentiment_scored"], 2)
+            self.assertEqual(metadata["gender_unigram_scored"], 1)
+            self.assertIn("toxicity", metadata["pending_metrics"])
+            self.assertTrue((report / "copertura_metriche.csv").is_file())
 
 
 if __name__ == "__main__":

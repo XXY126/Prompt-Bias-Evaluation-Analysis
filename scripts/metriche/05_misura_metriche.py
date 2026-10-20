@@ -137,7 +137,7 @@ def metrics_table(results):
 
 
 def main():
-    root = Path(__file__).resolve().parents[1]
+    root = Path(__file__).resolve().parents[2]
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--run", default="bold_raw_v1_rep5")
     parser.add_argument("--config", type=Path, default=root / "configs" / "metrics.json")

@@ -2,7 +2,7 @@ import sys
 from pathlib import Path
 import unittest
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "generazione"))
 from sentence_completion import sentence_end, trim_sentence, make_sentence_stopper
 
 

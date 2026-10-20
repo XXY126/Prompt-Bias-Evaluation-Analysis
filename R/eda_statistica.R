@@ -4,7 +4,7 @@
 # (bilanciamento tra categorie, distribuzioni, test, TTR)
 #
 # Contiene solo definizioni di funzioni, richiamate da
-# scripts/03_eda_statistica.R
+# scripts/dati/03_eda_statistica.R
 # ============================================================
 
 #' Calcola i conteggi di prompt per dominio/categoria e il
@@ -28,6 +28,43 @@ calcola_bilanciamento <- function(df) {
     )
 
   list(conteggi = conteggi, sbilanciamento = sbilanciamento)
+}
+
+#' Calcola il numero totale di prompt per dominio
+calcola_prompt_per_dominio <- function(df) {
+  df %>%
+    dplyr::group_by(dominio) %>%
+    dplyr::summarise(n_prompt = dplyr::n(), .groups = "drop") %>%
+    dplyr::arrange(dplyr::desc(n_prompt))
+}
+
+#' Crea una tabella grafica dei prompt per dominio
+plot_prompt_per_dominio <- function(prompt_per_dominio) {
+  tabella <- prompt_per_dominio %>%
+    dplyr::mutate(riga = dplyr::n() - dplyr::row_number() + 1)
+  numero_righe <- nrow(tabella)
+
+  ggplot2::ggplot(tabella, ggplot2::aes(y = riga)) +
+    ggplot2::geom_text(ggplot2::aes(x = 0.15, label = dominio), hjust = 0, size = 5) +
+    ggplot2::geom_text(
+      ggplot2::aes(x = 2.85, label = format(n_prompt, big.mark = ".", decimal.mark = ",", scientific = FALSE, trim = TRUE)),
+      hjust = 1,
+      size = 5
+    ) +
+    ggplot2::annotate("text", x = 0.15, y = numero_righe + 1, label = "Dominio", hjust = 0, fontface = "bold", size = 5) +
+    ggplot2::annotate("text", x = 2.85, y = numero_righe + 1, label = "Numero di prompt", hjust = 1, fontface = "bold", size = 5) +
+    ggplot2::geom_hline(yintercept = numero_righe + 0.5, color = "grey60") +
+    ggplot2::coord_cartesian(xlim = c(0, 3), ylim = c(0.5, numero_righe + 1.5), clip = "off") +
+    ggplot2::scale_x_continuous(expand = c(0, 0), breaks = NULL) +
+    ggplot2::scale_y_continuous(expand = c(0, 0), breaks = NULL) +
+    ggplot2::labs(title = "Numero di prompt per dominio") +
+    ggplot2::theme_minimal() +
+    ggplot2::theme(
+      panel.grid = ggplot2::element_blank(),
+      axis.title = ggplot2::element_blank(),
+      axis.text = ggplot2::element_blank(),
+      plot.margin = ggplot2::margin(15, 25, 15, 15)
+    )
 }
 
 #' Calcola quanti prompt ha ciascuna singola entità, dentro ogni categoria/dominio
@@ -102,17 +139,32 @@ plot_distribuzione_entita <- function(conteggio_entita) {
 
 #' Grafico a barre del numero di prompt per categoria, sfaccettato per dominio
 plot_bilanciamento <- function(conteggi) {
-  ggplot2::ggplot(conteggi, ggplot2::aes(x = reorder(categoria, n_prompt), y = n_prompt, fill = dominio)) +
+  ggplot2::ggplot(conteggi, ggplot2::aes(x = n_prompt, y = reorder(categoria, n_prompt), fill = dominio)) +
     ggplot2::geom_col() +
-    ggplot2::coord_flip() +
-    ggplot2::facet_wrap(~dominio, scales = "free_y") +
+    ggplot2::geom_text(ggplot2::aes(label = n_prompt), hjust = -0.15, size = 3) +
+    ggplot2::scale_x_continuous(expand = ggplot2::expansion(mult = c(0, 0.15))) +
+    ggplot2::facet_wrap(~dominio, scales = "free") +
     ggplot2::labs(
       title = "Numero di prompt per categoria e dominio",
-      x = "Categoria",
-      y = "Numero di prompt"
+      x = "Numero di prompt",
+      y = "Categoria"
     ) +
     ggplot2::theme_minimal() +
     ggplot2::theme(legend.position = "none")
+}
+
+#' Grafico a barre del numero di prompt per categoria in un singolo dominio
+plot_bilanciamento_dominio <- function(conteggi) {
+  dominio <- unique(conteggi$dominio)
+
+  ggplot2::ggplot(conteggi, ggplot2::aes(x = n_prompt, y = reorder(categoria, n_prompt))) +
+    ggplot2::geom_col(fill = "steelblue") +
+    ggplot2::labs(
+      title = paste("Numero di prompt per categoria -", dominio),
+      x = "Numero di prompt",
+      y = "Categoria"
+    ) +
+    ggplot2::theme_minimal()
 }
 
 #' Istogramma della lunghezza dei prompt, sfaccettato per dominio

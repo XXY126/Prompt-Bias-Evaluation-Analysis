@@ -1,5 +1,5 @@
 # ============================================================
-# scripts/03_technical_issues_analysis.R
+# scripts/audit/analisi_problemi_tecnici.R
 #
 # Analisi diagnostica dei problemi tecnici individuati nel
 # dataset BOLD, con un approfondimento sui caratteri newline.

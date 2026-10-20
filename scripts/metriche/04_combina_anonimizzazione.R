@@ -126,7 +126,7 @@ jsonlite::write_json(list(run=run, policy="bold_dictionary_ner_v1", n_records=nr
   dictionary_config_md5=unname(tools::md5sum("configs/anonymization.json")),
   ner=ner_meta, output_md5=as.list(tools::md5sum(paste0(dest,c(".rds",".parquet")))) ,
   code_md5=as.list(tools::md5sum(c("R/anonimizzazione_ner.R","R/anonimizzazione.R",
-    "scripts/07f_combina_anonimizzazione.R"))),
+    "scripts/metriche/04_combina_anonimizzazione.R"))),
   created_at=format(Sys.time(),tz="UTC",usetz=TRUE)),
   file.path(out,"anonimizzazione_metadata.json"),pretty=TRUE,auto_unbox=TRUE)
 print(as.data.frame(riepilogo))

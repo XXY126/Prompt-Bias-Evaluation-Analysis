@@ -1,4 +1,4 @@
-# Rscript scripts/tests/test_diversita_repliche.R
+# Rscript tests/test_diversita_repliche.R
 if (dir.exists(".audit-r-library")) .libPaths(c(".audit-r-library", .libPaths()))
 source("R/audit_generazioni.R")
 

@@ -5,9 +5,9 @@ import sys
 import unittest
 from unittest.mock import patch
 
-ROOT = Path(__file__).resolve().parents[2]
-sys.path.insert(0, str(ROOT / "scripts"))
-spec = importlib.util.spec_from_file_location("generation_pipeline", ROOT / "scripts/05_generate_prompts.py")
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts" / "generazione"))
+spec = importlib.util.spec_from_file_location("generation_pipeline", ROOT / "scripts/generazione/genera.py")
 pipeline = importlib.util.module_from_spec(spec)
 sys.modules[spec.name] = pipeline
 spec.loader.exec_module(pipeline)

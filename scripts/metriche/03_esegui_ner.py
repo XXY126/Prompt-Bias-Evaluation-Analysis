@@ -27,7 +27,7 @@ def main():
     import pyarrow as pa
     import pyarrow.parquet as pq
     import spacy
-    root = Path(__file__).resolve().parents[1]
+    root = Path(__file__).resolve().parents[2]
     out = root / "output" / "metriche" / args.run / "anonimizzazione_ner"
     input_path = out / "input_ner.parquet"
     rows = pq.read_table(input_path).to_pylist()

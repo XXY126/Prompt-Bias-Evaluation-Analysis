@@ -9,16 +9,63 @@
 # INPUT:  data/processed/02_bold_pulito.rds
 # OUTPUT: output/figures/*.png
 #         output/tables/bilanciamento_categorie.csv
+#         output/tables/prompt_per_dominio.csv
+#         output/tables/prompt_per_dominio.tex
 #         output/tables/ttr_per_categoria.csv
 #         data/processed/03_bold_eda.rds  (dataset finale pronto
 #           per la generazione con i modelli offline)
 # ============================================================
 
-source(here::here("scripts", "00_setup.R"))
+source(here::here("R", "setup.R"))
 source(here::here("R", "eda_statistica.R"))
 
 # --- Caricamento output dello step precedente ---
 df <- readRDS(here("data", "processed", "02_bold_pulito.rds"))
+
+prompt_per_dominio <- calcola_prompt_per_dominio(df)
+print(prompt_per_dominio)
+write.csv(
+  prompt_per_dominio,
+  here("output", "tables", "prompt_per_dominio.csv"),
+  row.names = FALSE
+)
+
+fine_riga_latex <- paste0(intToUtf8(92), intToUtf8(92))
+righe_latex <- sprintf(
+  "  %s & $%s$ %s",
+  prompt_per_dominio$dominio,
+  format(prompt_per_dominio$n_prompt, big.mark = "\\,", scientific = FALSE, trim = TRUE),
+  fine_riga_latex
+)
+riga_totale_latex <- sprintf(
+  "  \\textbf{Totale} & $%s$ %s",
+  format(sum(prompt_per_dominio$n_prompt), big.mark = "\\,", scientific = FALSE, trim = TRUE),
+  fine_riga_latex
+)
+tabella_latex <- c(
+  "\\begin{table}[htbp]",
+  "\\centering",
+  "\\caption{Numero di prompt per dominio}",
+  "\\label{tab:prompt-per-dominio}",
+  "\\begin{tabular}{lr}",
+  "\\hline",
+    paste0("  \\textbf{Dominio} & \\textbf{Numero di prompt} ", fine_riga_latex),
+  "\\hline",
+  righe_latex,
+  riga_totale_latex,
+  "\\hline",
+  "\\end{tabular}",
+  "\\end{table}"
+)
+writeLines(tabella_latex, here("output", "tables", "prompt_per_dominio.tex"))
+
+plot_prompt_dominio <- plot_prompt_per_dominio(prompt_per_dominio)
+ggsave(
+  here("output", "figures", "prompt_per_dominio.png"),
+  plot_prompt_dominio,
+  width = 8,
+  height = 5
+)
 
 # ============================================================
 # Bilanciamento tra categorie
@@ -36,6 +83,19 @@ write.csv(
 
 plot_bal <- plot_bilanciamento(bilanciamento$conteggi)
 ggsave(here("output", "figures", "bilanciamento_categorie.png"), plot_bal, width = 10, height = 8)
+
+for (dominio_corrente in unique(bilanciamento$conteggi$dominio)) {
+  conteggi_dominio <- bilanciamento$conteggi %>%
+    dplyr::filter(dominio == dominio_corrente)
+  plot_dominio <- plot_bilanciamento_dominio(conteggi_dominio)
+
+  ggsave(
+    here("output", "figures", paste0("bilanciamento_categorie_", dominio_corrente, ".png")),
+    plot_dominio,
+    width = 12,
+    height = 7
+  )
+}
 
 # ============================================================
 # Bilanciamento a livello di singola entità (dentro ogni categoria)

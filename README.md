@@ -1,75 +1,64 @@
-# Progetto BOLD — Bias Analysis (Statistica e Analisi dei Dati, Tipologia 1)
+# Prompt-Bias-Evaluation-Analysis
 
-## Struttura del progetto
+Analisi delle generazioni dei modelli sul dataset BOLD per il progetto di
+Statistica e Analisi dei Dati.
 
+## Struttura
+
+```text
+R/                  funzioni R riutilizzabili e setup comune
+scripts/
+  dati/             caricamento, pulizia ed EDA dei prompt
+  generazione/      generatore Qwen e supporto frase singola
+  audit/            audit dei prompt e delle generazioni
+  metriche/         preparazione, NER, anonimizzazione e scoring
+  esperimenti/      pilota NER e generazione Ollama
+  setup/            verifica ambiente GPU e download modelli
+tests/              test Python e R
+legacy/             generatore storico per riprendere checkpoint v1/v2
+configs/            configurazioni degli esperimenti e delle metriche
+data/               dati originali, generazioni e dataset intermedi
+output/             report, copertura e metadati
+docs/               protocolli e documentazione tecnica
 ```
-progetto_bold/
-├── progetto_bold.Rproj        # apri SEMPRE questo file in RStudio (imposta la working directory)
-├── data/
-│   ├── raw/prompts/           # JSON originali di BOLD (scaricati da GitHub, NON modificare)
-│   └── processed/             # output intermedi .rds tra uno step e l'altro
-├── R/                         # funzioni riutilizzabili (NON eseguire direttamente)
-│   ├── caricamento.R
-│   ├── pulizia_testo.R
-│   └── eda_statistica.R
-├── scripts/                   # script eseguibili, IN ORDINE NUMERATO
-│   ├── 00_setup.R
-│   ├── 01_caricamento_dati.R
-│   ├── 02_pulizia_prompt.R
-│   └── 03_eda_statistica.R
-├── output/
-│   ├── figures/                # grafici esportati (.png)
-│   └── tables/                 # tabelle esportate (.csv)
-└── README.md
-```
 
-## Come eseguire il progetto
+**La guida operativa è [scripts/README.md](scripts/README.md)**: contiene
+l'ordine dei passaggi, gli input/output e la corrispondenza con i vecchi nomi.
+I numeri ordinano i passaggi all'interno di una cartella; non bisogna eseguire
+tutti gli script del repository in sequenza.
 
-1. Scarica i file JSON di BOLD da https://github.com/amazon-science/bold
-   e posizionali in `data/raw/prompts/` (nomi file: `gender_prompt.json`,
-   `race_prompt.json`, `religious_ideology_prompt.json`,
-   `profession_prompt.json`, `political_ideology_prompt.json`)
+## Da dove iniziare
 
-2. Apri `progetto_bold.Rproj` in RStudio (fondamentale: questo imposta
-   automaticamente la working directory sulla radice del progetto,
-   necessario per far funzionare `here::here()`)
+Aprire `Prompt-Bias-Evaluation-Analysis.Rproj` in RStudio oppure eseguire i
+comandi dalla radice del repository.
 
-3. Esegui gli script in `scripts/` **in ordine numerico**:
-   ```r
-   source("scripts/01_caricamento_dati.R")
-   source("scripts/02_pulizia_prompt.R")
-   source("scripts/03_eda_statistica.R")
-   ```
-   Oppure aprili singolarmente in RStudio ed eseguili con `Ctrl+Invio` /
-   `Cmd+Invio` blocco per blocco.
+- Per analizzare i prompt: `scripts/dati/` e `scripts/audit/audit_prompt.R`.
+- Per generare nuove continuazioni: [protocollo di generazione](docs/generation_protocol.md).
+  Il generatore legge i JSON originali in `data/raw/prompts/`; non richiede
+  la pulizia o l'EDA R.
+- Per analizzare generazioni esistenti: [audit](docs/audit_generazioni.md),
+  poi i cinque passaggi di `scripts/metriche/` descritti nella guida operativa.
+- Per ricostruire un Parquet mancante: consultare la tabella input/output
+  nella guida e partire dal primo prerequisito disponibile.
 
-4. Ogni script legge l'output `.rds` dello script precedente da
-   `data/processed/` e produce a sua volta un nuovo `.rds` per lo
-   script successivo — non serve rieseguire tutto da capo ogni volta.
+Le dipendenze restano separate: `requirements.txt` per la generazione CUDA,
+`requirements-ner.txt` per il NER e `requirements-metrics.txt` per lo scoring.
+Gli script R dichiarano i pacchetti richiesti; `R/setup.R` prepara l'ambiente
+dei primi passaggi sui prompt. Non serve l'ambiente CUDA per VADER e unigram.
 
-## Convenzioni
+## Convenzioni e stato delle metriche
 
-- **`R/`** contiene solo *definizioni di funzioni*, mai codice che le esegue
-  direttamente. Se trovi un bug in una funzione, correggilo lì: si propaga
-  automaticamente a tutti gli script che la usano.
-- **`scripts/`** contiene il codice che *esegue* le funzioni di `R/` e
-  produce output (dataset intermedi, grafici, tabelle). Ogni script fa
-  una cosa sola (caricamento, pulizia, EDA, ecc.).
-- I dataset intermedi in `data/processed/` sono numerati come gli script
-  che li producono, per rendere ovvia la corrispondenza.
-- Duplicati, outlier e troncamenti sospetti nel testo vengono **flaggati,
-  non rimossi automaticamente** — la decisione di eliminarli o tenerli va
-  presa consapevolmente ispezionando i CSV in `output/tables/` e
-  documentata nel report finale (coerente con OB1 della spec del corso).
+I file in `R/` contengono le funzioni condivise, con l'eccezione del setup.
+Gli script eseguibili leggono gli input e producono dataset o report.
+Le configurazioni rimangono in `configs/`.
 
-## Prossimi step (da aggiungere)
+Preparazione, audit e scoring conservano le osservazioni originali; i problemi
+sono annotati con flag. I punteggi delle righe escluse sono null, non zero.
+Gli output derivati possono essere rigenerati dagli script: consultare il
+protocollo prima di rieseguire una run già presente.
 
-- `scripts/04_generazione_gpt2.R` — generazione continuazioni con GPT-2
-- `scripts/05_generazione_modello_offline.R` — generazione con modello
-  offline aggiuntivo (es. Mistral-7B quantizzato, sul fisso con RTX 3080)
-- `scripts/06_classificazione_toxicbert.R` — classificazione tossicità
-  (via reticulate, richiama `unitary/toxic-bert` da Python)
-- `scripts/07_prompt_sintetici_llm.R` — generazione prompt sintetici
-  "più difficili" (OB2) e validazione statistica vs prompt reali
-- `scripts/08_analisi_comparativa.R` — confronto finale tra modelli,
-  categorie, prompt reali vs sintetici
+Sono implementati **sentiment VADER** e **gender unigram matching**.
+**Toxicity, regard, psycholinguistic norms, Gender-Wavg e Gender-Max non sono
+ancora implementati**, e sono elencati nei metadati dello scoring.
+
+Per eseguire i test vedere [tests/README.md](tests/README.md).

@@ -1,5 +1,14 @@
 # Protocollo di generazione Qwen3
 
+Gli script sono organizzati per funzione: vedere la
+[guida ai percorsi](../scripts/README.md). Il generatore corrente è
+`scripts/generazione/genera.py`. Lo spostamento ha richiesto un aggiornamento
+del percorso della radice e quindi del suo hash: per nuove generazioni usare
+un nuovo `--run-name`; per riprendere checkpoint del precedente generatore
+a frase singola serve la revisione originale del repository. La copia v1/v2
+in `legacy/05_generate_prompts_v2.py` conserva invece il contenuto originale.
+I dataset già generati rimangono utilizzabili per audit e metriche.
+
 ## Obiettivo della prima condizione
 
 La run primaria confronta `Qwen/Qwen3-8B-Base` e `Qwen/Qwen3-8B`
@@ -37,8 +46,8 @@ I parametri sono in `configs/generation.yaml`.
 Da un terminale con l'ambiente Python del progetto attivo:
 
 ```powershell
-python scripts/05_generate_prompts.py --validate-only
-python scripts/05_generate_prompts.py --limit 10
+python scripts/generazione/genera.py --validate-only
+python scripts/generazione/genera.py --limit 10
 ```
 
 Con `--limit 10`, lo script usa automaticamente la run separata
@@ -47,13 +56,13 @@ Con `--limit 10`, lo script usa automaticamente la run separata
 Per provare un solo modello:
 
 ```powershell
-python scripts/05_generate_prompts.py --models qwen3_8b_base --limit 10
+python scripts/generazione/genera.py --models qwen3_8b_base --limit 10
 ```
 
 Per la generazione completa dei due modelli:
 
 ```powershell
-python scripts/05_generate_prompts.py
+python scripts/generazione/genera.py
 ```
 
 I modelli vengono caricati uno alla volta. Se la generazione si interrompe,
@@ -111,7 +120,7 @@ anche mantenendo gli stessi seed.
 La nuova condizione a frase singola e' descritta in
 [generation_sentence_protocol.md](generation_sentence_protocol.md).
 Per riprendere checkpoint v1/v2 gia' esistenti dopo questo aggiornamento,
-usare `scripts/05_generate_prompts_v2.py` al posto di `scripts/05_generate_prompts.py`
+usare `legacy/05_generate_prompts_v2.py` al posto di `scripts/generazione/genera.py`
 nei comandi sotto: e' la copia dell'implementazione che li ha creati.
 
 `configs/generation_english_prose.yaml` definisce una run separata:
@@ -143,9 +152,9 @@ il comportamento con istruzioni aggiuntive e va distinta dal protocollo raw.
 Da un terminale con l'ambiente `prompt-bias` attivo:
 
 ```powershell
-python scripts/05_generate_prompts.py --config configs/generation_english_prose.yaml --validate-only
-python scripts/05_generate_prompts.py --config configs/generation_english_prose.yaml --limit 32
-python -X faulthandler -u scripts/05_generate_prompts.py --config configs/generation_english_prose.yaml
+python scripts/generazione/genera.py --config configs/generation_english_prose.yaml --validate-only
+python scripts/generazione/genera.py --config configs/generation_english_prose.yaml --limit 32
+python -X faulthandler -u scripts/generazione/genera.py --config configs/generation_english_prose.yaml
 ```
 
 Il pilot usa i primi 32 prompt (non e' un campione rappresentativo) e salva
@@ -159,7 +168,7 @@ ad esempio `--run-name bold_english_prose_v2_rep5`.
 vuoti saltati). `decoded_input` ne registra il roundtrip del tokenizer;
 `tokenizer_roundtrip_matches` confronta ora l'input effettivo e la sua decodifica.
 `generation` contiene solo i nuovi token, escluso tutto l'input.
-Lo script `07` continua quindi a unire solo il prompt BOLD e la continuazione,
+Lo script `scripts/metriche/01_prepara_testi.R` unisce solo il prompt BOLD e la continuazione,
 senza includere le istruzioni nel testo destinato alle metriche.
 
 Il prefisso esatto viene registrato nei metadati e nella firma della run:
@@ -171,8 +180,8 @@ I loro file restano disponibili per audit e analisi.
 L'audit e la preparazione si eseguono passando il nome della nuova run:
 
 ```powershell
-Rscript scripts/06_audit_generazioni.R bold_english_prose_v2
-Rscript scripts/07_prepara_metriche.R bold_english_prose_v2
+Rscript scripts/audit/audit_generazioni.R bold_english_prose_v2
+Rscript scripts/metriche/01_prepara_testi.R bold_english_prose_v2
 ```
 
 ### Ripartenza dopo interruzione e conservazione della v1
@@ -193,7 +202,7 @@ Per riprendere invece la v1 con le sue vecchie istruzioni e le 14.320 righe
 Base gia' salvate al checkpoint verificato:
 
 ```powershell
-python -X faulthandler -u scripts/05_generate_prompts.py --config configs/generation_english_prose_v1.yaml
+python -X faulthandler -u scripts/generazione/genera.py --config configs/generation_english_prose_v1.yaml
 ```
 
 I file della v1 rimangono in `data/generated/bold_english_prose_v1/`.

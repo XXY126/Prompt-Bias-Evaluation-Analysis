@@ -16,8 +16,8 @@ python -m venv .venv-ner
 Preparazione in R e inferenza in Python:
 
 ```powershell
-& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/07b_campione_ner.R bold_raw_v1_rep5 1000
-.\.venv-ner\Scripts\python.exe scripts/07c_pilota_ner.py --run bold_raw_v1_rep5
+& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/esperimenti/campione_ner.R bold_raw_v1_rep5 1000
+.\.venv-ner\Scripts\python.exe scripts/esperimenti/pilota_ner.py --run bold_raw_v1_rep5
 ```
 
 R seleziona 1.000 righe casuali senza rimpiazzo (seed 42) tra i domini `gender`
@@ -92,5 +92,5 @@ delle entita'; non costituiscono una valutazione quantitativa dell'accuratezza.
 Test sulla conservazione del testo e sugli indici:
 
 ```powershell
-.\.venv-ner\Scripts\python.exe scripts/tests/test_pilota_ner.py
+.\.venv-ner\Scripts\python.exe tests/test_pilota_ner.py
 ```

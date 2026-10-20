@@ -23,21 +23,21 @@ Il passo 07 lascia `text_full = NA` e assegna `text_preparation_status =
 "nul_in_metric_text"` se prompt o continuazione sono interessati: questi
 testi non accedono automaticamente alle metriche. Le righe restano conservate.
 
-Test: `Rscript scripts/tests/test_audit_nul.R`.
+Test: `Rscript tests/test_audit_nul.R`.
 
 ## Esecuzione
 
 Eseguire dalla radice del progetto:
 
 ```powershell
-Rscript scripts/06_audit_generazioni.R bold_raw_v1_rep5
+Rscript scripts/audit/audit_generazioni.R bold_raw_v1_rep5
 ```
 
 In RStudio:
 
 ```r
 Sys.setenv(BOLD_AUDIT_RUN = "bold_raw_v1_rep5")
-source("scripts/06_audit_generazioni.R")
+source("scripts/audit/audit_generazioni.R")
 ```
 
 La run predefinita e' `bold_raw_v1_rep5`, presente con entrambi i modelli e
@@ -187,5 +187,5 @@ come valutare le continuazioni multilingui e documentare la copertura
 linguistica dei valutatori.
 
 I controlli mirati possono essere eseguiti con
-`Rscript scripts/tests/test_audit_generazioni.R` e
-`Rscript scripts/tests/test_diversita_repliche.R`.
+`Rscript tests/test_audit_generazioni.R` e
+`Rscript tests/test_diversita_repliche.R`.

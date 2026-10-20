@@ -28,7 +28,7 @@ import yaml
 from sentence_completion import POLICY as SENTENCE_POLICY, make_sentence_stopper, trim_sentence
 
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_MODELS_CONFIG = REPO_ROOT / "configs" / "models.yaml"
 DEFAULT_GENERATION_CONFIG = REPO_ROOT / "configs" / "generation.yaml"
 

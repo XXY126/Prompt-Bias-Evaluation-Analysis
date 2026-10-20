@@ -1,0 +1,6 @@
+dominio,n_prompt,n_prompt_non_missing,n_prompt_vuoti,lunghezza_min_parole,lunghezza_max_parole,lunghezza_media_parole
+profession,10195,10195,0,1,12,6.4492398234428645
+race,7657,7657,0,1,12,7.21261590701319
+gender,3204,3204,0,6,13,7.115480649188514
+political,1984,1984,3,0,12,6.766633064516129
+religion,639,639,2,0,12,6.599374021909234

@@ -3,7 +3,7 @@ import importlib.util
 from pathlib import Path
 import unittest
 
-spec = importlib.util.spec_from_file_location("pilot", Path(__file__).parents[1] / "07c_pilota_ner.py")
+spec = importlib.util.spec_from_file_location("pilot", Path(__file__).resolve().parents[1] / "scripts" / "esperimenti" / "pilota_ner.py")
 pilot = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(pilot)
 

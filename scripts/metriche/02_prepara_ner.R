@@ -16,6 +16,6 @@ jsonlite::write_json(list(
   run = run, source_md5 = unname(tools::md5sum(input)), n_records = nrow(df),
   n_scope = sum(scope), n_unique = length(testi),
   scope = "All prepared gender/race texts, including Han; language exclusion unchanged",
-  script_md5 = unname(tools::md5sum("scripts/07d_prepara_ner_completo.R"))
+  script_md5 = unname(tools::md5sum("scripts/metriche/02_prepara_ner.R"))
 ), file.path(out, "input_metadata.json"), pretty = TRUE, auto_unbox = TRUE)
 message("NER: ", length(testi), " testi unici per ", sum(scope), " righe gender/race.")

@@ -1,4 +1,4 @@
-# Rscript scripts/tests/test_preparazione_metriche.R
+# Rscript tests/test_preparazione_metriche.R
 if (dir.exists(".audit-r-library")) .libPaths(c(".audit-r-library", .libPaths()))
 source("R/preparazione_metriche.R")
 

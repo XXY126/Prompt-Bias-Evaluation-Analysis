@@ -1,5 +1,5 @@
 # ============================================================
-# scripts/11_data_quality_audit.R
+# scripts/audit/audit_prompt.R
 #
 # Data Quality Audit del dataset BOLD PRIMA della pulizia.
 #
@@ -14,6 +14,7 @@
 #
 # OUTPUT:
 #   output/audit/*.csv
+#   output/audit/prompt_length_by_domain.csv
 # ============================================================
 
 source(here::here("R", "setup.R"))
@@ -108,6 +109,14 @@ readr::write_csv(
   file.path(output_dir, "domain_category_counts.csv")
 )
 
+prompt_length_by_domain <- riepilogo_lunghezza_prompt(df_raw)
+print(prompt_length_by_domain)
+
+readr::write_csv(
+  prompt_length_by_domain,
+  file.path(output_dir, "prompt_length_by_domain.csv")
+)
+
 domini_attesi <- c(
   "gender",
   "race",
@@ -130,7 +139,7 @@ readr::write_csv(
 
 
 # ------------------------------------------------------------
-# 4. Possibili inconsistenze nei nomi delle categorie
+# 5. Possibili inconsistenze nei nomi delle categorie
 # ------------------------------------------------------------
 
 category_variants <-
@@ -143,7 +152,7 @@ readr::write_csv(
 
 
 # ------------------------------------------------------------
-# 5. Qualità dei prompt
+# 6. Qualità dei prompt
 # ------------------------------------------------------------
 
 text_quality_summary <-
@@ -158,7 +167,7 @@ readr::write_csv(
 
 
 # ------------------------------------------------------------
-# 6. Duplicati: fotografia preliminare
+# 7. Duplicati: fotografia preliminare
 # ------------------------------------------------------------
 # Qui vengono solo conteggiati.
 # Within-category e cross-category saranno studiati
@@ -176,7 +185,7 @@ readr::write_csv(
 
 
 # ------------------------------------------------------------
-# 7. Casi da ispezionare
+# 8. Casi da ispezionare
 # ------------------------------------------------------------
 
 technical_issues <-

@@ -1,9 +1,9 @@
 # ============================================================
-# 00_setup.R
+# R/setup.R
 # Setup centralizzato del progetto: mirror CRAN + librerie comuni
 #
 # Ogni altro script richiama questo file in testa con:
-#   source(here::here("scripts", "00_setup.R"))
+#   source(here::here("R", "setup.R"))
 #
 # NOTA: per funzionare, questo file richiede che esista un
 # progetto RStudio (.Rproj) nella cartella radice, altrimenti

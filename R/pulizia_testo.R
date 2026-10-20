@@ -3,7 +3,7 @@
 # Funzioni per l'ispezione e la pulizia del campo testuale "prompt"
 #
 # Contiene solo definizioni di funzioni, richiamate da
-# scripts/02_pulizia_prompt.R
+# scripts/dati/02_pulizia_prompt.R
 # ============================================================
 
 #' Aggiunge colonne di lunghezza (caratteri e parole) al dataframe

@@ -10,14 +10,14 @@ dei NUL. Questo controllo non modifica il trattamento delle altre righe.
 Eseguire dalla radice del progetto, dopo l'audit della stessa run:
 
 ```r
-Rscript scripts/07_prepara_metriche.R bold_raw_v1_rep5
+Rscript scripts/metriche/01_prepara_testi.R bold_raw_v1_rep5
 ```
 
 In RStudio:
 
 ```r
 Sys.setenv(BOLD_METRICS_RUN = "bold_raw_v1_rep5")
-source("scripts/07_prepara_metriche.R")
+source("scripts/metriche/01_prepara_testi.R")
 ```
 
 Lo script legge `output/audit/generazioni/<run>/generazioni_annotate.rds`.
@@ -97,11 +97,11 @@ Un testo francese senza Han passa questo filtro. Non viene applicato un
 classificatore linguistico. `text_preparation_status = prepared` continua a
 indicare solo che il testo completo e' stato costruito, anche per i casi Han.
 
-Il futuro script di scoring deve calcolare i punteggi soltanto sulle righe
+Lo script di scoring calcola i punteggi soltanto sulle righe
 ammesse anche dal controllo di anonimizzazione (`eligible_anonymized_metrics`),
-poi riabbinarli al dataset completo tramite modello, prompt e replica.
+e conserva ordine e chiavi modello, prompt e replica nel dataset completo.
 Le righe escluse devono avere punteggi NA, mai zero o una classe neutra.
-Non vengono ancora create colonne di punteggi in `07`.
+Lo step `scripts/metriche/01_prepara_testi.R` non crea colonne di punteggi.
 
 I risultati di questa prima analisi riguarderanno il sottoinsieme ammesso,
 non l'intera produzione dei modelli. Va riportata la copertura anche per
@@ -188,13 +188,14 @@ passo 07 resta il riferimento a dizionario.
 Questa versione prepara testo completo, copia anonimizzata e screening Han.
 Prima dello scoring occorre verificare i casi segnalati e il campione di
 sostituzioni. Nessun punteggio viene calcolato o
-invertito in base a risposte True/False. Il futuro script `08` sara' dedicato
-al calcolo delle metriche. Un futuro riconoscimento della lingua e la revisione
+invertito in base a risposte True/False. Lo script
+`scripts/metriche/05_misura_metriche.py` calcola le metriche implementate.
+Un futuro riconoscimento della lingua e la revisione
 dei casi Han potranno affinare il criterio iniziale, con una nuova versione.
 
 Test mirato:
 
 ```r
-Rscript scripts/tests/test_preparazione_metriche.R
-Rscript scripts/tests/test_anonimizzazione.R
+Rscript tests/test_preparazione_metriche.R
+Rscript tests/test_anonimizzazione.R
 ```

@@ -1,6 +1,6 @@
 # Prima versione della misurazione
 
-`scripts/08_misura_metriche.py` aggiunge punteggi al dataset completo anonimizzato.
+`scripts/metriche/05_misura_metriche.py` aggiunge punteggi al dataset completo anonimizzato.
 Implementa **sentiment VADER** e **gender unigram matching**. Non implementa ancora
 tossicita', regard, norme psicolinguistiche, Gender-Wavg o Gender-Max; queste
 metriche sono elencate come mancanti nei metadati, senza punteggi fittizi.
@@ -11,8 +11,8 @@ Dalla radice del progetto, nell'ambiente locale gia' usato per il NER:
 
 ```powershell
 .\.venv-ner\Scripts\python.exe -m pip install -r requirements-metrics.txt
-.\.venv-ner\Scripts\python.exe scripts/tests/test_metriche.py
-.\.venv-ner\Scripts\python.exe -u scripts/08_misura_metriche.py --run bold_raw_v1_rep5
+.\.venv-ner\Scripts\python.exe tests/test_metriche.py
+.\.venv-ner\Scripts\python.exe -u scripts/metriche/05_misura_metriche.py --run bold_raw_v1_rep5
 ```
 
 La prima riga installa VADER 3.3.2; non modifica l'ambiente Qwen. Il calcolo

@@ -1,4 +1,4 @@
-# Rscript scripts/tests/test_anonimizzazione.R
+# Rscript tests/test_anonimizzazione.R
 if (dir.exists(".audit-r-library")) .libPaths(c(".audit-r-library", .libPaths()))
 source("R/preparazione_metriche.R")
 source("R/anonimizzazione.R")

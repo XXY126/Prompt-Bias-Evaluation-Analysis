@@ -4,7 +4,7 @@
 #
 # Questo file contiene SOLO definizioni di funzioni.
 # Non esegue nulla direttamente: viene richiamato con source()
-# dagli script in scripts/ (es. scripts/01_caricamento_dati.R)
+# dagli script in scripts/ (es. scripts/dati/01_caricamento_dati.R)
 # ============================================================
 
 #' Appiattisce un singolo file JSON di BOLD in un dataframe

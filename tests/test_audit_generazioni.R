@@ -1,5 +1,5 @@
 # Controlli mirati su Unicode, dati mancanti e abbinamento delle repliche.
-# Rscript scripts/tests/test_audit_generazioni.R
+# Rscript tests/test_audit_generazioni.R
 if (dir.exists(".audit-r-library")) .libPaths(c(".audit-r-library", .libPaths()))
 source("R/audit_generazioni.R")
 df <- data.frame(

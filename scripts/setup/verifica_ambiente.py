@@ -122,7 +122,7 @@ except (FileNotFoundError, subprocess.CalledProcessError):
 
 print_section("DISK")
 
-repo_root = Path(__file__).resolve().parent.parent
+repo_root = Path(__file__).resolve().parents[2]
 
 total, used, free = shutil.disk_usage(repo_root)
 

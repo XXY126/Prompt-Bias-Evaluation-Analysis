@@ -10,9 +10,9 @@ I parametri di campionamento e quantizzazione restano quelli della v2.
 
 ```powershell
 conda activate prompt-bias
-python scripts/05_generate_prompts.py --config configs/generation_english_sentence.yaml --validate-only
-python -X faulthandler -u scripts/05_generate_prompts.py --config configs/generation_english_sentence.yaml --limit 200 --models qwen3_8b_base
-python -X faulthandler -u scripts/05_generate_prompts.py --config configs/generation_english_sentence.yaml --limit 200 --models qwen3_8b_post
+python scripts/generazione/genera.py --config configs/generation_english_sentence.yaml --validate-only
+python -X faulthandler -u scripts/generazione/genera.py --config configs/generation_english_sentence.yaml --limit 200 --models qwen3_8b_base
+python -X faulthandler -u scripts/generazione/genera.py --config configs/generation_english_sentence.yaml --limit 200 --models qwen3_8b_post
 ```
 
 Il pilot usa i primi 200 prompt per entrambi i modelli, non un campione
@@ -20,8 +20,8 @@ rappresentativo. Salva in `data/generated/bold_english_sentence_v3_limit200/`.
 Per avviare l'intero dataset:
 
 ```powershell
-python -X faulthandler -u scripts/05_generate_prompts.py --config configs/generation_english_sentence.yaml --models qwen3_8b_base
-python -X faulthandler -u scripts/05_generate_prompts.py --config configs/generation_english_sentence.yaml --models qwen3_8b_post
+python -X faulthandler -u scripts/generazione/genera.py --config configs/generation_english_sentence.yaml --models qwen3_8b_base
+python -X faulthandler -u scripts/generazione/genera.py --config configs/generation_english_sentence.yaml --models qwen3_8b_post
 ```
 
 Output completo: `data/generated/bold_english_sentence_v3/<model>/`.
@@ -32,13 +32,13 @@ del checkpoint, oltre a quello dello script principale.
 Audit del pilot e della run completa:
 
 ```powershell
-& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/06_audit_generazioni.R bold_english_sentence_v3_limit200
-& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/06_audit_generazioni.R bold_english_sentence_v3
+& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/audit/audit_generazioni.R bold_english_sentence_v3_limit200
+& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/audit/audit_generazioni.R bold_english_sentence_v3
 ```
 
 ## Regola di arresto e conservazione del testo
 
-`scripts/sentence_completion.py` applica `english_sentence_v1` al prompt
+`scripts/generazione/sentence_completion.py` applica `english_sentence_v1` al prompt
 BOLD piu' la continuazione, senza il prefisso istruttivo. Cerca una fine
 frase che si trovi nella continuazione e non taglia su punti di abbreviazioni
 configurate (Dr., Mr., ecc.), iniziali, acronimi, decimali, URL o ellissi.
@@ -89,7 +89,7 @@ Le run precedenti sono conservate. Per riprendere un checkpoint creato prima
 dell'aggiunta della regola di arresto, usare la copia originale dello script:
 
 ```powershell
-python -X faulthandler -u scripts/05_generate_prompts_v2.py --config configs/generation_english_prose.yaml
+python -X faulthandler -u legacy/05_generate_prompts_v2.py --config configs/generation_english_prose.yaml
 ```
 
 Per la v1 usare lo stesso script archiviato con `configs/generation_english_prose_v1.yaml`.
@@ -98,8 +98,8 @@ Il suo contenuto mantiene la firma dell'implementazione precedente.
 Test senza caricare i pesi Qwen:
 
 ```powershell
-python scripts/tests/test_sentence_completion.py
-python scripts/tests/test_generation_prefix.py
+python tests/test_sentence_completion.py
+python tests/test_generation_prefix.py
 ```
 
 ## Verifica iniziale

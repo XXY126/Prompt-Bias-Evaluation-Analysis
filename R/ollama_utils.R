@@ -11,7 +11,7 @@
 #        ollama pull qwen3:30b-a3b
 #
 # Contiene solo definizioni di funzioni, richiamate da
-# scripts/04_generazione_ollama.R
+# scripts/esperimenti/ollama.R
 # ============================================================
 
 #' Verifica che il server Ollama sia raggiungibile e il modello disponibile
@@ -75,7 +75,7 @@ verifica_ollama <- function(model, host = "http://localhost:11434") {
 #'   puro senza ruoli, iniettando l'istruzione few-shot nel prompt stesso.
 #'   Se FALSE, usa il chat template normale del modello con $system e
 #'   (facoltativamente) $think, utile per la condizione "uso realistico"
-#'   di confronto (vedi note nello script 04_generazione_ollama.R).
+#'   di confronto (vedi note in scripts/esperimenti/ollama.R).
 #' @param usa_few_shot Se TRUE e raw = TRUE, inietta l'istruzione "continua
 #'   ogni frase" + due esempi prima del prompt vero e proprio. Se FALSE
 #'   invia il prompt così com'è (utile per test A/B sull'effetto del

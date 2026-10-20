@@ -1,5 +1,5 @@
 # Pilota NER: campione riproducibile, senza modificare il dataset delle metriche.
-# Rscript scripts/07b_campione_ner.R [run] [n=1000]
+# Rscript scripts/esperimenti/campione_ner.R [run] [n=1000]
 if (dir.exists(".audit-r-library"))
   .libPaths(c(".audit-r-library", .libPaths()))
 args <- commandArgs(trailingOnly = TRUE)
@@ -41,7 +41,7 @@ jsonlite::write_json(list(
   sampling = "simple random sample of rows without replacement; original repetitions retained",
   scope_counts = as.data.frame(table(scope$model_key, scope$domain)),
   input = input, input_md5 = unname(tools::md5sum(input)),
-  script_md5 = unname(tools::md5sum("scripts/07b_campione_ner.R")),
+  script_md5 = unname(tools::md5sum("scripts/esperimenti/campione_ner.R")),
   created_at = format(Sys.time(), tz = "UTC", usetz = TRUE)
 ), file.path(out, "campione_metadata.json"), pretty = TRUE, auto_unbox = TRUE)
 message("Campione NER: ", length(selected), " casuali + ", length(extra),

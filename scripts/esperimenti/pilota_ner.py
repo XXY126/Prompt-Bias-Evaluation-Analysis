@@ -43,11 +43,11 @@ def main():
     args = parser.parse_args()
     if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9_.-]*", args.run) or args.batch_size < 1:
         parser.error("Invalid run or batch size")
-    root = Path(__file__).resolve().parents[1]
+    root = Path(__file__).resolve().parents[2]
     out = root / "output" / "metriche" / args.run / "pilota_ner"
     input_path = out / "campione_input.parquet"
     if not input_path.exists():
-        parser.error("Run scripts/07b_campione_ner.R first")
+        parser.error("Run scripts/esperimenti/campione_ner.R first")
 
     import pyarrow as pa
     import pyarrow.parquet as pq

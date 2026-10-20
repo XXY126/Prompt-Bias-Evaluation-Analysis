@@ -45,13 +45,13 @@ Nessuna metrica viene calcolata in questo passaggio.
 
 ## Esecuzione (dalla radice del progetto)
 
-Prerequisiti: esecuzione di `07_prepara_metriche.R` e ambiente `.venv-ner`
+Prerequisiti: esecuzione di `scripts/metriche/01_prepara_testi.R` e ambiente `.venv-ner`
 installato come in [pilota_ner.md](pilota_ner.md).
 
 ```powershell
-& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/07d_prepara_ner_completo.R bold_raw_v1_rep5
-.\.venv-ner\Scripts\python.exe -u scripts/07e_ner_completo.py --run bold_raw_v1_rep5
-& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/07f_combina_anonimizzazione.R bold_raw_v1_rep5
+& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/metriche/02_prepara_ner.R bold_raw_v1_rep5
+.\.venv-ner\Scripts\python.exe -u scripts/metriche/03_esegui_ner.py --run bold_raw_v1_rep5
+& 'C:/Program Files/R/R-4.6.1/bin/Rscript.exe' scripts/metriche/04_combina_anonimizzazione.R bold_raw_v1_rep5
 ```
 
 R prepara le righe e combina i risultati; Python carica ed esegue il modello
